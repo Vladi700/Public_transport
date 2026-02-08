@@ -1,0 +1,267 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Los Angeles,8565,7th Street/Metro Center,34.0486686,-118.2586637,light_rail,1991.0
+Los Angeles,8568,Pico,34.0407563,-118.2660609,light_rail,1990.0
+Los Angeles,8572,Vernon,34.0030227,-118.243272,light_rail,1990.0
+Los Angeles,8574,Grand/LATTC,34.0332079,-118.2693483,light_rail,1990.0
+Los Angeles,8575,LATTC/Ortho Institute,34.029217,-118.2734912,light_rail,2012.0
+Los Angeles,8577,San Pedro Street,34.0268777,-118.2555656,light_rail,1990.0
+Los Angeles,8578,Washington,34.019784,-118.2430368,light_rail,1990.0
+Los Angeles,8580,Florence,33.9738422,-118.243246,light_rail,1990.0
+Los Angeles,8582,Slauson,33.9888756,-118.243354,light_rail,1990.0
+Los Angeles,8585,103rd Street/Watts Towers,33.9423486,-118.2431255,light_rail,1990.0
+Los Angeles,8587,Willowbrook,33.9281239,-118.2375452,light_rail,1990.0
+Los Angeles,8588,Firestone,33.9597198,-118.2431616,light_rail,1990.0
+Los Angeles,8590,Compton,33.897636,-118.2242379,light_rail,1990.0
+Los Angeles,8591,Artesia,33.8762349,-118.222529,light_rail,1990.0
+Los Angeles,8593,Del Amo,33.8482786,-118.2109869,light_rail,1990.0
+Los Angeles,8596,Wardlow,33.8199253,-118.1960927,light_rail,1990.0
+Los Angeles,8597,Pacific Coast Highway,33.7891863,-118.1893406,light_rail,1990.0
+Los Angeles,8599,Willow Street,33.8071679,-118.1898467,light_rail,1990.0
+Los Angeles,8602,Anaheim Street,33.782057,-118.1893438,light_rail,1990.0
+Los Angeles,8604,1st Street,33.7685852,-118.1893666,light_rail,1990.0
+Los Angeles,8605,Downtown Long Beach,33.7680675,-118.1929576,light_rail,1990.0
+Los Angeles,8606,Pacific Avenue,33.7724945,-118.1937098,light_rail,1990.0
+Los Angeles,8607,5th Street,33.7734501,-118.1894091,light_rail,1990.0
+Los Angeles,8609,Jefferson / USC,34.0222472,-118.2780229,light_rail,2012.0
+Los Angeles,8610,Expo/Vermont,34.0182194,-118.2906791,light_rail,2012.0
+Los Angeles,8612,Expo/Western,34.0183003,-118.3076978,light_rail,2012.0
+Los Angeles,8616,Farmdale,34.0239896,-118.3466525,light_rail,2012.0
+Los Angeles,8617,Expo/Crenshaw,34.0226892,-118.3361148,light_rail,2012.0
+Los Angeles,8618,Expo Park/USC,34.0182155,-118.2854611,light_rail,2012.0
+Los Angeles,8620,Expo/La Brea,34.024749,-118.3549711,light_rail,2012.0
+Los Angeles,8622,La Cienega/Jefferson,34.0262988,-118.3718972,light_rail,2012.0
+Los Angeles,8624,Culver City,34.0278145,-118.3886171,light_rail,2012.0
+Los Angeles,8626,Palms,34.0292512,-118.4039883,light_rail,2016.0
+Los Angeles,8629,Expo/Sepulveda,34.0354021,-118.4339878,light_rail,2016.0
+Los Angeles,8631,Westwood/Rancho Park,34.0368073,-118.4244022,light_rail,2016.0
+Los Angeles,8632,Expo/Bundy,34.0316922,-118.4527184,light_rail,2016.0
+Los Angeles,8634,Downtown Santa Monica,34.0140227,-118.4913716,light_rail,2016.0
+Los Angeles,8636,17th Street/Santa Monica College,34.0231296,-118.4803522,light_rail,2016.0
+Los Angeles,8639,26th Street/Bergamot,34.0280103,-118.4690182,light_rail,2016.0
+Los Angeles,8640,Westlake/MacArthur Park,34.0567711,-118.2759007,heavy_rail,1993.0
+Los Angeles,8641,Civic Center/Grand Park,34.0550545,-118.2460654,heavy_rail,1993.0
+Los Angeles,8642,Wilshire/Vermont,34.062655,-118.2905756,heavy_rail,1996.0
+Los Angeles,8643,7th Street/Metro Center,34.048747,-118.2586794,heavy_rail,1993.0
+Los Angeles,8645,Union Station,34.0563206,-118.2349498,heavy_rail,1993.0
+Los Angeles,8646,Pershing Square,34.0494692,-118.2510992,heavy_rail,1993.0
+Los Angeles,8648,Vermont/Beverly,34.0763482,-118.291742,heavy_rail,1999.0
+Los Angeles,8649,Vermont/Santa Monica,34.0908334,-118.2917024,heavy_rail,1999.0
+Los Angeles,8650,Hollywood/Western,34.1016867,-118.3092033,heavy_rail,1999.0
+Los Angeles,8651,Wilshire/Normandie,34.0616353,-118.3009017,heavy_rail,1996.0
+Los Angeles,8652,Wilshire/Western,34.0616024,-118.3088699,heavy_rail,1996.0
+Los Angeles,8653,Hollywood/Highland,34.1016863,-118.3392014,heavy_rail,2000.0
+Los Angeles,8654,Hollywood/Vine,34.1016156,-118.3255283,heavy_rail,1999.0
+Los Angeles,8655,North Hollywood,34.1686189,-118.3767776,heavy_rail,2000.0
+Los Angeles,8656,Vermont/Sunset,34.0981497,-118.2917025,heavy_rail,1999.0
+Los Angeles,8657,Universal City/Studio City,34.13851365555091,-118.36249832468596,heavy_rail,2000.0
+Los Angeles,32621,Indiana,34.034622,-118.1921421,light_rail,2009.0
+Los Angeles,32622,Soto,34.0440848,-118.2105885,light_rail,2009.0
+Los Angeles,32623,Pico/Aliso,34.0477136,-118.2264831,light_rail,2009.0
+Los Angeles,32624,Mariachi Plaza,34.0472646,-118.2198784,light_rail,2009.0
+Los Angeles,32625,East Los Angeles Civic Center,34.0333951,-118.1616424,light_rail,2009.0
+Los Angeles,32626,Maravilla,34.03334,-118.1686065,light_rail,2009.0
+Los Angeles,32627,Atlantic,34.0334253,-118.154036,light_rail,2009.0
+Los Angeles,32628,Union Station,34.05599618511474,-118.2347734569792,light_rail,2003.0
+Los Angeles,32629,Chinatown,34.063934975588985,-118.23583228080273,light_rail,2003.0
+Los Angeles,32630,Lincoln/Cypress,34.081114576940806,-118.22021783797362,light_rail,2003.0
+Los Angeles,32631,Heritage Square,34.08735227589041,-118.21312244170534,light_rail,2003.0
+Los Angeles,32633,Southwest Museum,34.09845386335187,-118.20642888277985,light_rail,2003.0
+Los Angeles,32634,Highland Park,34.11137307405139,-118.19229366302646,light_rail,2003.0
+Los Angeles,32635,South Pasadena,34.11527653941923,-118.15782100321968,light_rail,2003.0
+Los Angeles,32636,Fillmore,34.13351875674145,-118.14811459454506,light_rail,2003.0
+Los Angeles,32637,Del Mar,34.142055739472625,-118.14821386162086,light_rail,2003.0
+Los Angeles,32638,Memorial Park,34.148636143493235,-118.14743269542534,light_rail,2003.0
+Los Angeles,32639,Lake,34.151832116283416,-118.13143098300066,light_rail,2003.0
+Los Angeles,32640,Allen,34.15243153716908,-118.11389338764042,light_rail,2003.0
+Los Angeles,32641,Sierra Madre Villa,34.1477356,-118.0807891,light_rail,2003.0
+Los Angeles,32642,Arcadia,34.14285132154091,-118.0291324194999,light_rail,2016.0
+Los Angeles,32643,Duarte/City of Hope,34.1325431391024,-117.96726751327728,light_rail,2016.0
+Los Angeles,32644,Monrovia,34.13306643414466,-118.00306652448926,light_rail,2016.0
+Los Angeles,32646,Irwindale,34.129149179086504,-117.93205495092602,light_rail,2016.0
+Los Angeles,32647,Azusa Downtown,34.136037932702365,-117.9062449994106,light_rail,2016.0
+Los Angeles,32648,APU/Citrus College,34.1368232,-117.8912677,light_rail,2016.0
+Los Angeles,32649,Avalon,33.9274313,-118.2647582,light_rail,1995.0
+Los Angeles,32650,Harbor Freeway,33.928633,-118.2806697,light_rail,1995.0
+Los Angeles,32651,Vermont/Athens,33.928649,-118.2913332,light_rail,1995.0
+Los Angeles,32653,Crenshaw,33.925192,-118.3261078,light_rail,1995.0
+Los Angeles,32654,Willowbrook/Rosa Parks,33.9281929,-118.2377243,light_rail,1995.0
+Los Angeles,32655,Long Beach Boulevard,33.9246772,-118.2095864,light_rail,1995.0
+Los Angeles,32656,Lakewood Boulevard,33.9130423,-118.1401022,light_rail,1995.0
+Los Angeles,32657,Norwalk,33.9140284,-118.1044662,light_rail,1995.0
+Los Angeles,32658,Mariposa,33.9234193,-118.3875361,light_rail,1995.0
+Los Angeles,32659,El Segundo,33.91656,-118.387097,light_rail,1995.0
+Los Angeles,32660,Aviation/LAX,33.9295802,-118.3769007,light_rail,1995.0
+Los Angeles,32661,Douglas,33.9055031,-118.3833191,light_rail,1995.0
+Los Angeles,32662,Redondo Beach,33.8944653,-118.3688659,light_rail,1995.0
+Los Angeles,32665,North Hollywood,34.1687695,-118.3777577,brt,2005.0
+Los Angeles,32666,Laurel Canyon,34.168524043696436,-118.39649795628247,brt,2005.0
+Los Angeles,32667,Woodman/Valley Glen,34.1791715,-118.4297467,brt,2005.0
+Los Angeles,32668,Valley College,34.1729521,-118.4230485,brt,2005.0
+Los Angeles,32669,Van Nuys,34.1805642,-118.4483827,brt,2005.0
+Los Angeles,32671,Sepulveda,34.1807214,-118.4686253,brt,2005.0
+Los Angeles,32672,Woodley,34.1862566,-118.4844912,brt,2005.0
+Los Angeles,32673,Balboa,34.1859275,-118.5007828,brt,2005.0
+Los Angeles,32674,Reseda,34.18039491797086,-118.53601291195875,brt,2005.0
+Los Angeles,32675,Tampa,34.1812812480756,-118.55347355252165,brt,2005.0
+Los Angeles,32676,Pierce College,34.1871749701118,-118.57096194038269,brt,2005.0
+Los Angeles,32677,De Soto,34.18865952628807,-118.58845160022871,brt,2005.0
+Los Angeles,32680,Canoga,34.1905199,-118.5965892,brt,2005.0
+Los Angeles,32681,Canoga,34.1909766,-118.5962359,brt,2012.0
+Los Angeles,32682,Sherman Way,34.2006608,-118.5971477,brt,2012.0
+Los Angeles,32683,Roscoe,34.219788351783116,-118.5972205,brt,2012.0
+Los Angeles,32684,Nordhoff,34.235462161446065,-118.59725122983875,brt,2012.0
+Los Angeles,32685,Chatsworth,34.2520068,-118.5993153,brt,2012.0
+Los Angeles,32686,,34.1803386,-118.6014933,brt,2005.0
+Los Angeles,32687,Harbor Freeway,33.929043,-118.2808203,brt,2009.0
+Los Angeles,32689,Rosecrans,33.9022151,-118.2865997,brt,2009.0
+Los Angeles,32690,Harbor Gateway Transit Center,33.8688289,-118.2877946,brt,2009.0
+Los Angeles,32691,Manchester,33.9604286,-118.2808007,brt,2009.0
+Los Angeles,32692,Slauson,33.9889734,-118.2804907,brt,2009.0
+Los Angeles,32693,37th Street/USC,34.0180593,-118.27995,brt,2009.0
+Los Angeles,32694,Flower Street & Adams Boulevard,34.0274493,-118.2750441,brt,2009.0
+Los Angeles,32695,Flower Street & 23rd Street,34.0303335,-118.2729643,brt,2009.0
+Los Angeles,32696,Flower Street & Washington Boulevard,34.033587,-118.2710611,brt,2009.0
+Los Angeles,32697,Flower Street & Pico Boulevard,34.0398297,-118.2670313,brt,2009.0
+Los Angeles,32698,Flower Street & Olympic Boulevard,34.0441378,-118.2630269,brt,2009.0
+Los Angeles,32699,Flower Street & 7th Street,34.0483016,-118.2591465,brt,2009.0
+Los Angeles,32700,Grand Avenue & 5th Street,34.0498584,-118.2542485,brt,2009.0
+Los Angeles,32701,Grand Avenue & 3rd Street,34.0525537,-118.2517912,brt,2009.0
+Los Angeles,32702,1st Street & Hill Street,34.0545656,-118.2469834,brt,2009.0
+Los Angeles,32703,Spring Street & Temple Street,34.0541916,-118.2433081,brt,2009.0
+Los Angeles,32704,Arcadia Street & Los Angeles Street,34.0551748,-118.2390115,brt,2009.0
+Los Angeles,32705,HOV Roadway & Adams Boulevard,34.0285646,-118.274761,brt,2009.0
+Los Angeles,32708,Figueroa Street & 23rd Street,34.0310551,-118.2741695,brt,2009.0
+Los Angeles,32710,Figueroa Street & Pico Boulevard,34.0404672,-118.268165,brt,2009.0
+Los Angeles,32711,Figueroa Street & Olympic Boulevard,34.0453256,-118.2636643,brt,2009.0
+Los Angeles,32712,Figueroa Street & 7th Street,34.0496756,-118.2596255,brt,2009.0
+Los Angeles,32713,6th Street & Flower Street,34.0499674,-118.2571895,brt,2009.0
+Los Angeles,32714,Olive Street & General Thaddeus Kosciuszko Way,34.0533892,-118.249226,brt,2009.0
+Los Angeles,32715,Olive Street & 5th Street,34.0496545,-118.2526838,brt,2009.0
+Los Angeles,32716,Aliso Street & Los Angeles Street,34.0549354,-118.2397658,brt,2009.0
+Los Angeles,32717,LA County+USC Medical Center,34.0554834,-118.2104612,brt,2009.0
+Los Angeles,32718,Cal State LA,34.0625285,-118.1680592,brt,2009.0
+Los Angeles,32721,El Monte Station,34.0720301,-118.0446777,brt,2009.0
+Los Angeles,32722,Moorpark,34.2849017,-118.8781239,commuter_rail,1992.0
+Los Angeles,32723,Simi Valley,34.2708799,-118.696492,commuter_rail,1992.0
+Los Angeles,32724,Chatsworth,34.2535009,-118.5995048,commuter_rail,1992.0
+Los Angeles,32726,Northridge,34.2308218,-118.5458227,commuter_rail,1992.0
+Los Angeles,32729,Van Nuys,34.2114588,-118.4474536,commuter_rail,1992.0
+Los Angeles,32730,Burbank Airport–South,34.1929783,-118.3538381,commuter_rail,1992.0
+Los Angeles,32731,Burbank Airport–North,34.2070741,-118.3509803,commuter_rail,2018.0
+Los Angeles,32734,Sun Valley,34.2218686,-118.3727019,commuter_rail,2001.0
+Los Angeles,32735,Downtown Burbank,34.1794333,-118.313289,commuter_rail,1992.0
+Los Angeles,32736,Glendale,34.1249319,-118.2602555,commuter_rail,1992.0
+Los Angeles,32738,Los Angeles Union Station,34.0544842,-118.2349866,commuter_rail,1992.0
+Los Angeles,32739,Camarillo,34.216792,-119.0332605,commuter_rail,1994.0
+Los Angeles,32740,Oxnard,34.200032,-119.1762015,commuter_rail,1994.0
+Los Angeles,32741,East Ventura,34.2505662,-119.2038664,commuter_rail,2002.0
+Los Angeles,32742,Santa Clarita,34.4136337,-118.5256197,commuter_rail,1992.0
+Los Angeles,32743,Newhall,34.3807082,-118.5277793,commuter_rail,2000.0
+Los Angeles,32744,Sylmar/San Fernando,34.292131,-118.4496703,commuter_rail,1994.0
+Los Angeles,32745,Los Angeles Union Station,34.0543449,-118.2343827,commuter_rail,1992.0
+Los Angeles,32747,Los Angeles Union Station,34.054471,-118.2348866,commuter_rail,1992.0
+Los Angeles,32748,Via Princessa,34.4090378,-118.4710696,commuter_rail,1994.0
+Los Angeles,32749,Vincent Grade/Acton,34.4971943,-118.1186577,commuter_rail,1994.0
+Los Angeles,32750,Palmdale,34.5900669,-118.1191553,commuter_rail,1994.0
+Los Angeles,32751,Lancaster,34.6979524,-118.1362883,commuter_rail,1994.0
+Los Angeles,32752,Claremont,34.0939597,-117.7169207,commuter_rail,1992.0
+Los Angeles,32753,Pomona–North,34.093704,-117.7549306,commuter_rail,1992.0
+Los Angeles,32754,Covina,34.0921163,-117.8896471,commuter_rail,1992.0
+Los Angeles,32755,Baldwin Park,34.0869623,-117.9569877,commuter_rail,1993.0
+Los Angeles,32756,El Monte,34.0762973,-118.0348155,commuter_rail,1992.0
+Los Angeles,32757,Cal State LA,34.0626607,-118.1681496,commuter_rail,1994.0
+Los Angeles,32759,Upland,34.0944135,-117.6482629,commuter_rail,1993.0
+Los Angeles,32761,Montclair,34.0939667,-117.6969013,commuter_rail,1993.0
+Los Angeles,32763,Rancho Cucamonga,34.0919481,-117.5598706,commuter_rail,1994.0
+Los Angeles,32764,Fontana,34.0950795,-117.438854,commuter_rail,1993.0
+Los Angeles,32765,Rialto,34.0967166,-117.3732525,commuter_rail,1993.0
+Los Angeles,32768,San Bernardino Depot,34.1044172,-117.3094121,commuter_rail,1993.0
+Los Angeles,32769,San Bernardino–Downtown,34.0997589,-117.2948459,commuter_rail,2017.0
+Los Angeles,32789,Montebello/Commerce,34.0069499,-118.1246419,commuter_rail,1993.0
+Los Angeles,32790,Industry,34.0082423,-117.8448582,commuter_rail,1993.0
+Los Angeles,32791,Downtown Pomona,34.0589241,-117.751031,commuter_rail,1993.0
+Los Angeles,32792,East Ontario,34.0395488,-117.5788175,commuter_rail,1993.0
+Los Angeles,32795,Pedley,33.9776456,-117.4762412,commuter_rail,1993.0
+Los Angeles,32796,Riverside–Downtown,33.9764556,-117.3692401,commuter_rail,1993.0
+Los Angeles,32797,Riverside–Downtown,33.974674,-117.3702395,commuter_rail,1995.0
+Los Angeles,32798,Los Angeles Union Station,34.0543788,-118.2345685,commuter_rail,1990.0
+Los Angeles,32799,Commerce,33.9908166,-118.1438198,commuter_rail,1990.0
+Los Angeles,32800,Norwalk/Santa Fe Springs,33.916367314789085,-118.06010081683988,commuter_rail,1995.0
+Los Angeles,32801,Buena Park,33.8756932,-117.9870545,commuter_rail,2007.0
+Los Angeles,32802,Fullerton,33.8685577,-117.9215112,commuter_rail,1990.0
+Los Angeles,32803,Anaheim,33.8034512,-117.8814668,commuter_rail,1990.0
+Los Angeles,32804,Orange,33.7883124,-117.8575127,commuter_rail,1990.0
+Los Angeles,32805,Santa Ana,33.7517727,-117.8559871,commuter_rail,1990.0
+Los Angeles,32806,Tustin,33.7075177,-117.8052658,commuter_rail,2002.0
+Los Angeles,32808,Irvine,33.6566884,-117.7323711,commuter_rail,1990.0
+Los Angeles,32809,Laguna Niguel/Mission Viejo,33.5525804,-117.6742363,commuter_rail,2002.0
+Los Angeles,32810,San Juan Capistrano,33.5019128,-117.664124,commuter_rail,1990.0
+Los Angeles,32811,San Clemente,33.4323619,-117.6333339,commuter_rail,1995.0
+Los Angeles,32812,Oceanside,33.1932686,-117.3805641,commuter_rail,1994.0
+Los Angeles,32817,Riverside–La Sierra,33.9003495,-117.4691508,commuter_rail,1995.0
+Los Angeles,32818,Corona–North Main,33.881821,-117.5624282,commuter_rail,1995.0
+Los Angeles,32819,Corona–West,33.8859376,-117.6130572,commuter_rail,1995.0
+Los Angeles,32820,Anaheim Canyon,33.8548994,-117.8403925,commuter_rail,1995.0
+Los Angeles,32844,Riverside–Hunter Park/UCR,33.998441,-117.3344209,commuter_rail,2016.0
+Los Angeles,32845,Moreno Valley/March Field,33.9133197,-117.2878689,commuter_rail,2016.0
+Los Angeles,32846,Downtown Perris,33.782971,-117.2295019,commuter_rail,2016.0
+Los Angeles,32847,South Perris,33.7623876,-117.203063,commuter_rail,2016.0
+Los Angeles,34490,Westchester/Veterans,33.962017138930335,-118.37442196079448,light_rail,2022.0
+Los Angeles,34491,	Grand Av Arts/Bunker Hill,34.054963923502015,-118.2519179829088,light_rail,2023.0
+Los Angeles,34492,Historic Broadway,34.05242784801,-118.24662094910573,light_rail,2023.0
+Los Angeles,34493,Little Tokyo/Arts District,34.04890780866913,-118.23886711736705,light_rail,2023.0
+Los Angeles,34494,Downtown Inglewood,33.96693862404976,-118.35130372957389,light_rail,2022.0
+Los Angeles,34495,Fairview Heights,33.975366938999706,-118.3358709404265,light_rail,2022.0
+Los Angeles,34496,Hyde Park,33.98857935710976,-118.33090860730279,light_rail,2022.0
+Los Angeles,34497,Leimert Park,34.00470386088976,-118.33287219571146,light_rail,2022.0
+Los Angeles,34498,Martin Luther King Jr.,34.010291352908936,-118.33512550993018,light_rail,2022.0
+Los Angeles,34499,Expo/Crenshaw,34.022392322252514,-118.33512989241419,light_rail,2022.0
+Los Angeles,34500,Wilshire/La Brea,34.06222333082859,-118.34459346188817,heavy_rail,2024.0
+Los Angeles,34501,Wilshire/Fairfax,34.062856649626625,-118.3599833498713,heavy_rail,2024.0
+Los Angeles,34502,Wilshire/La Cienega,34.06486958172867,-118.37491412779457,heavy_rail,2024.0
+Los Angeles,34503,Wilshire/Rodeo,34.06701699309069,-118.39829163209075,heavy_rail,2025.0
+Los Angeles,34504,Century City/Constellation,34.05708862481646,-118.41792277965959,heavy_rail,2025.0
+Los Angeles,34505,Westwood/UCLA,34.058242630282166,-118.44578066414226,heavy_rail,2027.0
+Los Angeles,34506,Westwood/VA Hospital,34.054719411827406,-118.45431535946496,heavy_rail,2027.0
+Los Angeles,34507,LAX/Metro Transit Center,33.94551232586571,-118.37878054649917,light_rail,2024.0
+Los Angeles,34508,CONRAC,33.94954281070768,-118.37461344770841,people_mover,2023.0
+Los Angeles,34509,East ITF,33.94958154153895,-118.37852631259136,people_mover,2023.0
+Los Angeles,34510,West ITF,33.94955621730493,-118.39001403954485,people_mover,2023.0
+Los Angeles,34511,West CTA,33.94387913337431,-118.40748300820192,people_mover,2023.0
+Los Angeles,34512,Center CTA,33.944344362299915,-118.40371666032041,people_mover,2023.0
+Los Angeles,34513,East CTA,33.944418577327326,-118.39974783947396,people_mover,2023.0
+Los Angeles,34514,Van Nuys/MOL,34.180692989503925,-118.44872987240512,light_rail,2028.0
+Los Angeles,34515,Victory,34.18683398746137,-118.44867878734911,light_rail,2028.0
+Los Angeles,34516,Vanowen,34.1942061057221,-118.44868788527012,light_rail,2028.0
+Los Angeles,34517,Sherman Way,34.20148225238029,-118.44871212608975,light_rail,2028.0
+Los Angeles,34518,Van Nuys/Metrolink,34.21230915276327,-118.44878113338348,light_rail,2028.0
+Los Angeles,34519,Roscoe,34.22426565279328,-118.44879495704711,light_rail,2028.0
+Los Angeles,34520,Nordhoff,34.2351284003463,-118.45019903392065,light_rail,2028.0
+Los Angeles,34521,Woodman,34.24641069488567,-118.44894828760226,light_rail,2028.0
+Los Angeles,34522,Arleta,34.25343930568819,-118.43943520080471,light_rail,2028.0
+Los Angeles,34523,Laurel Canyon,34.258695951235566,-118.43228300278037,light_rail,2028.0
+Los Angeles,34524,Van Nuys/San Fernando,34.26695096499709,-118.42189455193557,light_rail,2028.0
+Los Angeles,34525,Paxton,34.27275818969561,-118.42791988625541,light_rail,2028.0
+Los Angeles,34526,Maclay,34.28397375231043,-118.43982293269119,light_rail,2028.0
+Los Angeles,34527,Sylmar/San Fernando,34.29258227348211,-118.44894964074453,light_rail,2028.0
+Los Angeles,34528,Glendora,34.13226052660896,-117.86687868779313,light_rail,2025.0
+Los Angeles,34529,San Dimas,34.10619103785463,-117.8098595678231,light_rail,2025.0
+Los Angeles,34530,La Verne,34.098051048468136,-117.77110859395157,light_rail,2025.0
+Los Angeles,34531,Pomona,34.09411172587424,-117.75485707568785,light_rail,2025.0
+Los Angeles,34532,Harbor Transit Center,33.76025847023418,-117.91974912594517,tram,2024.0
+Los Angeles,34533,Fairview,33.75113504328134,-117.9038368652541,tram,2024.0
+Los Angeles,34534,Raitt,33.74785219622895,-117.89336144107746,tram,2024.0
+Los Angeles,34535,Bristol,33.747899699570425,-117.88495122346025,tram,2024.0
+Los Angeles,34536,Flower,33.7479442159147,-117.87649172527432,tram,2024.0
+Los Angeles,34537,Santa Ana,33.751623967257274,-117.85738220477779,tram,2024.0
+Los Angeles,34538,Lacy,33.750919075514716,-117.86135153028181,tram,2024.0
+Los Angeles,34539,Downtown,33.74973122265262,-117.86863650277836,tram,2024.0
+Los Angeles,34540,Downtown,33.748023041968594,-117.86864848281388,tram,2024.0
+Los Angeles,34541,French,33.74971852213797,-117.86454340004931,tram,2024.0
+Los Angeles,34542,French,33.7480097086559,-117.86454340004931,tram,2024.0
+Los Angeles,34543,Ross,33.74913176467773,-117.87234376106159,tram,2024.0
+Los Angeles,34544,Ross,33.748030296933464,-117.87238090223906,tram,2024.0
+Los Angeles,34545,Tippecanoe Avenue,34.07355960130698,-117.26098951256719,commuter_rail,2022.0
+Los Angeles,34546,Esri,34.059778715501935,-117.19535797084242,commuter_rail,2022.0
+Los Angeles,34547,Downtown Redlands,34.059029652870294,-117.18324353082522,commuter_rail,2022.0
+Los Angeles,34548,University of Redlands,34.05896227673168,-117.16492100444859,commuter_rail,2022.0

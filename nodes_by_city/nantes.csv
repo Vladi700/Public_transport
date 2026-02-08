@@ -1,0 +1,266 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Nantes,3669,Haluchère,47.24812942208612,-1.521173434559444,light_rail,1985.0
+Nantes,3703,Égalité,47.209040024359325,-1.587795928106715,light_rail,1985.0
+Nantes,3704,Croix Bonneau,47.209612485492926,-1.597672859356837,light_rail,1985.0
+Nantes,3706,Romanet,47.21069508462716,-1.608676915104615,light_rail,1985.0
+Nantes,3750,Jamet,47.210043465030054,-1.602940490791354,light_rail,2007.0
+Nantes,4023,Commerce,47.21437420494535,-1.555764394571727,light_rail,1992.0
+Nantes,4046,Pirmil,47.19619772327462,-1.54272826318325,light_rail,1994.0
+Nantes,4047,Pont Rousseau,47.191874599946544,-1.548307741954801,light_rail,1994.0
+Nantes,4050,Pont-Rousseau Martyrs,47.19187462621255,-1.548307035301804,light_rail,2007.0
+Nantes,4051,8 Mai,47.1893426554295,-1.551530419889474,light_rail,1994.0
+Nantes,4052,Balinière,47.18613301444344,-1.553926612392814,light_rail,1994.0
+Nantes,4053,Château de Rezé F. Mitterrand,47.184756723362284,-1.559534807300537,light_rail,1994.0
+Nantes,4054,Espace Diderot,47.18444367501843,-1.562540438359605,light_rail,1994.0
+Nantes,4057,Espace Diderot,47.18444413122879,-1.562541587815019,light_rail,2007.0
+Nantes,4058,Château de Rezé F. Mitterrand,47.18475563719724,-1.559534460800421,light_rail,2007.0
+Nantes,4059,Balinière,47.18613438898987,-1.553929704836662,light_rail,2007.0
+Nantes,4060,8 Mai,47.18934275483403,-1.551529723402069,light_rail,2007.0
+Nantes,4061,Pirmil,47.19619755043193,-1.542727339132971,light_rail,2007.0
+Nantes,4062,Mangin,47.20169900152672,-1.545060969765643,light_rail,2007.0
+Nantes,4063,Wattignies,47.203957993307654,-1.54648362259573,light_rail,2007.0
+Nantes,4064,Vincent Gâche,47.20647093128508,-1.548274137846079,light_rail,2007.0
+Nantes,4065,Aimé Delrue,47.20912433899741,-1.550256827126532,light_rail,2007.0
+Nantes,4066,Hôtel-Dieu,47.21186896146497,-1.55332134165252,light_rail,2000.0
+Nantes,4067,Commerce,47.21464400558153,-1.555948483621506,light_rail,2000.0
+Nantes,4085,Foch-Cathédrale,47.21931080863018,-1.550393731348322,brt,2006.0
+Nantes,4086,Duchesse Anne - Château,47.21614881674303,-1.546912097127032,brt,2006.0
+Nantes,4087,Cité internationale des congrès,47.21365659152036,-1.54503636668835,brt,2006.0
+Nantes,4088,Tripode,47.20831328590123,-1.540650577219225,brt,2006.0
+Nantes,4089,Île de Nantes,47.20604024114607,-1.538800168818796,brt,2006.0
+Nantes,4090,Beaulieu,47.2039787481574,-1.537101501676006,brt,2006.0
+Nantes,4091,Grèneraie,47.199660542697416,-1.533558540323014,brt,2006.0
+Nantes,4092,Bonne Garde,47.196864772676065,-1.531269103082167,brt,2006.0
+Nantes,4093,Clos Toreau,47.19421468785063,-1.529101056727654,brt,2006.0
+Nantes,4094,Mauvoisins,47.19014778811885,-1.52555724370248,brt,2006.0
+Nantes,4095,Bourdonnières,47.18722533228356,-1.52102860159124,brt,2006.0
+Nantes,4096,Joliverie,47.1896160225009,-1.517103896268822,brt,2006.0
+Nantes,4097,Chapeau Verni,47.189251253427386,-1.511563177964405,brt,2006.0
+Nantes,4098,Maraîchers,47.1847792351069,-1.510671807567888,brt,2006.0
+Nantes,4099,Porte de Vertou,47.18085161727572,-1.505113635652066,brt,2006.0
+Nantes,4125,Neustrie,47.17727540224871,-1.592773124327351,light_rail,2007.0
+Nantes,5791,Gare Maritime,47.205724045761684,-1.573041292936494,default,2005.0
+Nantes,5792,Trentemoult - Roquios,47.19539055841253,-1.582280925990119,default,2005.0
+Nantes,5793,Petit Port Facultés,47.24312959849124,-1.547543002472111,default,1997.0
+Nantes,5794,Port Boyer,47.2420259201661,-1.546003135098289,default,1997.0
+Nantes,5795,Ceineray,47.2213051490956,-1.55250091271245,default,2005.0
+Nantes,5796,Gare S.N.C.F. Sud,47.215532597799864,-1.543454682205635,default,2006.0
+Nantes,5797,Gare fluviale,47.228154308303715,-1.551942651606794,default,2005.0
+Nantes,5798,Saint-Mihiel,47.22798786710584,-1.553620383255748,default,2007.0
+Nantes,5799,Tortière,47.2345904858108,-1.548897168961332,default,2005.0
+Nantes,5800,Jonelière,47.25693147842898,-1.539020332439009,default,2005.0
+Nantes,5801,Ponton des Chantiers,47.20637385434526,-1.569252246344945,default,2007.0
+Nantes,5802,Gare de la Bourse,47.211186429348885,-1.560888742179429,default,1879.0
+Nantes,5803,Jardin de la Bourse,47.21252814275442,-1.558841940789478,default,1879.0
+Nantes,5804,Place du Commerce,47.2132573329921,-1.557770966605546,default,1879.0
+Nantes,5805,Gare Maritime,47.20668347870756,-1.572231016689926,default,1880.0
+Nantes,5806,Dépôt de Doulon,47.22431920684721,-1.53104469321508,default,1879.0
+Nantes,5807,Usine de tramways de Doulon,47.22372283325984,-1.529710378423999,default,1879.0
+Nantes,5808,Gare de Nantes - Anjou,47.21782017338148,-1.542870565330787,default,1879.0
+Nantes,5809,Gare de l'État,47.204242734358985,-1.559470072820147,default,1888.0
+Nantes,7085,Babinière Sud,47.25613234724892,-1.540558523699076,light_rail,2019.0
+Nantes,7360,Beaujoire,47.2588237,-1.5259933,light_rail,1989.0
+Nantes,7361,Beaujoire,47.2587969,-1.5259974,light_rail,1989.0
+Nantes,7362,Halvêque,47.2572768,-1.5204882,light_rail,1989.0
+Nantes,7363,Beaujoire,47.2588182,-1.5245783,light_rail,1989.0
+Nantes,7364,Halvêque,47.2572683,-1.520452,light_rail,1989.0
+Nantes,7365,Haluchère-Batignolles,47.2491427,-1.5229081,light_rail,2012.0
+Nantes,7366,Haluchère-Batignolles,47.2488449,-1.5223692,light_rail,2012.0
+Nantes,7367,Ranzay,47.2532428,-1.5303578,light_rail,2012.0
+Nantes,7368,Ranzay,47.2532682,-1.530349,light_rail,2012.0
+Nantes,7369,Pin Sec,47.2435643,-1.5180544,light_rail,1985.0
+Nantes,7370,Pin Sec,47.2435588,-1.5180951,light_rail,1985.0
+Nantes,7371,Souillarderie,47.2382967,-1.5160372,light_rail,1985.0
+Nantes,7372,Souillarderie,47.2382914,-1.5160712,light_rail,1985.0
+Nantes,7373,Boulevard de Doulon,47.2244406,-1.5199951,light_rail,1985.0
+Nantes,7374,Landreau,47.2323156,-1.516109,light_rail,1985.0
+Nantes,7375,Mairie de Doulon,47.2268522,-1.5186443,light_rail,1985.0
+Nantes,7376,Boulevard de Doulon,47.224447,-1.5200339,light_rail,1985.0
+Nantes,7377,Landreau,47.2323215,-1.5161476,light_rail,1985.0
+Nantes,7378,Mairie de Doulon,47.2268604,-1.5186817,light_rail,0.0
+Nantes,7379,Hôpital Bellier,47.2211736,-1.5245007,light_rail,1985.0
+Nantes,7380,Hôpital Bellier,47.2211974,-1.5245255,light_rail,1985.0
+Nantes,7381,Moutonnerie,47.2195619,-1.5331341,light_rail,1985.0
+Nantes,7382,Manufacture,47.2187475,-1.5373632,light_rail,1985.0
+Nantes,7383,Manufacture,47.21877,-1.5373749,light_rail,1985.0
+Nantes,7384,Moutonnerie,47.2195909,-1.5331469,light_rail,1985.0
+Nantes,7385,Bouffay,47.2145651,-1.5523453,light_rail,1985.0
+Nantes,7386,Gare SNCF Nord,47.2178543,-1.5423976,light_rail,1985.0
+Nantes,7387,Duchesse Anne - Château,47.216242,-1.547301,light_rail,1985.0
+Nantes,7388,Bouffay,47.214594,-1.5523589,light_rail,1985.0
+Nantes,7389,Duchesse Anne - Château,47.2162654,-1.5473212,light_rail,1985.0
+Nantes,7390,Gare SNCF Nord,47.2178802,-1.5424016,light_rail,1985.0
+Nantes,7391,Commerce,47.2135612,-1.5560344,light_rail,1985.0
+Nantes,7392,Médiathèque,47.2111213,-1.5608619,light_rail,1985.0
+Nantes,7393,Commerce,47.2135881,-1.556054,light_rail,1985.0
+Nantes,7394,Médiathèque,47.2111448,-1.5608806,light_rail,1985.0
+Nantes,7395,Chantiers Navals,47.2088633,-1.567552,light_rail,1985.0
+Nantes,7396,Gare Maritime,47.2070546,-1.5731154,light_rail,1985.0
+Nantes,7397,Chantiers Navals,47.2088876,-1.56757,light_rail,1985.0
+Nantes,7398,Gare Maritime,47.2070848,-1.5731296,light_rail,1985.0
+Nantes,7399,Du Chaffault,47.2075514,-1.5818224,light_rail,1985.0
+Nantes,7400,Du Chaffault,47.207577,-1.5818067,light_rail,1985.0
+Nantes,7401,Égalité,47.2093441,-1.5886318,light_rail,1985.0
+Nantes,7402,Égalité,47.2093675,-1.5886155,light_rail,1985.0
+Nantes,7403,Croix Bonneau,47.2096313,-1.5954404,light_rail,2000.0
+Nantes,7404,Croix Bonneau,47.2096611,-1.5954459,light_rail,2000.0
+Nantes,7405,Jamet,47.2100469,-1.6030623,light_rail,1985.0
+Nantes,7406,Jamet,47.2100742,-1.6030561,light_rail,1985.0
+Nantes,7407,Mendès France - Bellevue,47.2087383,-1.6115233,light_rail,1985.0
+Nantes,7408,Mendès France - Bellevue,47.2087267,-1.6114847,light_rail,1985.0
+Nantes,7409,Romain Rolland,47.2066579,-1.6097724,light_rail,2000.0
+Nantes,7410,Romain Rolland,47.2067013,-1.6097185,light_rail,2000.0
+Nantes,7411,Lauriers,47.2047466,-1.6050016,light_rail,2000.0
+Nantes,7412,Lauriers,47.2047949,-1.6049684,light_rail,2000.0
+Nantes,7413,Jean Moulin,47.2069495,-1.6002397,light_rail,2000.0
+Nantes,7414,Jean Moulin,47.2069704,-1.6002711,light_rail,2000.0
+Nantes,7415,Romanet,47.2116944,-1.6090651,light_rail,2000.0
+Nantes,7416,Romanet,47.2116828,-1.6090278,light_rail,2000.0
+Nantes,7417,Tertre,47.2145715,-1.6081559,light_rail,2000.0
+Nantes,7418,Tertre,47.2145942,-1.6081158,light_rail,2000.0
+Nantes,7419,Neruda,47.2176187,-1.6137243,light_rail,2000.0
+Nantes,7420,Neruda,47.2176442,-1.6137088,light_rail,2000.0
+Nantes,7421,Frachon,47.2190736,-1.6205809,light_rail,2000.0
+Nantes,7422,Frachon,47.2191005,-1.620567,light_rail,2000.0
+Nantes,7423,Schœlcher,47.2205559,-1.6280205,light_rail,2000.0
+Nantes,7424,Schœlcher,47.220524,-1.6280357,light_rail,2000.0
+Nantes,7425,Tourmaline,47.2214339,-1.6326555,light_rail,2000.0
+Nantes,7426,Tourmaline,47.2214632,-1.6326468,light_rail,2000.0
+Nantes,7427,François Mitterrand,47.2220783,-1.6382404,light_rail,2000.0
+Nantes,7428,François Mitterrand,47.2221129,-1.6382339,light_rail,2000.0
+Nantes,7429,Place du Cirque,47.216823,-1.5570584,light_rail,1992.0
+Nantes,7430,Cinquante Otages,47.2200009,-1.5558123,light_rail,1992.0
+Nantes,7431,Saint-Mihiel,47.2233118,-1.5534239,light_rail,1994.0
+Nantes,7432,Cinquante Otages,47.2199823,-1.5557777,light_rail,1992.0
+Nantes,7433,Place du Cirque,47.2168328,-1.557018,light_rail,1992.0
+Nantes,7434,Saint-Mihiel,47.2233138,-1.5533813,light_rail,1994.0
+Nantes,7435,Motte Rouge,47.2278446,-1.5541378,light_rail,1994.0
+Nantes,7436,Motte Rouge,47.2278199,-1.5541112,light_rail,1994.0
+Nantes,7437,Saint-Félix,47.2313874,-1.5565791,light_rail,1994.0
+Nantes,7438,Michelet Sciences,47.2351732,-1.5566101,light_rail,1994.0
+Nantes,7439,Morrhonnière Petit Port,47.2414965,-1.5564799,light_rail,1994.0
+Nantes,7440,Facultés,47.245761,-1.5552345,light_rail,1994.0
+Nantes,7441,École Centrale Audencia,47.2486526,-1.5512448,light_rail,1994.0
+Nantes,7442,Recteur Schmitt,47.2520393,-1.5528849,light_rail,1994.0
+Nantes,7443,Bourgeonnière,47.253192,-1.559808,light_rail,1994.0
+Nantes,7444,Boissière,47.255098,-1.565855,light_rail,1994.0
+Nantes,7445,Bourgeonnière,47.2532522,-1.5597979,light_rail,1994.0
+Nantes,7446,Facultés,47.2457374,-1.5552061,light_rail,1994.0
+Nantes,7447,Michelet Sciences,47.2351724,-1.5565715,light_rail,1994.0
+Nantes,7448,Morrhonnière Petit Port,47.2414944,-1.5564439,light_rail,1994.0
+Nantes,7449,Recteur Schmitt,47.2520596,-1.5528665,light_rail,1994.0
+Nantes,7450,Saint-Félix,47.2313874,-1.5564919,light_rail,1994.0
+Nantes,7451,École Centrale Audencia,47.2486403,-1.5512162,light_rail,1994.0
+Nantes,7452,Boissière,47.2550907,-1.5659419,light_rail,1994.0
+Nantes,7453,Santos Dumont,47.2594664,-1.5681639,light_rail,1994.0
+Nantes,7454,Chêne des Anglais,47.2614112,-1.5732797,light_rail,1994.0
+Nantes,7455,René Cassin,47.2642009,-1.5761902,light_rail,1994.0
+Nantes,7456,Le Cardo,47.2618076,-1.5842318,light_rail,1994.0
+Nantes,7457,Orvault Grand Val,47.2618298,-1.5921998,light_rail,1994.0
+Nantes,7458,Chêne des Anglais,47.2614401,-1.573276,light_rail,1994.0
+Nantes,7459,Le Cardo,47.2618281,-1.5842579,light_rail,1994.0
+Nantes,7460,Orvault Grand Val,47.261861,-1.5921889,light_rail,1994.0
+Nantes,7461,René Cassin,47.2642295,-1.5761958,light_rail,1994.0
+Nantes,7462,Santos Dumont,47.2594852,-1.5681223,light_rail,1994.0
+Nantes,7463,Bretagne,47.2172282,-1.5584045,light_rail,2000.0
+Nantes,7464,Jean Jaurès,47.2185819,-1.5603807,light_rail,2000.0
+Nantes,7465,Jean Jaurès,47.2186059,-1.5603488,light_rail,2000.0
+Nantes,7466,Bretagne,47.2172528,-1.5583768,light_rail,2000.0
+Nantes,7467,Viarme-Talensac,47.2213408,-1.5626962,light_rail,2000.0
+Nantes,7468,Viarme-Talensac,47.2213549,-1.5626702,light_rail,2000.0
+Nantes,7469,Poitou,47.2242474,-1.5654719,light_rail,2000.0
+Nantes,7470,Poitou,47.2242675,-1.5653863,light_rail,2000.0
+Nantes,7471,Félix Faure,47.227138,-1.5695179,light_rail,2000.0
+Nantes,7472,Félix Faure,47.2270997,-1.5695865,light_rail,2000.0
+Nantes,7473,Rond-Point de Vannes,47.2299239,-1.5727424,light_rail,2000.0
+Nantes,7474,Rond-Point de Vannes,47.2299459,-1.5728681,light_rail,2000.0
+Nantes,7475,Alexandre Vincent Sainte-Thérèse,47.2328526,-1.577599,light_rail,2000.0
+Nantes,7476,Alexandre Vincent Sainte-Thérèse,47.2328325,-1.5776192,light_rail,2000.0
+Nantes,7477,Longchamp,47.2350364,-1.5823534,light_rail,2000.0
+Nantes,7478,Longchamp,47.2349843,-1.582405,light_rail,2000.0
+Nantes,7479,Beauséjour,47.2382112,-1.5871848,light_rail,2000.0
+Nantes,7480,Beauséjour,47.2381886,-1.5872074,light_rail,2000.0
+Nantes,7481,Plaisance,47.2401825,-1.5912553,light_rail,2000.0
+Nantes,7482,Plaisance,47.240168,-1.5912789,light_rail,2000.0
+Nantes,7483,Ferrière,47.2432175,-1.5915449,light_rail,2009.0
+Nantes,7484,Ferrière,47.2432435,-1.5916305,light_rail,2009.0
+Nantes,7485,Jean Rostand,47.2460344,-1.5938701,light_rail,2009.0
+Nantes,7486,Jean Rostand,47.2460454,-1.5939497,light_rail,2009.0
+Nantes,7487,Bignon,47.2492395,-1.5978674,light_rail,2009.0
+Nantes,7488,Bignon,47.2492193,-1.5979004,light_rail,2009.0
+Nantes,7489,Orvault Morlière,47.2469937,-1.6033359,light_rail,2009.0
+Nantes,7490,Orvault Morlière,47.2469703,-1.6033047,light_rail,2009.0
+Nantes,7491,Sillon de Bretagne,47.2456093,-1.6086468,light_rail,2009.0
+Nantes,7492,Marcel Paul,47.2459428,-1.616285,light_rail,2009.0
+Nantes,7493,Sillon de Bretagne,47.2455819,-1.6086233,light_rail,2009.0
+Nantes,7494,Marcel Paul,47.2458998,-1.6163266,light_rail,2009.0
+Nantes,7519,Neustrie,47.1772888,-1.5927838,light_rail,2007.0
+Nantes,7520,Neustrie,47.1772626,-1.5927654,light_rail,2007.0
+Nantes,7521,Les Couëts,47.1807902,-1.5864833,light_rail,2007.0
+Nantes,7522,Les Couëts,47.1807296,-1.5864471,light_rail,2007.0
+Nantes,7523,Grande Ouche,47.1813519,-1.5794788,light_rail,2007.0
+Nantes,7524,Grande Ouche,47.1813195,-1.579476,light_rail,2007.0
+Nantes,7525,Trocardière,47.1832467,-1.5700377,light_rail,2007.0
+Nantes,7526,Trocardière,47.1831824,-1.5700035,light_rail,2007.0
+Nantes,7527,Trocardière,47.183247019920714,-1.570037664955976,light_rail,1994.0
+Nantes,7528,Trocardière,47.183183244630925,-1.570002690235583,light_rail,1994.0
+Nantes,7529,Gare de Pont-Rousseau,47.1930311,-1.5490143,light_rail,2007.0
+Nantes,7530,Gare de Pont-Rousseau,47.19297,-1.5490347,light_rail,2007.0
+Nantes,7531,Gare de Pont-Rousseau,47.1929443,-1.5490435,light_rail,2007.0
+Nantes,7532,Aimé Delrue,47.2091247,-1.5502759,light_rail,1992.0
+Nantes,7533,Hôtel-Dieu,47.2118608,-1.553317,light_rail,1992.0
+Nantes,7534,Commerce,47.2143743,-1.5557642,light_rail,2000.0
+Nantes,7535,Commerce,47.2146437,-1.5559482,light_rail,1992.0
+Nantes,7536,Aimé Delrue,47.2091452,-1.5502372,light_rail,1992.0
+Nantes,7537,Hôtel-Dieu,47.2118736,-1.5532795,light_rail,1992.0
+Nantes,7538,Pont-Rousseau Martyrs,47.1918898,-1.5482973,default,0.0
+Nantes,7539,8 Mai,47.1893905,-1.5515294,default,0.0
+Nantes,7540,Pont-Rousseau Martyrs,47.1918639,-1.5482761,default,0.0
+Nantes,7541,8 Mai,47.1893709,-1.5514936,default,0.0
+Nantes,7542,Pirmil,47.1962006,-1.5427621,light_rail,1992.0
+Nantes,7543,Pirmil,47.1961681,-1.5427418,light_rail,1992.0
+Nantes,7544,Mangin,47.2017387,-1.5451031,light_rail,1992.0
+Nantes,7545,Vincent Gâche,47.2064976,-1.5483321,light_rail,1992.0
+Nantes,7546,Wattignies,47.2039569,-1.5465108,light_rail,1992.0
+Nantes,7547,Mangin,47.201749,-1.5450604,light_rail,1992.0
+Nantes,7548,Vincent Gâche,47.2065144,-1.5482949,light_rail,1992.0
+Nantes,7549,Wattignies,47.2039729,-1.5464695,light_rail,1992.0
+Nantes,11391,Hangar à Bananes,47.19929587141809,-1.574254226221939,default,2020.0
+Nantes,11392,Bas Chantenay,47.194630976655816,-1.592089053889765,default,2020.0
+Nantes,11393,Arbre aux Hérons,47.199730595872666,-1.578381946018794,default,2023.0
+Nantes,11394,Trentemoult aval,47.193026576369306,-1.589338136883782,default,2022.0
+Nantes,12396,Haluchère-Batignolles,47.2489129,-1.5222901,commuter_rail,2014.0
+Nantes,12397,Haluchère-Batignolles,47.2492415,-1.522776,commuter_rail,2014.0
+Nantes,12399,Nantes,47.2178317,-1.5404493,commuter_rail,2014.0
+Nantes,12411,Babinière,47.258815,-1.5449184,commuter_rail,2014.0
+Nantes,12412,Babinière,47.2587996,-1.5449735,commuter_rail,2014.0
+Nantes,12413,Erdre Active,47.2830058,-1.5446818,commuter_rail,2014.0
+Nantes,12414,Erdre Active,47.2830213,-1.5446393,commuter_rail,2014.0
+Nantes,12417,La Chapelle - Aulnay,47.3087224,-1.5414844,commuter_rail,2014.0
+Nantes,12418,Sucé-sur-Erdre,47.3430003,-1.5303495,commuter_rail,2014.0
+Nantes,12419,Nort-sur-Erdre,47.4419222,-1.5033523,commuter_rail,2014.0
+Nantes,12420,Nort-sur-Erdre,47.4419237,-1.5034037,commuter_rail,2014.0
+Nantes,12421,Abbaretz,47.5546432,-1.5244159,commuter_rail,2014.0
+Nantes,12422,Issé,47.6268994,-1.4509282,commuter_rail,2014.0
+Nantes,12423,Issé,47.6268488,-1.4508732,commuter_rail,2014.0
+Nantes,12424,Châteaubriant Tram-Train,47.7170797,-1.3714532,commuter_rail,2014.0
+Nantes,12425,Châteaubriant Tram-Train,47.7170764,-1.3713826,commuter_rail,2014.0
+Nantes,12426,Saint-Sébastien Frêne Rond,47.1904756,-1.4957336,commuter_rail,2011.0
+Nantes,12427,Saint-Sébastien Frêne Rond,47.1904855,-1.4956913,commuter_rail,2011.0
+Nantes,12428,Vertou,47.186027,-1.4780014,commuter_rail,2011.0
+Nantes,12429,Vertou,47.1860627,-1.4780028,commuter_rail,2011.0
+Nantes,12430,La Haie Fouassière,47.1615314,-1.3922549,commuter_rail,2011.0
+Nantes,12431,La Haie Fouassière,47.1615648,-1.3922501,commuter_rail,2011.0
+Nantes,12432,Le Pallet,47.1438784,-1.3468028,commuter_rail,2011.0
+Nantes,12433,Le Pallet,47.1438981,-1.3467773,commuter_rail,2011.0
+Nantes,12434,Gorges,47.1001487,-1.3058778,commuter_rail,2011.0
+Nantes,12435,Gorges,47.1004853,-1.3063199,commuter_rail,2011.0
+Nantes,12436,Clisson,47.0859244,-1.2865709,commuter_rail,2011.0
+Nantes,12437,Clisson,47.0859464,-1.2865357,commuter_rail,2011.0
+Nantes,12438,Saint-Sébastien Pas Enchantés,47.2068637,-1.5109766,commuter_rail,2011.0
+Nantes,12439,Saint-Sébastien Pas Enchantés,47.2068791,-1.5109338,commuter_rail,2011.0
+Nantes,19614,Hangar à Bananes,47.2001991,-1.5731291,brt,2020.0
+Nantes,19615,Quai des Antilles,47.2037516,-1.5695091,brt,2020.0
+Nantes,19616,Quai des Antilles,47.2037315,-1.5697003,brt,2020.0
+Nantes,19632,Haubans,47.214522,-1.5299825,brt,2020.0
+Nantes,19633,Haubans,47.2144404,-1.529935,brt,2020.0

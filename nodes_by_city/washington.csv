@@ -1,0 +1,191 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Washington,3862,National Airport,38.85295351386573,-77.04367220507105,heavy_rail,1977.0
+Washington,3863,Crystal City,38.85814799433729,-77.05006241693873,heavy_rail,1977.0
+Washington,3864,Pentagon City,38.86322320633078,-77.05924950044972,heavy_rail,1977.0
+Washington,3865,Pentagon,38.869471369938225,-77.05403180570387,heavy_rail,1977.0
+Washington,3866,Arlington Cemetery,38.88470197266426,-77.06287068921314,heavy_rail,1977.0
+Washington,3867,Rosslyn,38.8960875780269,-77.07092492294225,heavy_rail,1977.0
+Washington,3868,Foggy Bottom,38.90069629694261,-77.05012568670661,heavy_rail,1977.0
+Washington,3869,Farragut West,38.90136312545809,-77.03954024073613,heavy_rail,1977.0
+Washington,3870,McPherson Square,38.901343513500166,-77.03194457381953,heavy_rail,1977.0
+Washington,3872,Federal Triangle,38.893708012525856,-77.02808400262204,heavy_rail,1977.0
+Washington,3873,Smithsonian,38.887817565572504,-77.02775585245463,heavy_rail,1977.0
+Washington,3874,L'Enfant Plaza,38.88499508992841,-77.02186841140565,heavy_rail,1977.0
+Washington,3876,Capitol South,38.88506911735053,-77.00591394589284,heavy_rail,1977.0
+Washington,3877,Eastern Market,38.88407091927425,-76.99510314473216,heavy_rail,1977.0
+Washington,3878,Potomac Ave,38.88089501417181,-76.9854326563292,heavy_rail,1977.0
+Washington,3879,Stadium Armory,38.88569278448449,-76.97712505867847,heavy_rail,1977.0
+Washington,3880,Brookland-CUA,38.933116684810166,-76.9945495725951,heavy_rail,1978.0
+Washington,3892,Federal Center SW,38.88506662011912,-77.01517789426654,heavy_rail,1977.0
+Washington,3902,Ballston,38.88232695108627,-77.11178592084984,heavy_rail,1979.0
+Washington,3903,Virginia Square,38.88324955355799,-77.10362081874203,heavy_rail,1979.0
+Washington,3904,Clarendon,38.887132566177115,-77.09491879478998,heavy_rail,1979.0
+Washington,3905,Court House,38.89108559791788,-77.08473239744178,heavy_rail,1979.0
+Washington,3906,Minnesota Ave,38.89912981357065,-76.94688417123821,heavy_rail,1978.0
+Washington,3908,Deanwood,38.908264815836844,-76.9351759022894,heavy_rail,1978.0
+Washington,3910,Cheverly,38.91669988458589,-76.91544566362272,heavy_rail,1978.0
+Washington,3912,Landover,38.933712156668406,-76.89147024484436,heavy_rail,1978.0
+Washington,3916,Addison Road,38.886741634008246,-76.89239904313635,heavy_rail,1980.0
+Washington,3917,Capitol Heights,38.8897779489767,-76.91337780092566,heavy_rail,1980.0
+Washington,3918,Benning Road,38.890720780107955,-76.93785311332795,heavy_rail,1980.0
+Washington,3927,Archives,38.894052671219896,-77.02191416721381,heavy_rail,1983.0
+Washington,3931,King Street,38.8063917592244,-77.06185266417455,heavy_rail,1983.0
+Washington,3932,Braddock Road,38.81445863631123,-77.05365774305466,heavy_rail,1983.0
+Washington,3942,Vienna,38.87781681035627,-77.27141852032082,heavy_rail,1986.0
+Washington,3943,Dunn Loring,38.883349409709666,-77.22819230681857,heavy_rail,1986.0
+Washington,3944,West Falls Church,38.900747319418144,-77.189123079089,heavy_rail,1986.0
+Washington,3945,East Falls Church,38.885713287694074,-77.15630879190749,heavy_rail,1986.0
+Washington,3951,Shaw,38.914582612866695,-77.0220106487488,heavy_rail,1991.0
+Washington,3952,Mount Vernon Square,38.90582839312526,-77.02193273755246,heavy_rail,1991.0
+Washington,3956,U Street,38.91691131424187,-77.02896038558163,heavy_rail,1991.0
+Washington,3962,Waterfront,38.87669494467238,-77.01711564738618,heavy_rail,1991.0
+Washington,3963,Navy Yard,38.876644484179735,-77.00466489287705,heavy_rail,1991.0
+Washington,3964,Anacostia,38.86201865229799,-76.99562447428946,heavy_rail,1991.0
+Washington,3966,West Hyattsville,38.9550806895665,-76.96956766723717,heavy_rail,1993.0
+Washington,3967,Prince George's Plaza,38.96529282036701,-76.95604540515507,heavy_rail,1993.0
+Washington,3968,College Park,38.978107807787836,-76.92836497171736,heavy_rail,1993.0
+Washington,3968,College Park,38.978107807787836,-76.92836497171736,commuter_rail,1993.0
+Washington,3969,Greenbelt,39.011353678402315,-76.91108204016204,heavy_rail,1993.0
+Washington,3969,Greenbelt,39.011353678402315,-76.91108204016204,commuter_rail,1993.0
+Washington,3971,Georgia Ave-Petworth,38.93639583609044,-77.02432574869047,heavy_rail,1999.0
+Washington,3972,Columbia Heights,38.92888880412863,-77.03271924896781,heavy_rail,1999.0
+Washington,3973,Branch Ave,38.8266801438792,-76.91204213370276,heavy_rail,2001.0
+Washington,3974,Suitland,38.84382058071043,-76.93189555057944,heavy_rail,2001.0
+Washington,3975,Naylor Road,38.85125893863065,-76.95644606837027,heavy_rail,2001.0
+Washington,3976,Southern Ave,38.840819062499975,-76.97562780223174,heavy_rail,2001.0
+Washington,3977,Congress Heights,38.845912840951826,-76.98727255893283,heavy_rail,2001.0
+Washington,3978,Largo Town Center,38.900349671474345,-76.84504269084589,heavy_rail,2004.0
+Washington,3979,Morgan Blvd,38.89332617310757,-76.8690469555441,heavy_rail,2004.0
+Washington,3980,Tysons Corner,38.920489541059794,-77.22172159926055,heavy_rail,2014.0
+Washington,3981,McLean,38.926143738880114,-77.20665960188786,heavy_rail,2014.0
+Washington,3982,Greensboro,38.919794526587054,-77.23268761939241,heavy_rail,2014.0
+Washington,3983,Spring Hill,38.92865809498278,-77.24126587912525,heavy_rail,2014.0
+Washington,3984,Wielhe-Reston,38.947521160651235,-77.33993277879833,heavy_rail,2014.0
+Washington,4008,Dulles Airport,38.955618666388744,-77.4476528331154,heavy_rail,2022.0
+Washington,4009,Ashburn,39.004533879908706,-77.49090673569414,heavy_rail,2022.0
+Washington,4010,Loudon Gateway,38.99374052588806,-77.4658977681341,heavy_rail,2022.0
+Washington,4011,Innovation Center,38.96044271571557,-77.41471035766634,heavy_rail,2022.0
+Washington,4012,Herndon,38.954596439387984,-77.39641558046837,heavy_rail,2022.0
+Washington,4013,Reston Town Center,38.95283316256666,-77.36016007978019,heavy_rail,2022.0
+Washington,34388,Potomac Yard,38.83472312493626,-77.04670067934809,heavy_rail,2022.0
+Washington,34389,Union Station,38.90019211400022,-77.00457679188251,tram,2016.0
+Washington,34390,Oklahoma Avenue,38.897811565964815,-76.97000264660497,tram,2016.0
+Washington,34391,19th Street,38.89881967113914,-76.9760878664029,tram,2016.0
+Washington,34392,15th Street,38.89999102014531,-76.98274213408331,tram,2016.0
+Washington,34393,13th Street,38.900185865494564,-76.98864861418978,tram,2016.0
+Washington,34394,8th Street,38.90021469563325,-76.99485965746972,tram,2016.0
+Washington,34395,5th Street,38.900192006011224,-76.99937931069842,tram,2016.0
+Washington,34396,3rd Street,38.90021260754102,-77.00191169847459,tram,2016.0
+Washington,34466,NoMa–Gallaudet U,38.9071856,-77.003021,heavy_rail,2004.0
+Washington,34467,Rhode Island Avenue–Brentwood,38.9208299,-76.9958935,heavy_rail,1976.0
+Washington,34468,Union Station,38.8981284,-77.0053016,commuter_rail,1907.0
+Washington,34468,Union Station,38.8981284,-77.0053016,heavy_rail,1907.0
+Washington,35660,Riverdale,38.9629634,-76.9349772,commuter_rail,
+Washington,35661,Riverdale,38.9629447,-76.9349394,commuter_rail,
+Washington,35662,Muirkirk,39.0629556,-76.8841229,commuter_rail,1994.0
+Washington,35663,Glenmont,39.0618131,-77.0535394,heavy_rail,1998.0
+Washington,35664,Wheaton,39.0377697,-77.0500538,heavy_rail,1990.0
+Washington,35665,Forest Glen,39.0145008,-77.0426408,heavy_rail,1990.0
+Washington,35666,Savage,39.1228504,-76.7964226,commuter_rail,1989.0
+Washington,35667,Laurel,39.1021615,-76.8418792,commuter_rail,1884.0
+Washington,35668,Jessup,39.1516181,-76.7763459,commuter_rail,
+Washington,35669,Laurel Race Track,39.1056777,-76.8339438,commuter_rail,1911.0
+Washington,35670,Silver Spring,38.9937363,-77.0310916,commuter_rail,1978.0
+Washington,35670,Silver Spring,38.9937363,-77.0310916,heavy_rail,1978.0
+Washington,35671,Takoma,38.9759609,-77.0180177,heavy_rail,1978.0
+Washington,35672,Fort Totten,38.9518047,-77.0020871,heavy_rail,1978.0
+Washington,35674,Union Station,38.8977531,-77.0073735,heavy_rail,1976.0
+Washington,35675,Metro Center,38.8983099,-77.0279401,heavy_rail,1976.0
+Washington,35676,Gallery Place,38.8983032,-77.0220308,heavy_rail,1976.0
+Washington,35677,Judiciary Square,38.8960677,-77.0166982,heavy_rail,1976.0
+Washington,35678,Farragut North,38.9032864,-77.039761,heavy_rail,1976.0
+Washington,35679,Dupont Circle,38.9097556,-77.0435426,heavy_rail,1977.0
+Washington,35680,Van Ness–UDC,38.9438666,-77.0633716,heavy_rail,1981.0
+Washington,35681,Woodley Park,38.9250246,-77.0523908,heavy_rail,1981.0
+Washington,35682,Cleveland Park,38.9347528,-77.0580157,heavy_rail,1981.0
+Washington,35683,Tenleytown–AU,38.9487941,-77.0795715,heavy_rail,1984.0
+Washington,35684,Friendship Heights,38.9598743,-77.0852666,heavy_rail,1984.0
+Washington,35685,Bethesda,38.9843478,-77.0941586,heavy_rail,1984.0
+Washington,35686,Medical Center,38.9988459,-77.0968628,heavy_rail,1984.0
+Washington,35690,Shady Grove,39.1198829,-77.1647269,heavy_rail,1984.0
+Washington,35691,Rockville,39.0842195,-77.1462342,heavy_rail,1873.0
+Washington,35691,Rockville,39.0842195,-77.1462342,commuter_rail,1873.0
+Washington,35692,Twinbrook,39.0626761,-77.1213026,heavy_rail,1984.0
+Washington,35693,North Bethesda,39.0485045,-77.113118,heavy_rail,1984.0
+Washington,35694,Grosvenor–Strathmore,39.0295097,-77.1040928,heavy_rail,1984.0
+Washington,35695,Dorsey,39.1810428,-76.7454471,commuter_rail,1996.0
+Washington,35698,Bowie State,39.0177256,-76.7649857,commuter_rail,1989.0
+Washington,35700,Seabrook,38.9732951,-76.8431069,commuter_rail,1935.0
+Washington,35700,Seabrook,38.9732951,-76.8431069,heavy_rail,1935.0
+Washington,35701,New Carrollton,38.9481527,-76.8723452,heavy_rail,1978.0
+Washington,35701,New Carrollton,38.9481527,-76.8723452,commuter_rail,1978.0
+Washington,36101,Odenton,39.0882349,-76.7057006,commuter_rail,1872.0
+Washington,36101,Odenton,39.0882349,-76.7057006,heavy_rail,1872.0
+Washington,36102,BWI Thurgood Marshall Airport,39.1919852,-76.6945299,commuter_rail,1980.0
+Washington,36102,BWI Thurgood Marshall Airport,39.1919852,-76.6945299,heavy_rail,1980.0
+Washington,36103,Kensington,39.0268317,-77.0717151,commuter_rail,1891.0
+Washington,36104,Garrett Park,39.0389996,-77.0935735,commuter_rail,
+Washington,36105,Washington Grove,39.1364562,-77.1777457,commuter_rail,1873.0
+Washington,36106,Metropolitan Grove,39.1494362,-77.2261261,commuter_rail,1987.0
+Washington,36107,Gaithersburg,39.1415132,-77.1925416,commuter_rail,1873.0
+Washington,36108,Germantown,39.1733038,-77.2706355,commuter_rail,
+Washington,36109,Boyds,39.1842254,-77.3142892,commuter_rail,1873.0
+Washington,36110,New Jersey Avenue Station,38.89387099772613,-77.0101741361696,commuter_rail,1851.0
+Washington,36111,B&O Station,38.891098451706455,-77.01363820104473,commuter_rail,1835.0
+Washington,36119,Saint Denis,39.2243432,-76.7038514,commuter_rail,
+Washington,36127,Camden Station,39.2836074,-76.619654,commuter_rail,1857.0
+Washington,36128,College Park,38.9771365299608,-76.92910893933337,commuter_rail,
+Washington,36129,Berwyn,38.99392033637287,-76.92213391094155,commuter_rail,
+Washington,36130,Elkridge,39.17877639423995,-76.74716088132331,commuter_rail,
+Washington,36131,Hyattsville,38.952347009532645,-76.94000405454727,commuter_rail,
+Washington,36132,Silver Spring,38.990192021448735,-77.02711425853681,commuter_rail,1878.0
+Washington,36133,Halethorpe,39.2358265,-76.6914588,commuter_rail,2013.0
+Washington,36134,Halethorpe,39.23861540483355,-76.69125980251074,commuter_rail,
+Washington,36134,Halethorpe,39.23861540483355,-76.69125980251074,heavy_rail,
+Washington,36135,Mount Clare Station,39.28510250521239,-76.63276654547191,commuter_rail,1830.0
+Washington,36136,West Baltimore,39.2933185,-76.6532979,commuter_rail,1984.0
+Washington,36137,Baltimore Penn Station,39.3081419,-76.6159971,commuter_rail,1911.0
+Washington,36137,Baltimore Penn Station,39.3081419,-76.6159971,heavy_rail,1911.0
+Washington,36138,Charles Street Union Station,39.30815365630232,-76.61604524631484,heavy_rail,1886.0
+Washington,36139,Northern Central Railway Station,39.308170768419416,-76.61606626388647,heavy_rail,1872.0
+Washington,36140,Dickerson,39.2199917,-77.422135,commuter_rail,1891.0
+Washington,36141,Barnesville,39.2097398,-77.3825488,commuter_rail,1873.0
+Washington,36142,Point of Rocks,39.2734749,-77.5333935,commuter_rail,1873.0
+Washington,36143,Monocacy,39.3822489,-77.3945035,commuter_rail,2001.0
+Washington,36144,Frederick,39.4124169,-77.4055235,commuter_rail,2001.0
+Washington,36145,Brunswick,39.3120753,-77.6278542,commuter_rail,1891.0
+Washington,36146,Harpers Ferry,39.3246237,-77.7309461,commuter_rail,1889.0
+Washington,36147,Duffields,39.3620961,-77.828005,commuter_rail,
+Washington,36149,Martinsburg,39.4585684,-77.9605448,commuter_rail,1848.0
+Washington,36150,L'Enfant,38.8857884,-77.0219835,commuter_rail,1992.0
+Washington,36189,Crystal City,38.85914,-77.0483213,commuter_rail,1992.0
+Washington,36241,Alexandria,38.806295,-77.0622137,commuter_rail,1905.0
+Washington,36245,Van Dorn Street,38.7993595,-77.1291012,heavy_rail,1991.0
+Washington,36246,Eisenhower Avenue,38.800382,-77.0711299,heavy_rail,1983.0
+Washington,36247,Huntington,38.7938324,-77.0753642,heavy_rail,1983.0
+Washington,36249,Backlick Road,38.7968111,-77.1834102,commuter_rail,1992.0
+Washington,36250,Rolling Road,38.7948523,-77.2579274,commuter_rail,1992.0
+Washington,36251,Burke Centre,38.7975415,-77.2975884,commuter_rail,1992.0
+Washington,36252,Manassas Park,38.7659987,-77.4403652,commuter_rail,1992.0
+Washington,36253,Manassas,38.7501052,-77.4741001,commuter_rail,1914.0
+Washington,36254,Broad Run,38.7293269,-77.5260768,commuter_rail,
+Washington,36255,Franconia–Springfield,38.76599,-77.168665,heavy_rail,1995.0
+Washington,36255,Franconia–Springfield,38.76599,-77.168665,commuter_rail,1995.0
+Washington,36256,Lorton,38.7157699,-77.2139177,commuter_rail,1992.0
+Washington,36257,Woodbridge,38.6590711,-77.2482694,commuter_rail,1992.0
+Washington,36258,Rippon,38.6127979,-77.2534781,commuter_rail,1992.0
+Washington,36259,Quantico,38.5218901,-77.2931516,commuter_rail,1872.0
+Washington,36260,Brooke,38.3873665,-77.3806559,commuter_rail,1992.0
+Washington,36261,Leeland Road,38.3470547,-77.4384444,commuter_rail,1992.0
+Washington,36262,Fredericksburg,38.298058,-77.4574844,commuter_rail,1837.0
+Washington,36263,Spotsylvania,38.2200178,-77.4405352,commuter_rail,2015.0
+Washington,36299,Martin State Airport,39.338475,-76.4196724,commuter_rail,1991.0
+Washington,36300,Edgewood,39.4159504,-76.2927416,commuter_rail,1991.0
+Washington,36301,Aberdeen,39.5081805,-76.1632134,commuter_rail,1898.0
+Washington,36304,Perryville,39.558017,-76.0737539,commuter_rail,1905.0
+Washington,36644,Arlington Junction,38.86390934262312,-77.05341358060987,tram,1896.0
+Washington,36645,Hatfield Junction,38.87412835371538,-77.0819242760271,tram,1907.0
+Washington,36646,Clarendon,38.886113912929915,-77.09617226794444,tram,1896.0
+Washington,36647,Fairfax Courthouse,38.846363287661944,-77.30694280035672,tram,1896.0
+Washington,36648,Rossyln,38.89956724653135,-77.07090223712727,tram,1892.0
+Washington,36649,B&P Station,38.89180240279845,-77.02033820381813,heavy_rail,1872.0

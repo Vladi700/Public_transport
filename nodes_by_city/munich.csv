@@ -1,0 +1,339 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Munich,9900,Maxmonument,48.1376614,11.5878234,default,0.0
+Munich,9901,Karlsplatz Nord,48.1399387,11.5645248,default,0.0
+Munich,9902,Maximilianeum,48.1360161,11.5960551,default,0.0
+Munich,9903,Maximilianeum,48.1362058,11.5956874,default,0.0
+Munich,9904,Lenbachplatz,48.1408543,11.5684269,default,0.0
+Munich,9905,Kammerspiele,48.1385534,11.5830033,default,0.0
+Munich,9906,Nationaltheater,48.1393035,11.5790901,default,0.0
+Munich,9907,Marienplatz (Theatinerstraße),48.1395059,11.5752347,default,0.0
+Munich,9908,Bundesfinanzhof,48.148171,11.6054367,default,0.0
+Munich,9909,Bundesfinanzhof,48.1484186,11.605655,default,0.0
+Munich,9910,Friedensengel/Villa Stuck,48.1404971,11.5999771,default,0.0
+Munich,9911,Friedensengel/Villa Stuck,48.140942,11.6002433,default,0.0
+Munich,9912,Holbeinstraße,48.1429895,11.6013269,default,0.0
+Munich,9913,Holbeinstraße,48.1433539,11.6012968,default,0.0
+Munich,9914,Max-Weber-Platz,48.1359223,11.5978864,default,0.0
+Munich,9915,Max-Weber-Platz,48.1360989,11.5979608,default,0.0
+Munich,9916,Sternwartstraße,48.1459675,11.6030639,default,0.0
+Munich,9917,Sternwartstraße,48.1463355,11.6035834,default,0.0
+Munich,9918,Am Gasteig,48.1328598,11.5917074,default,0.0
+Munich,9919,Wiener Platz,48.1341,11.5959432,default,0.0
+Munich,9920,Am Gasteig,48.13284,11.5915435,default,0.0
+Munich,9921,Wiener Platz,48.1340701,11.595681,default,0.0
+Munich,9922,Max-Weber-Platz (Johannisplatz),48.1343557,11.5979598,default,0.0
+Munich,9923,Max-Weber-Platz (Johannisplatz),48.1344404,11.5982042,default,0.0
+Munich,9924,Ostbahnhof,48.1287422,11.6034541,default,0.0
+Munich,9925,Ostbahnhof,48.1287178,11.603483,default,0.0
+Munich,9926,Wörthstraße,48.1319764,11.5980939,default,0.0
+Munich,9927,Wörthstraße,48.131815,11.5982445,default,0.0
+Munich,9928,Rosenheimer Platz,48.1289753,11.5941869,default,0.0
+Munich,9929,Rosenheimer Platz,48.1288281,11.5940253,default,0.0
+Munich,9930,Wörthstraße,48.1318304,11.5974473,default,0.0
+Munich,9931,Wörthstraße,48.1318501,11.5975673,default,0.0
+Munich,9932,Regerplatz,48.1244463,11.5882377,default,0.0
+Munich,9933,Regerplatz,48.1242464,11.5879578,default,0.0
+Munich,9934,Max-Weber-Platz,48.1356602,11.5984748,default,0.0
+Munich,9935,Max-Weber-Platz,48.135629,11.6001004,default,0.0
+Munich,9936,Flurstraße,48.1355944,11.6050534,default,0.0
+Munich,9937,Flurstraße,48.1356477,11.604576,default,0.0
+Munich,9938,Haidenauplatz,48.131894,11.609314,default,0.0
+Munich,9939,Haidenauplatz,48.1321909,11.6098236,default,0.0
+Munich,9940,Schlüsselbergstraße,48.129864,11.6222149,default,0.0
+Munich,9941,Mutschellestraße,48.1266395,11.638634,default,0.0
+Munich,9942,Kreillerstraße,48.125715,11.6446495,default,0.0
+Munich,9944,Baumkirchner Straße,48.1284978,11.6298299,default,0.0
+Munich,9946,Mutschellestraße,48.1267129,11.637881,default,0.0
+Munich,9947,Baumkirchner Straße,48.1284128,11.6300536,default,0.0
+Munich,9948,Schlüsselbergstraße,48.1296426,11.6234389,default,0.0
+Munich,9949,Ampfingstraße,48.1310822,11.6150357,default,0.0
+Munich,9950,Ampfingstraße,48.1308361,11.6164135,default,0.0
+Munich,9951,Marienplatz (Theatinerstraße),48.1394412,11.5753716,default,0.0
+Munich,9952,Kammerspiele,48.1385107,11.5830678,default,0.0
+Munich,9953,Lenbachplatz,48.140888,11.5685966,default,0.0
+Munich,9954,Nationaltheater,48.1394104,11.5783853,default,0.0
+Munich,9955,Karlsplatz Nord,48.1398044,11.5648011,default,0.0
+Munich,9956,Hauptbahnhof,48.1399545,11.5610935,default,0.0
+Munich,9957,Hauptbahnhof,48.1401869,11.561126,default,0.0
+Munich,9958,Hauptbahnhof,48.1401862,11.5610805,default,0.0
+Munich,9959,Trappentreustraße,48.139991,11.5351608,default,0.0
+Munich,9960,Holzapfelstraße,48.139309,11.5465872,default,0.0
+Munich,9961,Lautensackstraße,48.139549,11.5181692,default,0.0
+Munich,9962,Barthstraße,48.1402844,11.5304794,default,0.0
+Munich,9963,Lautensackstraße,48.1396591,11.5182583,default,0.0
+Munich,9964,Trappentreustraße,48.1399578,11.5353071,default,0.0
+Munich,9965,Holzapfelstraße,48.1391532,11.547633,default,0.0
+Munich,9966,Barthstraße,48.1402943,11.5299431,default,0.0
+Munich,9967,Schrenkstraße,48.1396313,11.5411657,default,0.0
+Munich,9968,Am Lokschuppen,48.1406639,11.5248339,default,0.0
+Munich,9969,Schrenkstraße,48.1395985,11.5412763,default,0.0
+Munich,9970,Hauptbahnhof Süd,48.1392617,11.5596967,default,0.0
+Munich,9971,Hauptbahnhof Süd,48.139273,11.5590982,default,0.0
+Munich,9972,Hermann-Lingg-Straße,48.1390614,11.5520815,default,0.0
+Munich,9973,Hermann-Lingg-Straße,48.1390108,11.5513014,default,0.0
+Munich,9974,Holzkirchner Bahnhof,48.1391477,11.5547007,default,0.0
+Munich,9975,Holzkirchner Bahnhof,48.1391533,11.5556708,default,0.0
+Munich,9976,Am Lokschuppen,48.1407856,11.5236005,default,0.0
+Munich,9977,Westbad,48.14229,11.4753894,default,0.0
+Munich,9978,Willibaldplatz,48.1408471,11.4889418,default,0.0
+Munich,9979,Agnes-Bernauer-Platz,48.1397754,11.4966634,default,0.0
+Munich,9980,Agnes-Bernauer-Straße,48.1393904,11.5107023,default,0.0
+Munich,9981,Fürstenrieder Straße,48.1397104,11.5035456,default,0.0
+Munich,9982,Fürstenrieder Straße,48.1396868,11.5037984,default,0.0
+Munich,9983,Lohensteinstraße,48.1417089,11.4809979,default,0.0
+Munich,9984,Agnes-Bernauer-Platz,48.139933,11.4954253,default,0.0
+Munich,9985,Willibaldplatz,48.1409062,11.4887646,default,0.0
+Munich,9986,Agnes-Bernauer-Straße,48.1392903,11.5115599,default,0.0
+Munich,9987,Lohensteinstraße,48.1416012,11.4821809,default,0.0
+Munich,9988,Westbad,48.1422463,11.4755866,default,0.0
+Munich,9990,Offenbachstraße,48.1461427,11.4657247,default,0.0
+Munich,9991,Offenbachstraße,48.1460856,11.4659512,default,0.0
+Munich,9992,Am Knie,48.1454449,11.4711221,default,0.0
+Munich,9993,Rathaus Pasing,48.1466667,11.4618923,default,0.0
+Munich,9994,Pasing Bahnhof,48.1488053,11.4611306,default,0.0
+Munich,9995,Am Knie,48.1454711,11.4709595,default,0.0
+Munich,9996,Säulingstraße,48.1272661,11.5115583,default,0.0
+Munich,9997,Stegener Weg,48.1258794,11.5082645,default,0.0
+Munich,9998,Westendstraße,48.1344472,11.5221309,default,0.0
+Munich,9999,Gondrellplatz,48.1244666,11.4901708,default,0.0
+Munich,10000,Siglstraße,48.1349209,11.5142035,default,0.0
+Munich,10001,Säulingstraße,48.1275767,11.5124285,default,0.0
+Munich,10002,Stegener Weg,48.1258472,11.5082996,default,0.0
+Munich,10003,Senftenauerstraße,48.1255755,11.4973806,default,0.0
+Munich,10004,Ammerseestraße,48.126101,11.5021174,default,0.0
+Munich,10005,Ammerseestraße,48.1261961,11.5035085,default,0.0
+Munich,10006,Fachnerstraße,48.129848,11.5170163,default,0.0
+Munich,10007,Fachnerstraße,48.1298168,11.5169116,default,0.0
+Munich,10008,Hans-Thonauer-Straße,48.1348146,11.5177574,default,0.0
+Munich,10009,Hans-Thonauer-Straße,48.1348607,11.5166966,default,0.0
+Munich,10010,Senftenauerstraße,48.1257875,11.4983346,default,0.0
+Munich,10011,Siglstraße,48.1349552,11.5141273,default,0.0
+Munich,10012,Westendstraße,48.1345673,11.5220051,default,0.0
+Munich,10013,Karlsplatz (Stachus),48.1383348,11.5652355,default,0.0
+Munich,10014,Karlsplatz (Stachus),48.1392734,11.5645151,default,0.0
+Munich,10015,Karlsplatz (Stachus),48.1386792,11.565333,default,0.0
+Munich,10016,Karlsplatz (Stachus),48.1386864,11.5651504,default,0.0
+Munich,10019,Karlsplatz (Stachus),48.1383462,11.5650508,default,0.0
+Munich,10032,Sendlinger Tor,48.1338536,11.5660138,default,0.0
+Munich,10033,Sendlinger Tor,48.1338691,11.5661294,default,0.0
+Munich,10034,Sendlinger Tor,48.133531,11.5663006,default,0.0
+Munich,10035,Müllerstraße,48.1310736,11.5708869,default,0.0
+Munich,10036,Sendlinger Tor,48.1336159,11.565642,default,0.0
+Munich,10037,Fraunhoferstraße,48.1285298,11.5753038,default,0.0
+Munich,10038,Müllerstraße,48.131179,11.5712192,default,0.0
+Munich,10039,Müllerstraße,48.1317238,11.5722484,default,0.0
+Munich,10041,Fraunhoferstraße,48.1281971,11.5758089,default,0.0
+Munich,10043,Mariahilfplatz,48.1240964,11.5812967,default,0.0
+Munich,10044,Eduard-Schmid-Straße,48.1262115,11.5784369,default,0.0
+Munich,10045,Mariahilfplatz,48.1239408,11.5813838,default,0.0
+Munich,10046,Eduard-Schmid-Straße,48.1262798,11.5783978,default,0.0
+Munich,10047,Ostfriedhof,48.1194032,11.5828464,default,0.0
+Munich,10048,Giesing Bahnhof,48.1105777,11.5947837,default,0.0
+Munich,10049,Chiemgaustraße,48.1072738,11.5960986,default,0.0
+Munich,10050,St.-Martins-Platz,48.1172393,11.5882855,default,0.0
+Munich,10051,St.-Martins-Platz,48.1171961,11.5884561,default,0.0
+Munich,10052,Ostfriedhof,48.1188239,11.5842249,default,0.0
+Munich,10053,Giesing Bahnhof,48.1104128,11.5948028,default,0.0
+Munich,10054,Werinherstraße,48.114558,11.5925448,default,0.0
+Munich,10055,Werinherstraße,48.1153373,11.5922407,default,0.0
+Munich,10056,Schwanseestraße,48.1033118,11.5967781,default,0.0
+Munich,10057,Chiemgaustraße,48.1062837,11.5964718,default,0.0
+Munich,10058,Silberhornstraße,48.1154716,11.5797423,default,0.0
+Munich,10059,Tegernseer Landstraße,48.1120134,11.5762741,default,0.0
+Munich,10060,Ostfriedhof,48.1186558,11.5831895,default,0.0
+Munich,10061,Silberhornstraße,48.1155793,11.5799307,default,0.0
+Munich,10062,Ostfriedhof,48.1187227,11.5833047,default,0.0
+Munich,10063,Ostfriedhof,48.1194042,11.5839652,default,0.0
+Munich,10064,Tegernseer Landstraße,48.112408,11.5764378,default,0.0
+Munich,10065,Menterschwaige,48.0801318,11.5517428,default,0.0
+Munich,10066,Authariplatz,48.0922102,11.5627022,default,0.0
+Munich,10067,Tiroler Platz,48.0960853,11.5636202,default,0.0
+Munich,10068,Südtiroler Straße,48.1006556,11.5665482,default,0.0
+Munich,10069,Theodolindenplatz,48.0902489,11.5568348,default,0.0
+Munich,10070,Klinikum Harlaching,48.0870327,11.5549538,default,0.0
+Munich,10071,Großhesseloher Brücke,48.0768585,11.5501746,default,0.0
+Munich,10072,Südtiroler Straße,48.1007851,11.5666873,default,0.0
+Munich,10073,Kurzstraße,48.1044446,11.5697111,default,0.0
+Munich,10074,Tiroler Platz,48.0962875,11.5637236,default,0.0
+Munich,10075,Theodolindenplatz,48.0903946,11.5570669,default,0.0
+Munich,10076,Authariplatz,48.091813,11.5623822,default,0.0
+Munich,10077,Klinikum Harlaching,48.0866792,11.5548259,default,0.0
+Munich,10078,Menterschwaige,48.0802978,11.5518555,default,0.0
+Munich,10079,Kurzstraße,48.104823,11.5700293,default,0.0
+Munich,10080,Wettersteinplatz,48.1090703,11.5745874,default,0.0
+Munich,10081,Wettersteinplatz,48.1094714,11.5749855,default,0.0
+Munich,10082,Großhesseloher Brücke,48.0772126,11.5503847,default,0.0
+Munich,10083,Großhesseloher Brücke,48.0765976,11.5503098,default,0.0
+Munich,10084,"Grünwald, Derbolfinger Platz",48.0419595,11.5240291,default,0.0
+Munich,10085,Robert-Koch-Straße,48.0629842,11.5451553,default,0.0
+Munich,10086,"Grünwald, Parkplatz",48.0552728,11.5407672,default,0.0
+Munich,10087,"Grünwald, Ludwig-Thoma-Straße",48.0496939,11.5356626,default,0.0
+Munich,10088,"Grünwald, Derbolfinger Platz",48.0421281,11.5234542,default,0.0
+Munich,10089,Schilcherweg,48.0712396,11.5473645,default,0.0
+Munich,10090,"Grünwald, Bavariafilmplatz",48.0674258,11.5462976,default,0.0
+Munich,10091,Schilcherweg,48.0714286,11.547498,default,0.0
+Munich,10092,"Grünwald, Parkplatz",48.0550295,11.5406155,default,0.0
+Munich,10093,"Grünwald, Bavariafilmplatz",48.0677338,11.5462713,default,0.0
+Munich,10094,"Grünwald, Ludwig-Thoma-Straße",48.049471,11.5354905,default,0.0
+Munich,10095,Robert-Koch-Straße,48.0624659,11.5449673,default,0.0
+Munich,10096,Grillparzerstraße,48.1360626,11.6081318,default,0.0
+Munich,10097,Grillparzerstraße,48.1364908,11.610338,default,0.0
+Munich,10098,Einsteinstraße,48.1368196,11.614345,default,0.0
+Munich,10099,Einsteinstraße,48.1368257,11.6140127,default,0.0
+Munich,10100,Vogelweideplatz,48.1372392,11.6201369,default,0.0
+Munich,10101,Vogelweideplatz,48.1371615,11.620406,default,0.0
+Munich,10102,Riedenburger Straße,48.1357451,11.6243075,default,0.0
+Munich,10103,Berg am Laim Bahnhof,48.1361023,11.6341423,default,0.0
+Munich,10104,Riedenburger Straße,48.1359345,11.6238652,default,0.0
+Munich,10105,Herkomerplatz,48.1508664,11.6090177,default,0.0
+Munich,10106,Herkomerplatz,48.150862,11.6086075,default,0.0
+Munich,10107,Mauerkircherstraße,48.1488403,11.6013951,default,0.0
+Munich,10108,Effnerplatz,48.1521269,11.6130318,default,0.0
+Munich,10109,Effnerplatz,48.1520216,11.6134876,default,0.0
+Munich,10111,Fritz-Meyer-Weg,48.172423,11.6365992,default,0.0
+Munich,10112,Fritz-Meyer-Weg,48.1725849,11.636676,default,0.0
+Munich,10113,Taimerhofstraße,48.1667595,11.6308313,default,0.0
+Munich,10114,Prinz-Eugen-Park,48.1626747,11.629228,default,0.0
+Munich,10115,Prinz-Eugen-Park,48.1625049,11.6291712,default,0.0
+Munich,10116,Cosimabad,48.1535115,11.6288982,default,0.0
+Munich,10117,Cosimabad,48.1535688,11.6284774,default,0.0
+Munich,10118,Arabellapark/Klinikum Bogenhausen,48.1537222,11.623836,default,0.0
+Munich,10119,Arabellapark/Klinikum Bogenhausen,48.1537587,11.6236457,default,0.0
+Munich,10120,Schlösselgarten,48.1586311,11.6289649,default,0.0
+Munich,10121,Schlösselgarten,48.1587877,11.6290087,default,0.0
+Munich,10122,Regina-Ullmann-Straße,48.1699469,11.6351944,default,0.0
+Munich,10123,Regina-Ullmann-Straße,48.1698119,11.6350169,default,0.0
+Munich,10124,Taimerhofstraße,48.166654,11.630634,default,0.0
+Munich,10125,Arabellastraße,48.1535193,11.6187898,default,0.0
+Munich,10126,Arabellastraße,48.1535517,11.6184224,default,0.0
+Munich,10127,St. Emmeram,48.1761243,11.6316751,default,0.0
+Munich,10128,St. Emmeram,48.1761615,11.6317848,default,0.0
+Munich,10129,Mauerkircherstraße,48.1488305,11.6002412,default,0.0
+Munich,10130,Tivolistraße,48.1498062,11.5961616,default,0.0
+Munich,10131,Tivolistraße,48.1498761,11.5962955,default,0.0
+Munich,10132,Nationalmuseum/Haus der Kunst,48.1428464,11.5884892,default,0.0
+Munich,10133,Lehel,48.1395932,11.588581,default,0.0
+Munich,10134,Lehel,48.1395938,11.5886227,default,0.0
+Munich,10135,Nationalmuseum/Haus der Kunst,48.1433447,11.5886695,default,0.0
+Munich,10136,Paradiesstraße,48.1463776,11.593002,default,0.0
+Munich,10137,Paradiesstraße,48.1463079,11.59296,default,0.0
+Munich,10138,Maxmonument,48.1378404,11.5876807,default,0.0
+Munich,10140,Maxmonument,48.1374681,11.5883144,default,0.0
+Munich,10141,Isartor,48.1340364,11.5831954,default,0.0
+Munich,10142,Isartor,48.1340745,11.583499,default,0.0
+Munich,10143,Mariannenplatz,48.1351876,11.5867159,default,0.0
+Munich,10144,Mariannenplatz,48.1352287,11.586813,default,0.0
+Munich,10145,Isartor,48.1333258,11.5832489,default,0.0
+Munich,10146,Isartor,48.1335317,11.5831308,default,0.0
+Munich,10147,Hauptbahnhof Nord,48.1413824,11.5607243,default,0.0
+Munich,10149,Karlstraße,48.1448794,11.5596454,default,0.0
+Munich,10150,Stiglmaierplatz,48.1471542,11.5587872,default,0.0
+Munich,10151,Stiglmaierplatz,48.1470407,11.5587173,default,0.0
+Munich,10152,Karlstraße,48.1446575,11.5596634,default,0.0
+Munich,10153,Sandstraße,48.1505965,11.5581254,default,0.0
+Munich,10154,Sandstraße,48.1506154,11.5580756,default,0.0
+Munich,10155,Hochschule München (Lothstraße),48.1540281,11.5541768,default,0.0
+Munich,10156,Hochschule München (Lothstraße),48.1545336,11.5534798,default,0.0
+Munich,10157,,48.1553408,11.5533165,default,0.0
+Munich,10158,Leonrodplatz,48.1598887,11.5469401,default,0.0
+Munich,10159,Goethe-Institut,48.1625524,11.5427375,default,0.0
+Munich,10160,Leonrodplatz,48.159719,11.5470814,default,0.0
+Munich,10161,Goethe-Institut,48.163233,11.5416739,default,0.0
+Munich,10162,Olympiapark West,48.1665576,11.5372733,default,0.0
+Munich,10163,Olympiapark West,48.166452,11.5373366,default,0.0
+Munich,10164,Borstei,48.1695877,11.5332287,default,0.0
+Munich,10165,Borstei,48.1694852,11.5333398,default,0.0
+Munich,10166,Westfriedhof,48.1695961,11.5286974,default,0.0
+Munich,10167,Stadtwerke München,48.1711925,11.5306195,default,0.0
+Munich,10168,Hanauer Straße,48.1728403,11.5277448,default,0.0
+Munich,10169,Wintrichring,48.1761041,11.5214129,default,0.0
+Munich,10170,Wintrichring,48.1760111,11.5215328,default,0.0
+Munich,10171,Westfriedhof,48.1698065,11.5287196,default,0.0
+Munich,10172,Hanauer Straße,48.1726662,11.5280212,default,0.0
+Munich,10173,Westfriedhof,48.170319,11.5285628,default,0.0
+Munich,10174,Hugo-Troendle-Straße,48.1793749,11.5146945,default,0.0
+Munich,10175,Hugo-Troendle-Straße,48.1792911,11.5148049,default,0.0
+Munich,10176,Pelkovenstraße,48.1810746,11.5107604,default,0.0
+Munich,10177,Pelkovenstraße,48.1810592,11.5109808,default,0.0
+Munich,10178,Moosach Bf,48.1804733,11.5074549,default,0.0
+Munich,10179,Moosach Bf,48.1803986,11.5073403,default,0.0
+Munich,10180,Albrechtstraße,48.155584,11.5402561,default,0.0
+Munich,10181,Infanteriestraße,48.161459,11.5534794,default,0.0
+Munich,10182,Volkartstraße,48.1552887,11.5325646,default,0.0
+Munich,10183,Fasaneriestraße,48.1572218,11.5433278,default,0.0
+Munich,10184,Leonrodplatz,48.159252,11.5470488,default,0.0
+Munich,10185,Albrechtstraße,48.1557563,11.5406625,default,0.0
+Munich,10186,Fasaneriestraße,48.1574679,11.5437166,default,0.0
+Munich,10187,Hubertusstraße,48.1559711,11.5201243,default,0.0
+Munich,10188,Infanteriestraße,48.1614281,11.5541886,default,0.0
+Munich,10189,Leonrodplatz,48.1596509,11.5477158,default,0.0
+Munich,10190,Nordbad,48.1610221,11.5624685,default,0.0
+Munich,10191,Renatastraße,48.1566578,11.5267408,default,0.0
+Munich,10192,Romanplatz,48.1556909,11.5121072,default,0.0
+Munich,10193,Neuhausen,48.1563568,11.5314702,default,0.0
+Munich,10194,Barbarastraße,48.1614503,11.5572047,default,0.0
+Munich,10195,Rotkreuzplatz,48.1531116,11.5337572,default,0.0
+Munich,10196,Barbarastraße,48.1613954,11.5578922,default,0.0
+Munich,10197,Romanplatz,48.1556764,11.5124295,default,0.0
+Munich,10198,Hubertusstraße,48.1559272,11.5196922,default,0.0
+Munich,10199,Neuhausen,48.1562696,11.5315638,default,0.0
+Munich,10200,Renatastraße,48.1565678,11.5263384,default,0.0
+Munich,10201,Volkartstraße,48.1550706,11.5326795,default,0.0
+Munich,10202,Rotkreuzplatz,48.153202,11.5343383,default,0.0
+Munich,10203,Romanplatz,48.1552604,11.5114861,default,0.0
+Munich,10204,Romanplatz,48.1547608,11.5113579,default,0.0
+Munich,10205,Schloss Nymphenburg,48.157838,11.5114595,default,0.0
+Munich,10206,Schloss Nymphenburg,48.1591553,11.5114844,default,0.0
+Munich,10207,Dall'Armistraße,48.1611858,11.5114098,default,0.0
+Munich,10208,Maria-Ward-Straße,48.164081,11.5059798,default,0.0
+Munich,10209,Dall'Armistraße,48.1610078,11.5113839,default,0.0
+Munich,10210,Maria-Ward-Straße,48.1639954,11.5061793,default,0.0
+Munich,10211,Botanischer Garten,48.1644789,11.5023278,default,0.0
+Munich,10212,Botanischer Garten,48.1644361,11.5029734,default,0.0
+Munich,10213,Amalienburgstraße,48.1653825,11.4945262,default,0.0
+Munich,10214,Amalienburgstraße,48.1657273,11.4940002,default,0.0
+Munich,10215,Donnersbergerstraße,48.1461733,11.5367127,default,0.0
+Munich,10216,Kriemhildenstraße,48.1521554,11.5154036,default,0.0
+Munich,10217,Steubenplatz,48.1499802,11.5209796,default,0.0
+Munich,10218,Briefzentrum,48.1489885,11.5245382,default,0.0
+Munich,10219,Burghausener Straße,48.147201,11.5297933,default,0.0
+Munich,10220,Marsstraße,48.1449892,11.5420314,default,0.0
+Munich,10221,Hopfenstraße,48.1422953,11.5546107,default,0.0
+Munich,10222,Hauptbahnhof Nord,48.141313,11.5599858,default,0.0
+Munich,10223,Hackerbrücke,48.1436233,11.5484115,default,0.0
+Munich,10224,Deroystraße,48.1443283,11.5450839,default,0.0
+Munich,10225,Hopfenstraße,48.1423626,11.554411,default,0.0
+Munich,10226,Steubenplatz,48.1502458,11.5196337,default,0.0
+Munich,10227,Kriemhildenstraße,48.1522831,11.5152732,default,0.0
+Munich,10228,Burghausener Straße,48.1472726,11.5295853,default,0.0
+Munich,10229,Briefzentrum,48.1490919,11.5243306,default,0.0
+Munich,10230,Donnersbergerstraße,48.1463471,11.535036,default,0.0
+Munich,10231,Marsstraße,48.1450646,11.5418282,default,0.0
+Munich,10232,Hauptbahnhof Nord,48.1413891,11.5597512,default,0.0
+Munich,10233,Deroystraße,48.1442111,11.5457571,default,0.0
+Munich,10234,Hackerbrücke,48.1436997,11.5481605,default,0.0
+Munich,10235,Hohenzollernplatz,48.1611722,11.5679888,default,0.0
+Munich,10236,Nordbad,48.161515,11.5635995,default,0.0
+Munich,10240,Nordbad,48.1608963,11.5645399,default,0.0
+Munich,10247,Hohenzollernplatz,48.1611553,11.5682694,default,0.0
+Munich,10249,Karl-Theodor-Straße,48.1666752,11.5740274,default,0.0
+Munich,10250,Clemensstraße,48.1632738,11.5746116,default,0.0
+Munich,10251,Clemensstraße,48.1636505,11.5745077,default,0.0
+Munich,10252,Karl-Theodor-Straße,48.1668585,11.5740437,default,0.0
+Munich,10253,Scheidplatz,48.1713217,11.5729756,default,0.0
+Munich,10254,Scheidplatz,48.1713375,11.5730586,default,0.0
+Munich,10255,Münchner Freiheit,48.1623953,11.5866102,default,0.0
+Munich,10256,Potsdamer Straße,48.1666069,11.5862313,default,0.0
+Munich,10257,Potsdamer Straße,48.1678143,11.5862422,default,0.0
+Munich,10258,Parzivalplatz,48.1715687,11.5859126,default,0.0
+Munich,10259,Parzivalplatz,48.1719132,11.5859311,default,0.0
+Munich,10260,Am Münchner Tor,48.1762202,11.5883531,default,0.0
+Munich,10261,Am Münchner Tor,48.176048,11.5882447,default,0.0
+Munich,10262,Schwabing Nord,48.18665,11.5909661,default,0.0
+Munich,10263,Schwabing Nord,48.1870064,11.591547,default,0.0
+Munich,10264,Anni-Albers-Straße,48.179674,11.5891615,default,0.0
+Munich,10265,Domagkstraße,48.1836311,11.590201,default,0.0
+Munich,10266,Anni-Albers-Straße,48.179849,11.589251,default,0.0
+Munich,10267,Domagkstraße,48.1839671,11.5903303,default,0.0
+Munich,10268,Deutsches Museum,48.1318033,11.5862365,default,0.0
+Munich,10269,Deutsches Museum,48.1318804,11.5860655,default,0.0

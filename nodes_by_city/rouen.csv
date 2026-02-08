@@ -1,0 +1,57 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Rouen,10548,Hôtel de ville de Sotteville,49.4141716,1.0902333,light_rail,1994.0
+Rouen,10549,14-Juillet,49.4091951,1.0832036,light_rail,1997.0
+Rouen,10550,Garibaldi,49.4188601,1.0908144,light_rail,1994.0
+Rouen,10551,Jean Zay,49.4041892,1.084389,light_rail,1997.0
+Rouen,10552,Champ de Courses,49.4014228,1.0758883,light_rail,1997.0
+Rouen,10553,Ernest Renan,49.3983988,1.0729689,light_rail,1997.0
+Rouen,10554,Le Parc,49.395354,1.0693817,light_rail,1997.0
+Rouen,10555,Maryse Bastié,49.3919501,1.0700808,light_rail,1997.0
+Rouen,10556,Honoré de Balzac,49.4260842,1.0868742,light_rail,1994.0
+Rouen,10557,Europe,49.427964,1.0815621,light_rail,1994.0
+Rouen,10559,Toit Familial,49.4012346,1.081543,light_rail,1997.0
+Rouen,10560,Voltaire,49.4230821,1.0890324,light_rail,1994.0
+Rouen,10562,Toit Familial,49.4012171,1.0815743,light_rail,1997.0
+Rouen,10563,Technopôle,49.3867975,1.0708659,light_rail,1997.0
+Rouen,10564,Europe,49.4284657,1.0808541,light_rail,1994.0
+Rouen,10565,Champ de Courses,49.4013991,1.075883,light_rail,1997.0
+Rouen,10566,Ernest Renan,49.3983718,1.072967,light_rail,1997.0
+Rouen,10567,Garibaldi,49.4188671,1.090853,light_rail,1994.0
+Rouen,10568,Honoré de Balzac,49.4261117,1.0868946,light_rail,1994.0
+Rouen,10569,Hôtel de ville de Sotteville,49.414154,1.0902619,light_rail,1994.0
+Rouen,10570,Jean Zay,49.4042094,1.0844147,light_rail,1997.0
+Rouen,10571,Le Parc,49.3953503,1.0694288,light_rail,1997.0
+Rouen,10572,Maryse Bastié,49.3919431,1.0701192,light_rail,1997.0
+Rouen,10573,14-Juillet,49.4091843,1.0832446,light_rail,1997.0
+Rouen,10574,Georges Braque,49.4005384,1.0423639,light_rail,1994.0
+Rouen,10575,Georges Braque,49.4005206,1.042278,light_rail,1994.0
+Rouen,10576,Saint-Sever,49.4312383,1.0814665,light_rail,1994.0
+Rouen,10577,Saint-Sever,49.4312152,1.0814768,light_rail,1994.0
+Rouen,10578,Joffre-Mutualité,49.4353078,1.0866304,light_rail,1994.0
+Rouen,10579,Joffre-Mutualité,49.4352976,1.0866693,light_rail,1994.0
+Rouen,10580,Beauvoisine,49.448454,1.1003294,light_rail,1994.0
+Rouen,10581,Théâtre des Arts,49.4398904,1.0892998,light_rail,1994.0
+Rouen,10582,Palais de Justice,49.4426718,1.090957,light_rail,1994.0
+Rouen,10583,Palais de Justice,49.4426808,1.0909169,light_rail,1994.0
+Rouen,10584,Gare Rue Verte,49.4484538,1.0945547,light_rail,1994.0
+Rouen,10585,Beauvoisine,49.448441,1.1003219,light_rail,1994.0
+Rouen,10586,Théâtre des Arts,49.439882,1.089355,light_rail,1994.0
+Rouen,10587,Gare Rue Verte,49.4484382,1.0945675,light_rail,1994.0
+Rouen,10588,Boulingrin,49.4470306,1.105098,light_rail,1994.0
+Rouen,10589,Boulingrin,49.4470058,1.1050799,light_rail,1994.0
+Rouen,36306,Théâtre des Arts,49.439986175868654,1.090076932718631,brt,2001.0
+Rouen,36318,Mont-Riboudet,49.44904410702472,1.064239728242541,brt,2001.0
+Rouen,36318,Mont-Riboudet,49.44904410702472,1.064239728242541,bus,2001.0
+Rouen,36580,Pissarro,49.45543544685165,1.034192329084675,brt,2001.0
+Rouen,36581,Monet,49.45731839310989,1.036180994209985,brt,2001.0
+Rouen,36583,CHU Charles Nicolle,49.43930174293385,1.109892640203583,brt,2001.0
+Rouen,36584,Mairie - V. Schoelcher,49.488153966303116,1.048842954742668,brt,
+Rouen,36585,Mont aux Malades,49.46606534576509,1.071434687028756,brt,2002.0
+Rouen,36586,Tamarelle,49.46169776271512,1.131676939092529,brt,2007.0
+Rouen,36588,Durécu-Lavoisier,49.44276491606189,1.149898265050155,brt,2007.0
+Rouen,36590,Stade Diochon,49.41225075169697,1.072865032598656,brt,2014.0
+Rouen,36590,Stade Diochon,49.41225075169697,1.072865032598656,bus,2014.0
+Rouen,36591,Belges,49.44167765969465,1.082585337391606,brt,2001.0
+Rouen,36593,Zénith - Parc Expo,49.38888924928557,1.055992034597836,brt,2019.0
+Rouen,36593,Zénith - Parc Expo,49.38888924928557,1.055992034597836,bus,2019.0
+Rouen,36594,Tourville,49.33068442956534,1.095680253512569,bus,

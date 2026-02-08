@@ -1,0 +1,8 @@
+nodeID_from,nodeID_to,line_id,year,mode
+1,2,260,2012.0,default
+2,3,260,2005.0,default
+2,4,260,2005.0,default
+4,5,260,2003.0,default
+5,6,260,2003.0,default
+6,7,260,1992.0,default
+7,8,260,1990.0,default

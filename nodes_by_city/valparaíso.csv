@@ -1,0 +1,101 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Valparaíso,12601,El Salto,-33.0414651,-71.5209662,heavy_rail,
+Valparaíso,12601,El Salto,-33.0414651,-71.5209662,commuter_rail,
+Valparaíso,12603,Francia,-33.043871,-71.6130931,heavy_rail,2005.0
+Valparaíso,12604,Puerto,-33.0391564,-71.6262935,heavy_rail,2005.0
+Valparaíso,12606,Bellavista,-33.0431164,-71.620422,heavy_rail,
+Valparaíso,12606,Bellavista,-33.0431164,-71.620422,commuter_rail,
+Valparaíso,12609,Barón,-33.0421554,-71.6055958,heavy_rail,
+Valparaíso,12609,Barón,-33.0421554,-71.6055958,commuter_rail,
+Valparaíso,12610,Recreo,-33.0271118,-71.5752462,heavy_rail,2005.0
+Valparaíso,12612,Portales,-33.0327931,-71.5917702,heavy_rail,
+Valparaíso,12612,Portales,-33.0327931,-71.5917702,commuter_rail,
+Valparaíso,12613,Chorrillos,-33.0333718,-71.5328848,heavy_rail,
+Valparaíso,12613,Chorrillos,-33.0333718,-71.5328848,commuter_rail,
+Valparaíso,12614,Hospital,-33.0285637,-71.5429522,heavy_rail,2005.0
+Valparaíso,12615,Viña del Mar,-33.0263932,-71.5518603,heavy_rail,
+Valparaíso,12615,Viña del Mar,-33.0263932,-71.5518603,commuter_rail,
+Valparaíso,12616,Miramar,-33.0249175,-71.5615196,heavy_rail,
+Valparaíso,12616,Miramar,-33.0249175,-71.5615196,commuter_rail,
+Valparaíso,12618,Quilpué,-33.0453043,-71.4450335,heavy_rail,
+Valparaíso,12618,Quilpué,-33.0453043,-71.4450335,commuter_rail,
+Valparaíso,12619,El Sol,-33.0396737,-71.4285461,heavy_rail,
+Valparaíso,12619,El Sol,-33.0396737,-71.4285461,commuter_rail,
+Valparaíso,12623,El Belloto,-33.04311679369991,-71.40676514698777,heavy_rail,
+Valparaíso,12623,El Belloto,-33.04311679369991,-71.40676514698777,commuter_rail,
+Valparaíso,12624,Las Américas,-33.0440019,-71.3951792,heavy_rail,
+Valparaíso,12624,Las Américas,-33.0440019,-71.3951792,commuter_rail,
+Valparaíso,12625,La Concepción,-33.0417023,-71.3824016,heavy_rail,
+Valparaíso,12625,La Concepción,-33.0417023,-71.3824016,commuter_rail,
+Valparaíso,12627,Villa Alemana,-33.0425047,-71.3732253,heavy_rail,
+Valparaíso,12627,Villa Alemana,-33.0425047,-71.3732253,commuter_rail,
+Valparaíso,12628,Sargento Aldea,-33.0420725,-71.3662973,heavy_rail,1989.0
+Valparaíso,12628,Sargento Aldea,-33.0420725,-71.3662973,commuter_rail,1989.0
+Valparaíso,12629,Peñablanca,-33.0401612,-71.3528633,heavy_rail,
+Valparaíso,12629,Peñablanca,-33.0401612,-71.3528633,commuter_rail,
+Valparaíso,12634,Limache,-32.9847029,-71.2783967,heavy_rail,
+Valparaíso,12634,Limache,-32.9847029,-71.2783967,commuter_rail,
+Valparaíso,13722,Plaza Aduana,-33.033786641237825,-71.63008230531408,people_mover,1892.0
+Valparaíso,13723,Paseo 21 de Mayo,-33.032431635692966,-71.63046123172683,people_mover,1892.0
+Valparaíso,14661,Almirante Muñoz,-33.037817924448085,-71.63026272419069,people_mover,1894.0
+Valparaíso,14662,Castillo,-33.037995247536344,-71.63060404773428,people_mover,1894.0
+Valparaíso,14663,Plaza de la Justicia,-33.03961168602384,-71.62940698228796,people_mover,1901.0
+Valparaíso,14664,Paseo Yugoslavo,-33.0401723640009,-71.62919199979872,people_mover,1901.0
+Valparaíso,14665,Prat,-33.040961884061936,-71.62608669713711,people_mover,1883.0
+Valparaíso,14666,Paseo Gervasioni,-33.04132803590482,-71.6263494535177,people_mover,1883.0
+Valparaíso,14667,Elías,-33.04399824347078,-71.62638341083888,people_mover,1903.0
+Valparaíso,14668,Paseo Dimalow,-33.043831989744284,-71.62662581860076,people_mover,1903.0
+Valparaíso,14669,Gaspar Marín,-33.050018056379244,-71.61728905700322,people_mover,1906.0
+Valparaíso,14670,Paseo Barbosa,-33.05121263828803,-71.61819832042389,people_mover,1906.0
+Valparaíso,14671,Carrera,-33.049580417532844,-71.61959194165433,people_mover,1907.0
+Valparaíso,14672,Marconi,-33.05030182635399,-71.62047830217291,people_mover,1906.0
+Valparaíso,14673,Eusebio Lillo,-33.04475489942669,-71.60344441904124,people_mover,1908.0
+Valparaíso,14674,Lecheros,-33.04426565356811,-71.60301302302965,people_mover,1908.0
+Valparaíso,14675,Diego Portales,-33.043029293362586,-71.60366153485982,people_mover,1906.0
+Valparaíso,14676,Avenida España,-33.04317958846994,-71.60413778458053,people_mover,1906.0
+Valparaíso,14677,Aldunate,-33.04733721824511,-71.62127537435519,people_mover,1911.0
+Valparaíso,14678,Rudolph,-33.04786423173071,-71.62156592427024,people_mover,1911.0
+Valparaíso,14679,Vicente Bianchi,-33.052605130010484,-71.6147682121925,people_mover,1912.0
+Valparaíso,14680,Baquedano,-33.051938413477984,-71.61375366905656,people_mover,1912.0
+Valparaíso,14681,Antonio Varas,-33.031468424551285,-71.63004943208452,people_mover,1913.0
+Valparaíso,14682,Pedro León Gallo,-33.03010853765449,-71.63096541071387,people_mover,1913.0
+Valparaíso,14683,José Tomás Ramos,-33.04060404765159,-71.6316934949832,people_mover,1913.0
+Valparaíso,14684,Canal,-33.0403773830711,-71.63242273047403,people_mover,1913.0
+Valparaíso,15503,Eusebio Lillo,-33.04642471871079,-71.60260403860045,people_mover,1906.0
+Valparaíso,15504,Hnos. Clark,-33.04629700251046,-71.60160781102067,people_mover,1906.0
+Valparaíso,15505,Condell,-33.04609696086269,-71.62255037187508,people_mover,1899.0
+Valparaíso,15506,Héctor Calvo,-33.04625158441202,-71.62286205247808,people_mover,1899.0
+Valparaíso,15507,Ecuador,-33.0457372906233,-71.62425507397256,people_mover,1901.0
+Valparaíso,15508,Dinamarca,-33.045667976259104,-71.62506926003732,people_mover,1901.0
+Valparaíso,15509,Av. Alemania,-33.0554916409782,-71.60801011355345,people_mover,1925.0
+Valparaíso,15510,Luis Cousiño,-33.05498669995458,-71.6083484762317,people_mover,1925.0
+Valparaíso,15511,Av. Francia,-33.052584544707464,-71.61322369559018,people_mover,1907.0
+Valparaíso,15512,Federico Varela,-33.053167194005674,-71.61251969376876,people_mover,1907.0
+Valparaíso,15513,Cajilla,-33.03688940905729,-71.63562120073934,people_mover,1931.0
+Valparaíso,15514,Camino Cintura,-33.03687437092777,-71.63657642196914,people_mover,1931.0
+Valparaíso,15515,Cajilla,-33.03661892378799,-71.6344017832149,people_mover,1910.0
+Valparaíso,15516,Cayocopil,-33.0360850666527,-71.63449147535336,people_mover,1910.0
+Valparaíso,15517,Bustamante,-33.0346224661359,-71.63083468721423,people_mover,1907.0
+Valparaíso,15518,Almte. Riveros,-33.034626513275136,-71.63118468521465,people_mover,1907.0
+Valparaíso,15520,Antofagasta,-33.05283909354196,-71.59397655235831,people_mover,1925.0
+Valparaíso,15521,Jorge Ossandón,-33.05308262354827,-71.59513448262601,people_mover,1925.0
+Valparaíso,15522,Los Placeres,-33.037355221167644,-71.5972961712433,people_mover,1913.0
+Valparaíso,15523,Portales,-33.03753045867654,-71.59792327787335,people_mover,1913.0
+Valparaíso,15524,Ramaditas,-33.05581200395437,-71.5997694489941,people_mover,1914.0
+Valparaíso,15525,Santa Elena,-33.05646089027788,-71.60044455244275,people_mover,1914.0
+Valparaíso,15526,Paseo Atkinson,-33.042685267673164,-71.62514858396972,people_mover,1905.0
+Valparaíso,15527,Esmeralda,-33.04269762230589,-71.62479117914802,people_mover,1905.0
+Valparaíso,15528,Polanco Superior,-33.0502628195369,-71.59860259293463,people_mover,1911.0
+Valparaíso,15529,Polanco Inferior,-33.05104889685169,-71.60057141181606,people_mover,1911.0
+Valparaíso,22559,Puerto,-33.038312092476005,-71.6271936585783,commuter_rail,
+Valparaíso,22560,Colegio Alemán,-33.03823798579266,-71.52533542473132,commuter_rail,1998.0
+Valparaíso,22561,Laboral,-33.049018459949686,-71.50983562617546,commuter_rail,1995.0
+Valparaíso,22562,Valencia,-33.040462035360655,-71.46877019285164,commuter_rail,1987.0
+Valparaíso,22563,Rumié,-33.04265682571673,-71.38844073872919,commuter_rail,1960.0
+Valparaíso,22564,La Calera,-32.789836931819025,-71.19107631296599,commuter_rail,
+Valparaíso,22565,,-32.84268915811661,-71.22535271644936,commuter_rail,
+Valparaíso,22566,Quillota,-32.875602713820264,-71.24186565845818,commuter_rail,
+Valparaíso,22567,Corvi,-32.889141342090554,-71.24328365252354,commuter_rail,1958.0
+Valparaíso,22568,San Pedro,-32.9377312457989,-71.27651262518197,commuter_rail,
+Valparaíso,26286,Villanelo Alto,-33.02718279455455,-71.5575654238086,people_mover,1983.0
+Valparaíso,26287,Villanelo Bajo,-33.02653969455878,-71.55739342035353,people_mover,1983.0

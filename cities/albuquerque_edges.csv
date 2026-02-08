@@ -1,0 +1,15 @@
+nodeID_from,nodeID_to,line_id,year,mode
+1,2,4731,2006.0,commuter_rail
+1,6,4731,2006.0,commuter_rail
+2,3,4731,2007.0,commuter_rail
+3,4,4731,2008.0,commuter_rail
+4,5,4731,2006.0,commuter_rail
+6,7,4731,2014.0,commuter_rail
+7,9,4731,2006.0,commuter_rail
+8,10,4731,2007.0,commuter_rail
+8,9,4731,2007.0,commuter_rail
+10,11,4731,2006.0,commuter_rail
+11,12,4731,2010.0,commuter_rail
+12,13,4731,2009.0,commuter_rail
+13,14,4731,2017.0,commuter_rail
+14,15,4731,2008.0,commuter_rail

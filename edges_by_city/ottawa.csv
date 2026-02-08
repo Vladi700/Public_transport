@@ -1,0 +1,13 @@
+nodeID_from,nodeID_to,mode,line_id,year
+32423,32421,light_rail,3220,
+32421,32420,light_rail,3220,
+32420,26532,light_rail,3220,
+26532,26529,light_rail,3220,
+26529,26528,light_rail,3220,
+26528,32413,light_rail,3220,
+32413,32414,light_rail,3220,
+32414,32415,light_rail,3220,
+32415,32416,light_rail,3220,
+32416,32417,light_rail,3220,
+32417,32418,light_rail,3220,
+32418,32419,light_rail,3220,

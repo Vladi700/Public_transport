@@ -1,0 +1,10 @@
+nodeID,nodeLabel,latitude,longitude,mode,year,line_id
+1,Gare des Aubrais,47.9265153,1.9069593,light_rail,2000.0,1272
+2,Gare des Aubrais,47.9265234,1.9070023,light_rail,2000.0,1272
+3,Coligny,47.9160252,1.900368,light_rail,2000.0,1272
+4,Coligny,47.9160228,1.9003287,light_rail,2000.0,1272
+5,Gare d'Orléans,47.9067754,1.9052093,light_rail,2000.0,1272
+6,Gare d'Orléans,47.906798,1.9052166,light_rail,2000.0,1272
+7,,47.9014423,1.902857,light_rail,200.0,1272
+8,,47.9010584,1.9028389,light_rail,2000.0,1272
+9,,47.9013608,1.8930023,light_rail,2012.0,1271

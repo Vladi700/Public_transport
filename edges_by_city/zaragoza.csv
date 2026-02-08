@@ -1,0 +1,6 @@
+nodeID_from,nodeID_to,mode,line_id,year
+3673,3672,commuter_rail,321,
+3672,3671,commuter_rail,321,
+3671,3674,commuter_rail,321,
+3674,3675,commuter_rail,321,
+3675,3676,commuter_rail,321,

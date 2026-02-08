@@ -1,0 +1,15 @@
+nodeID_from,nodeID_to,line_id,year,mode
+1,16,254,1861.0,default
+2,16,254,1842.0,default
+2,3,254,1842.0,default
+3,15,254,1907.0,default
+4,15,254,0.0,default
+4,5,254,0.0,default
+5,6,254,2008.0,default
+7,8,255,1861.0,default
+8,9,255,0.0,default
+9,10,255,0.0,default
+10,11,255,2008.0,default
+11,12,255,1851.0,default
+12,13,255,0.0,default
+13,14,255,2008.0,default

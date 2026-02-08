@@ -1,0 +1,7 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Rotterdam - The Hague,19043,Centraal Station,52.080755033108346,4.323099216920411,tram,0.0
+Rotterdam - The Hague,19043,Centraal Station,52.080755033108346,4.323099216920411,light_rail,0.0
+Rotterdam - The Hague,19044,Spui,52.07745170161221,4.314556360063666,light_rail,0.0
+Rotterdam - The Hague,19044,Spui,52.07745170161221,4.314556360063666,tram,0.0
+Rotterdam - The Hague,19045,Kalvermarkt,52.078047950485,4.316454786573786,tram,0.0
+Rotterdam - The Hague,19048,,52.077732320673334,4.314762353852334,tram,0.0

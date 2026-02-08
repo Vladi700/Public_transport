@@ -1,0 +1,9 @@
+nodeID_from,nodeID_to,mode,line_id,year
+30763,30769,heavy_rail,3630,
+30769,30768,heavy_rail,3630,
+30768,30766,heavy_rail,3630,
+30766,30767,heavy_rail,3630,
+30767,30765,heavy_rail,3630,
+30765,30770,heavy_rail,3630,
+30770,30771,heavy_rail,3630,
+30771,30764,heavy_rail,3630,

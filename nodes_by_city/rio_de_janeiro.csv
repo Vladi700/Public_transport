@@ -1,0 +1,104 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Rio de Janeiro,10859,Santos Dumont,-22.91230786112463,-43.16751831081439,light_rail,2016.0
+Rio de Janeiro,10860,Praia Formosa,-22.902945092131304,-43.208213395137705,light_rail,2017.0
+Rio de Janeiro,10861,Cinelândia,-22.91086417516408,-43.17541900968973,light_rail,2016.0
+Rio de Janeiro,10862,Antônio Carlos,-22.91125968680558,-43.17203597328111,light_rail,2016.0
+Rio de Janeiro,10863,Carioca,-22.907353288070098,-43.176723998952724,light_rail,2016.0
+Rio de Janeiro,10864,Sete de Setembro,-22.905109191270938,-43.177553088545636,light_rail,2016.0
+Rio de Janeiro,10865,Candelária,-22.901533885613844,-43.17888604325398,light_rail,2016.0
+Rio de Janeiro,10866,São Bento,-22.898822864844476,-43.17989503658322,light_rail,2016.0
+Rio de Janeiro,10867,Parada dos Museus,-22.895903432226106,-43.18200305759788,light_rail,2016.0
+Rio de Janeiro,10868,Parada dos Navios,-22.894159274706425,-43.18712745184021,light_rail,2016.0
+Rio de Janeiro,10869,Utopia/AquaRio,-22.893067102921876,-43.19029784387749,light_rail,2016.0
+Rio de Janeiro,10870,Praça XV,-22.901983449244426,-43.1729622763236,light_rail,2017.0
+Rio de Janeiro,10871,Colombo,-22.905083729268142,-43.17789431129151,light_rail,2017.0
+Rio de Janeiro,10872,Tiradentes,-22.906529286296603,-43.18272880915512,light_rail,2017.0
+Rio de Janeiro,10873,Saara,-22.905603861719754,-43.18751758436923,light_rail,2017.0
+Rio de Janeiro,10874,,-22.955786062063368,-43.166987834864955,default,1912.0
+Rio de Janeiro,10875,,-22.95168687455596,-43.165082840699114,default,1912.0
+Rio de Janeiro,10876,,-22.951132920765545,-43.163779423643376,default,1913.0
+Rio de Janeiro,10877,,-22.94961876867849,-43.15670086650573,default,1913.0
+Rio de Janeiro,10922,Glória,-22.9206456,-43.1767129,heavy_rail,1979.0
+Rio de Janeiro,10923,Catete,-22.9263263,-43.1765838,heavy_rail,1981.0
+Rio de Janeiro,10924,Botafogo,-22.9503628,-43.1842154,heavy_rail,1981.0
+Rio de Janeiro,10925,São Francisco Xavier,-22.920772,-43.2235819,heavy_rail,1982.0
+Rio de Janeiro,10926,Afonso Pena,-22.9184484,-43.2177451,heavy_rail,1982.0
+Rio de Janeiro,10927,Central,-22.9050384,-43.1907819,heavy_rail,1979.0
+Rio de Janeiro,10928,Praça Onze,-22.909917,-43.200283,heavy_rail,1979.0
+Rio de Janeiro,10929,Carioca,-22.9075413,-43.178026,heavy_rail,1981.0
+Rio de Janeiro,10930,Flamengo,-22.9381724,-43.1782113,heavy_rail,1981.0
+Rio de Janeiro,10931,Largo do Machado,-22.9308513,-43.1781402,heavy_rail,1981.0
+Rio de Janeiro,10932,Cinelândia,-22.9109063,-43.1756533,heavy_rail,1979.0
+Rio de Janeiro,10933,Saens Peña,-22.924141,-43.2325924,heavy_rail,1982.0
+Rio de Janeiro,10934,Presidente Vargas,-22.903341,-43.1861796,heavy_rail,1979.0
+Rio de Janeiro,10935,Uruguaiana,-22.9029089,-43.1818193,heavy_rail,1980.0
+Rio de Janeiro,10936,Uruguai,-22.9309412,-43.2382699,heavy_rail,2014.0
+Rio de Janeiro,10937,Pavuna,-22.8063663,-43.3655335,heavy_rail,1998.0
+Rio de Janeiro,10938,Estácio,-22.9135438,-43.2065639,heavy_rail,0.0
+Rio de Janeiro,10939,Cidade Nova,-22.908741976144537,-43.206136021295414,heavy_rail,2010.0
+Rio de Janeiro,10940,Maracanã,-22.9096861,-43.2344437,heavy_rail,1981.0
+Rio de Janeiro,10941,São Cristóvão,-22.9096837,-43.2209965,heavy_rail,1981.0
+Rio de Janeiro,10942,Triagem,-22.8964547,-43.2449358,heavy_rail,1988.0
+Rio de Janeiro,10943,Maria da Graça,-22.8815393,-43.260399,heavy_rail,1983.0
+Rio de Janeiro,10944,Nova América/Del Castilho,-22.87907430662131,-43.27242035562046,heavy_rail,1983.0
+Rio de Janeiro,10945,Inhaúma,-22.8746115,-43.283145,heavy_rail,1983.0
+Rio de Janeiro,10946,Thomaz Coelho,-22.862615429238478,-43.30686120405336,heavy_rail,1996.0
+Rio de Janeiro,10947,Vicente de Carvalho,-22.854431836205134,-43.31261180637513,heavy_rail,1996.0
+Rio de Janeiro,10948,Engenho da Rainha,-22.8678968,-43.2975758,heavy_rail,1991.0
+Rio de Janeiro,10949,Irajá,-22.8479804,-43.3235281,heavy_rail,1998.0
+Rio de Janeiro,10950,Colégio,-22.8427042,-43.3343318,heavy_rail,1998.0
+Rio de Janeiro,10951,Coelho Neto,-22.831776312312762,-43.34304700448716,heavy_rail,1998.0
+Rio de Janeiro,10952,Acari / Fazenda Botafogo,-22.824934832362043,-43.34944323568081,heavy_rail,1998.0
+Rio de Janeiro,10953,Engenheiro Rubens Paiva,-22.816317435112346,-43.35852457190954,heavy_rail,1998.0
+Rio de Janeiro,10954,Cardeal Arcoverde,-22.9635256,-43.181734,heavy_rail,1998.0
+Rio de Janeiro,10955,General Osório,-22.984673541767386,-43.19686629829655,heavy_rail,2009.0
+Rio de Janeiro,10956,Cantagalo,-22.9754703,-43.1944503,heavy_rail,2007.0
+Rio de Janeiro,10957,Siqueira Campos,-22.9671783,-43.187363,heavy_rail,2002.0
+Rio de Janeiro,10958,Antero de Quental,-22.9844923,-43.2235693,heavy_rail,2016.0
+Rio de Janeiro,10959,Jardim de Alah,-22.9837072,-43.2157299,heavy_rail,2016.0
+Rio de Janeiro,10960,Nossa Senhora da Paz,-22.984186595525227,-43.206632541892816,heavy_rail,2016.0
+Rio de Janeiro,10961,São Conrado,-22.9916629,-43.2549729,heavy_rail,2016.0
+Rio de Janeiro,10962,Jardim Oceânico,-23.0068286,-43.3109313,heavy_rail,2016.0
+Rio de Janeiro,10970,Santa Cruz,-22.9154352,-43.6839066,heavy_rail,0.0
+Rio de Janeiro,10971,Paciência,-22.916239695350693,-43.6323888889233,heavy_rail,0.0
+Rio de Janeiro,10972,Tancredo Neves,-22.918878537503247,-43.649257137397065,heavy_rail,0.0
+Rio de Janeiro,10976,Cosmos,-22.912634,-43.6138475,heavy_rail,0.0
+Rio de Janeiro,10978,Benjamin do Monte,-22.9062009,-43.5806384,heavy_rail,0.0
+Rio de Janeiro,10980,Augusto Vasconcelos,-22.8927029,-43.5370511,heavy_rail,0.0
+Rio de Janeiro,10982,Campo Grande,-22.9020999,-43.5594625,heavy_rail,0.0
+Rio de Janeiro,10983,Santíssimo,-22.8793213,-43.5110337,heavy_rail,0.0
+Rio de Janeiro,10984,Senador Camará,-22.8758425,-43.4868359,heavy_rail,0.0
+Rio de Janeiro,10985,Guilherme da Silveira,-22.8752282,-43.4560334,heavy_rail,0.0
+Rio de Janeiro,10986,Mocidade de Padre Miguel,-22.8750692,-43.4472726,heavy_rail,0.0
+Rio de Janeiro,10987,Bangu,-22.8753398,-43.465489,heavy_rail,0.0
+Rio de Janeiro,10989,Magalhães Bastos,-22.8679186,-43.4132521,heavy_rail,0.0
+Rio de Janeiro,10990,Realengo,-22.8747306,-43.428837,heavy_rail,0.0
+Rio de Janeiro,10991,Vila Militar,-22.8623302,-43.401662,heavy_rail,0.0
+Rio de Janeiro,10993,Ricardo de Albuquerque,-22.8412057,-43.3984098,heavy_rail,1900.0
+Rio de Janeiro,10994,Deodoro,-22.8549743,-43.3843732,heavy_rail,0.0
+Rio de Janeiro,10995,Oswaldo Cruz,-22.869122106742843,-43.35023194663106,heavy_rail,0.0
+Rio de Janeiro,10998,Quintino,-22.8885718,-43.3208413,heavy_rail,0.0
+Rio de Janeiro,11397,Santa Rita,-22.900614265886418,-43.181545787664355,light_rail,2019.0
+Rio de Janeiro,11399,Central,-22.902832484440623,-43.19243425521421,light_rail,2017.0
+Rio de Janeiro,13694,Camerino,-22.902214771590934,-43.18536353181028,light_rail,2019.0
+Rio de Janeiro,13695,Duque de Caxias,-22.90329274775023,-43.190727029110064,light_rail,2019.0
+Rio de Janeiro,13696,Rodoviária,-22.899070789817216,-43.207740019069206,light_rail,2016.0
+Rio de Janeiro,13697,Equador,-22.897901374920565,-43.20489523960737,light_rail,2016.0
+Rio de Janeiro,13698,Cordeiro da Graça,-22.897195923522304,-43.204514983133606,light_rail,2016.0
+Rio de Janeiro,13699,Vila Olímpica,-22.899021489533155,-43.199645150059354,light_rail,2017.0
+Rio de Janeiro,13700,Pereira Reis,-22.89669735503493,-43.20193005845178,light_rail,2016.0
+Rio de Janeiro,13701,Santo Cristo,-22.895333394822558,-43.20038166782615,light_rail,2016.0
+Rio de Janeiro,13702,Cidade do Samba,-22.89426403183552,-43.19715604611645,light_rail,2016.0
+Rio de Janeiro,13703,Gamboa,-22.89792015345637,-43.199563443040546,light_rail,2016.0
+Rio de Janeiro,13704,Providência,-22.8974861405283,-43.19662624079706,light_rail,2017.0
+Rio de Janeiro,13705,Harmonia,-22.895748779506206,-43.19136743570033,light_rail,2017.0
+Rio de Janeiro,13706,Praça XV,-22.90263426575011,-43.17200812128118,ferry,0.0
+Rio de Janeiro,13707,Araribóia,-22.893860923192577,-43.124623106331484,ferry,0.0
+Rio de Janeiro,13708,Charitas,-22.93211308345117,-43.09937981753367,ferry,0.0
+Rio de Janeiro,13709,Central do Brasil,-22.903715778497485,-43.19201090829361,heavy_rail,1858.0
+Rio de Janeiro,13710,Praça da Bandeira,-22.909821867824377,-43.21316739861351,heavy_rail,1907.0
+Rio de Janeiro,13711,Triagem,-22.896472716229226,-43.244508326440695,heavy_rail,1914.0
+Rio de Janeiro,13716,Engenho de Dentro,-22.895492020238535,-43.29378164596301,heavy_rail,1873.0
+Rio de Janeiro,13721,Gávea,-22.978664480132366,-43.23030650572804,heavy_rail,
+Rio de Janeiro,26897,Manguinhos,-22.879637946827387,-43.25075799173135,heavy_rail,
+Rio de Janeiro,26985,Anchieta,-22.8246214,-43.4029138,heavy_rail,1900.0

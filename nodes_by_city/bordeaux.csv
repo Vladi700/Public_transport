@@ -1,0 +1,238 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Bordeaux,7119,Jean Zay,44.85413862429252,-0.513171428195847,default,2007.0
+Bordeaux,7120,La Marègue,44.85076168568122,-0.508902151566161,default,2007.0
+Bordeaux,7121,Floirac Dravemont,44.84601316766259,-0.51040003113323,default,2007.0
+Bordeaux,7126,Pierre Mendès-France,44.8301527,-0.6398204,default,2007.0
+Bordeaux,7127,Fontaine d'Arlac,44.8266811,-0.6256553,default,2007.0
+Bordeaux,7128,Alfred de Vigny,44.8302566,-0.6339006,default,2007.0
+Bordeaux,7129,Alfred de Vigny,44.8302313,-0.6338879,default,2007.0
+Bordeaux,7130,Pierre Mendès-France,44.8301525,-0.6398495,default,2007.0
+Bordeaux,7131,Quatre Chemins,44.8326228,-0.6448659,default,2007.0
+Bordeaux,7132,Quatre Chemins,44.8325905,-0.6448535,default,2007.0
+Bordeaux,7133,Lycées de Mérignac,44.8349683,-0.6474347,default,2007.0
+Bordeaux,7134,Lycées de Mérignac,44.8349755,-0.6474691,default,2007.0
+Bordeaux,7135,Peychotte,44.8266077,-0.6199531,default,2007.0
+Bordeaux,7136,Fontaine d'Arlac,44.8266497,-0.6256639,default,2007.0
+Bordeaux,7137,Peychotte,44.826577,-0.6199446,default,2007.0
+Bordeaux,7138,François Mitterrand,44.8271195,-0.6143385,default,2007.0
+Bordeaux,7139,François Mitterrand,44.8270935,-0.6143124,default,2007.0
+Bordeaux,7140,Saint-Augustin,44.8287689,-0.6103065,default,2005.0
+Bordeaux,7141,Saint-Augustin,44.8287963,-0.6103222,default,2005.0
+Bordeaux,7142,Bois Fleuri,44.8760331,-0.5193103,default,2003.0
+Bordeaux,7143,Lauriers,44.8791226,-0.5178962,default,2003.0
+Bordeaux,7144,Mairie de Lormont,44.8798421,-0.5236096,default,2008.0
+Bordeaux,7145,Carriet,44.8822095,-0.523887,default,2008.0
+Bordeaux,7146,Bois Fleuri,44.8760314,-0.5192746,default,2003.0
+Bordeaux,7147,Lauriers,44.8791188,-0.5178553,default,2003.0
+Bordeaux,7148,Mairie de Lormont,44.879869,-0.5236085,default,2008.0
+Bordeaux,7149,Carriet,44.8821897,-0.5238527,default,2008.0
+Bordeaux,7150,Gravières,44.8727959,-0.5202014,default,2003.0
+Bordeaux,7151,Gravières,44.8727922,-0.5201609,default,2003.0
+Bordeaux,7152,Iris,44.8685419,-0.5226499,default,2003.0
+Bordeaux,7153,Iris,44.8685611,-0.5226848,default,2003.0
+Bordeaux,7154,Buttinière,44.8640738,-0.5249038,default,2003.0
+Bordeaux,7155,Buttinière,44.8641008,-0.5248962,default,2003.0
+Bordeaux,7156,Palmer,44.8622324,-0.5197432,default,2003.0
+Bordeaux,7157,Palmer,44.8622231,-0.5197023,default,2003.0
+Bordeaux,7158,Pelletan,44.8587067,-0.5197499,default,2003.0
+Bordeaux,7159,Pelletan,44.8587314,-0.5197155,default,2003.0
+Bordeaux,7160,La Morlette,44.8549925,-0.5181705,default,2003.0
+Bordeaux,7161,La Morlette,44.8550177,-0.5181563,default,2003.0
+Bordeaux,7162,Cenon Gare,44.8559915,-0.5342791,default,2003.0
+Bordeaux,7163,Cenon Gare,44.8559334,-0.5342116,default,2003.0
+Bordeaux,7164,Carnot Mairie de Cenon,44.8577425,-0.5315429,default,2003.0
+Bordeaux,7165,Carnot Mairie de Cenon,44.8577622,-0.5315685,default,2003.0
+Bordeaux,7166,Jean Jaurès,44.8537645,-0.5377508,default,2003.0
+Bordeaux,7167,Jean Jaurès,44.8538101,-0.5378095,default,2003.0
+Bordeaux,7168,Galin,44.8497795,-0.544342,default,2003.0
+Bordeaux,7169,Galin,44.8497613,-0.5443172,default,2003.0
+Bordeaux,7170,Thiers-Benauge,44.8458191,-0.5508132,default,2003.0
+Bordeaux,7171,Thiers-Benauge,44.8457987,-0.5507915,default,2003.0
+Bordeaux,7172,Jardin Botanique,44.843006,-0.555399,default,2003.0
+Bordeaux,7173,Jardin Botanique,44.8429876,-0.5553692,default,2003.0
+Bordeaux,7174,Stalingrad,44.8403077,-0.5598003,default,2003.0
+Bordeaux,7175,Stalingrad,44.8402895,-0.5597688,default,2003.0
+Bordeaux,7176,Saint-Michel,44.8344887,-0.5633482,default,2004.0
+Bordeaux,7177,Porte de Bourgogne,44.8371539,-0.5663931,default,2004.0
+Bordeaux,7178,Porte de Bourgogne,44.8371713,-0.5663606,default,2004.0
+Bordeaux,7179,Porte de Bourgogne,44.8372087,-0.5662906,default,2003.0
+Bordeaux,7180,Porte de Bourgogne,44.8372261,-0.566258,default,2003.0
+Bordeaux,7181,Saint-Michel,44.8344676,-0.5633808,default,2004.0
+Bordeaux,7182,Quinconces,44.8440058,-0.5737556,default,2004.0
+Bordeaux,7183,Quinconces,44.8440336,-0.5737602,default,2004.0
+Bordeaux,7184,Place de la Bourse,44.8415653,-0.5696866,default,2004.0
+Bordeaux,7185,Place de la Bourse,44.8415735,-0.5696467,default,2004.0
+Bordeaux,7186,Place du Palais,44.8379043,-0.569272,default,2003.0
+Bordeaux,7187,Place du Palais,44.8379326,-0.5692763,default,2003.0
+Bordeaux,7188,Sainte-Catherine,44.8376139,-0.5732788,default,2003.0
+Bordeaux,7189,Sainte-Catherine,44.837643,-0.5732836,default,2003.0
+Bordeaux,7190,Hôtel de Ville,44.8373101,-0.5771402,default,2003.0
+Bordeaux,7191,Hôtel de Ville,44.8373386,-0.5771451,default,2003.0
+Bordeaux,7192,Palais de Justice,44.8362776,-0.5815728,default,2003.0
+Bordeaux,7193,Quinconces,44.8444728,-0.5738221,default,2004.0
+Bordeaux,7194,Quinconces,44.8445011,-0.5738271,default,2004.0
+Bordeaux,7195,Palais de Justice,44.8362507,-0.5815561,default,2003.0
+Bordeaux,7196,Hôtel de Ville,44.8377071,-0.5764084,default,2004.0
+Bordeaux,7197,Hôtel de Ville,44.8377148,-0.5763691,default,2004.0
+Bordeaux,7198,Gambetta,44.8400831,-0.5782763,default,2004.0
+Bordeaux,7199,Gambetta,44.8411072,-0.5784661,default,2004.0
+Bordeaux,7200,Grand Théâtre,44.8420334,-0.5752769,default,2004.0
+Bordeaux,7201,Grand Théâtre,44.8420716,-0.5752793,default,2004.0
+Bordeaux,7202,Musée d'Aquitaine,44.8355045,-0.5753438,default,2004.0
+Bordeaux,7203,Musée d'Aquitaine,44.8355133,-0.575308,default,2004.0
+Bordeaux,7204,Victoire,44.8311933,-0.5730752,default,2004.0
+Bordeaux,7205,Victoire,44.8312036,-0.5730355,default,2004.0
+Bordeaux,7206,Mériadeck,44.8381735,-0.5842961,default,2003.0
+Bordeaux,7207,Saint-Bruno - Hôtel de Région,44.8374151,-0.5892669,default,2005.0
+Bordeaux,7208,Saint-Bruno - Hôtel de Région,44.8374673,-0.5892994,default,2005.0
+Bordeaux,7209,Mériadeck,44.8381142,-0.5842867,default,2003.0
+Bordeaux,7210,Hôtel de Police,44.8349157,-0.5888474,default,2005.0
+Bordeaux,7211,Hôtel de Police,44.8349217,-0.588805,default,2005.0
+Bordeaux,7212,Gaviniès,44.8330956,-0.5931881,default,2005.0
+Bordeaux,7213,Gaviniès,44.833068,-0.5931708,default,2005.0
+Bordeaux,7214,Stade Chaban Delmas,44.8312288,-0.5991475,default,2005.0
+Bordeaux,7215,Stade Chaban Delmas,44.8316235,-0.5978473,default,2005.0
+Bordeaux,7216,Hôpital Pellegrin,44.8301879,-0.6046153,default,2005.0
+Bordeaux,7217,Hôpital Pellegrin,44.8301583,-0.6046127,default,2005.0
+Bordeaux,7218,Mérignac Centre,44.8413886,-0.6469012,default,2015.0
+Bordeaux,7219,Mérignac Centre,44.8413744,-0.6468095,default,2015.0
+Bordeaux,7220,Hôtel de ville Mérignac,44.8441926,-0.6581965,default,2015.0
+Bordeaux,7221,Pin Galant,44.8441857,-0.6512813,default,2015.0
+Bordeaux,7222,Hôtel de ville Mérignac,44.8441637,-0.6582052,default,2015.0
+Bordeaux,7223,Pin Galant,44.8442059,-0.6512526,default,2015.0
+Bordeaux,7224,Frères Robinson,44.8500418,-0.6558925,default,2015.0
+Bordeaux,7225,Frères Robinson,44.8500521,-0.6559292,default,2015.0
+Bordeaux,7226,Les Pins,44.8569733,-0.6598216,default,2015.0
+Bordeaux,7227,Les Pins,44.856965,-0.6598608,default,2015.0
+Bordeaux,7228,Le Haillan Rostand,44.8585211,-0.6682748,default,2015.0
+Bordeaux,7229,Saint-Nicolas,44.828981,-0.5739766,default,2004.0
+Bordeaux,7230,Saint-Nicolas,44.8289989,-0.5740207,default,2004.0
+Bordeaux,7231,Bergonié,44.8250637,-0.578183,default,2004.0
+Bordeaux,7232,Bergonié,44.8250798,-0.5782249,default,2004.0
+Bordeaux,7233,Barrière Saint-Genès,44.8207867,-0.5831198,default,2004.0
+Bordeaux,7234,Barrière Saint-Genès,44.8215638,-0.5825735,default,2004.0
+Bordeaux,7235,Roustaing,44.8169375,-0.585641,default,2004.0
+Bordeaux,7236,Forum,44.8119471,-0.5909362,default,2004.0
+Bordeaux,7237,Forum,44.8119478,-0.5909737,default,2004.0
+Bordeaux,7238,Roustaing,44.8169483,-0.5856839,default,2004.0
+Bordeaux,7239,Peixotto,44.8072449,-0.592595,default,2004.0
+Bordeaux,7240,Peixotto,44.8072696,-0.5926241,default,2004.0
+Bordeaux,7241,Arts et Métiers,44.8059832,-0.6023138,default,2004.0
+Bordeaux,7242,Béthanie,44.8059866,-0.5979903,default,2004.0
+Bordeaux,7243,Arts et Métiers,44.8060071,-0.6023417,default,2004.0
+Bordeaux,7244,Béthanie,44.8060167,-0.5979895,default,2004.0
+Bordeaux,7245,François Bordes,44.8035485,-0.6066912,default,2004.0
+Bordeaux,7246,François Bordes,44.8035609,-0.606724,default,2004.0
+Bordeaux,7247,Doyen Brus,44.8002631,-0.6096297,default,2004.0
+Bordeaux,7248,Montaigne Montesquieu,44.7967973,-0.6173597,default,2004.0
+Bordeaux,7249,Doyen Brus,44.8002817,-0.6096654,default,2004.0
+Bordeaux,7250,Montaigne Montesquieu,44.7968261,-0.617379,default,2004.0
+Bordeaux,7251,Unitec,44.796318,-0.6214544,default,2004.0
+Bordeaux,7252,Saige,44.793979,-0.6285211,default,2004.0
+Bordeaux,7253,Unitec,44.7963401,-0.6214803,default,2004.0
+Bordeaux,7254,Saige,44.7940084,-0.6285025,default,2004.0
+Bordeaux,7255,Bougnard,44.7940731,-0.634042,default,2004.0
+Bordeaux,7256,Bougnard,44.7941015,-0.6340418,default,2004.0
+Bordeaux,7257,Camponac Médiathèque,44.8003352,-0.6347906,default,2007.0
+Bordeaux,7258,Camponac Médiathèque,44.800363,-0.6347593,default,2007.0
+Bordeaux,7259,Pessac Centre,44.8041843,-0.6327498,default,2007.0
+Bordeaux,7260,Pessac Centre,44.8042139,-0.632759,default,2007.0
+Bordeaux,7261,Châtaigneraie,44.7930619,-0.6465917,default,2015.0
+Bordeaux,7262,Châtaigneraie,44.7930354,-0.6465738,default,2015.0
+Bordeaux,7263,Cap Métiers,44.7892783,-0.6515586,default,2015.0
+Bordeaux,7264,Cap Métiers,44.7893078,-0.6516029,default,2015.0
+Bordeaux,7265,Hôpital Haut-Lévêque,44.7876176,-0.6552449,default,2015.0
+Bordeaux,7266,Hôpital Haut-Lévêque,44.7876393,-0.6552051,default,2015.0
+Bordeaux,7267,Gare Pessac Alouette,44.7931249,-0.6577692,default,2015.0
+Bordeaux,7268,Gare Pessac Alouette,44.7931297,-0.6577179,default,2015.0
+Bordeaux,7269,France Alouette,44.7986421,-0.663075,default,2015.0
+Bordeaux,7270,France Alouette,44.7986436,-0.663022,default,2015.0
+Bordeaux,7271,CAPC,44.8490618,-0.5704987,default,2007.0
+Bordeaux,7272,Place Paul Doumer,44.8519828,-0.5741287,default,2007.0
+Bordeaux,7273,Place Paul Doumer,44.8519888,-0.5740853,default,2007.0
+Bordeaux,7274,Jardin Public,44.8482619,-0.5753679,default,2007.0
+Bordeaux,7275,Jardin Public,44.8482663,-0.5753237,default,2007.0
+Bordeaux,7276,CAPC,44.849053,-0.5704606,default,2007.0
+Bordeaux,7277,Les Hangars,44.8579717,-0.5588362,default,2007.0
+Bordeaux,7278,Chartrons,44.852807,-0.5675849,default,2007.0
+Bordeaux,7279,Chartrons,44.8528256,-0.5676181,default,2007.0
+Bordeaux,7280,Cours du Médoc,44.8558874,-0.5631824,default,2007.0
+Bordeaux,7281,Cours du Médoc,44.8559104,-0.5632091,default,2007.0
+Bordeaux,7282,Les Hangars,44.8579454,-0.558814,default,2007.0
+Bordeaux,7283,La Cité du Vin,44.8607165,-0.5531985,default,2016.0
+Bordeaux,7284,La Cité du Vin,44.8607398,-0.5532237,default,2016.0
+Bordeaux,7285,Bassins à Flot,44.86074000028685,-0.553223658086182,default,2007.0
+Bordeaux,7286,Bassins à Flot,44.86071669201996,-0.553198437118311,default,2007.0
+Bordeaux,7287,Achard,44.8666245,-0.5487103,default,2008.0
+Bordeaux,7288,Achard,44.8666161,-0.5486674,default,2008.0
+Bordeaux,7289,New-York,44.8709435,-0.5473199,default,2008.0
+Bordeaux,7290,New-York,44.8711657,-0.5472875,default,2008.0
+Bordeaux,7291,Brandenburg,44.8744713,-0.5456454,default,2008.0
+Bordeaux,7292,Brandenburg,44.8744826,-0.5456823,default,2008.0
+Bordeaux,7293,Claveau,44.8778694,-0.5437916,default,2008.0
+Bordeaux,7294,Claveau,44.877882,-0.5438323,default,2008.0
+Bordeaux,7295,Berges de la Garonne,44.8855448,-0.5415262,default,2014.0
+Bordeaux,7296,Gare Saint-Jean,44.8258949,-0.5567969,default,2004.0
+Bordeaux,7297,Sainte-Croix,44.8318331,-0.5594192,default,2004.0
+Bordeaux,7298,Sainte-Croix,44.831855,-0.5593919,default,2004.0
+Bordeaux,7299,Tauzia,44.8290437,-0.5585271,default,2004.0
+Bordeaux,7300,Tauzia,44.829068,-0.5584984,default,2004.0
+Bordeaux,7301,Gare Saint-Jean,44.8259025,-0.5568355,default,2004.0
+Bordeaux,7302,Terres Neuves,44.8153145,-0.5508445,default,2008.0
+Bordeaux,7303,Carle Vernet,44.8198566,-0.5503924,default,2008.0
+Bordeaux,7304,Belcier,44.8225557,-0.5521098,default,2008.0
+Bordeaux,7305,Belcier,44.8225256,-0.5521222,default,2008.0
+Bordeaux,7306,Carle Vernet,44.8198771,-0.5504242,default,2008.0
+Bordeaux,7307,Terres Neuves,44.8152981,-0.5508789,default,2008.0
+Bordeaux,7308,La Belle Rose,44.8111706,-0.5512242,default,2015.0
+Bordeaux,7309,La Belle Rose,44.8111787,-0.5512597,default,2015.0
+Bordeaux,7310,Calais Centujean,44.8030967,-0.5519473,default,2015.0
+Bordeaux,7311,Gare de Bègles,44.7982186,-0.5518669,default,2015.0
+Bordeaux,7312,Stade Musard,44.8079501,-0.5515153,default,2015.0
+Bordeaux,7313,Lycée Václav Havel,44.786707,-0.5662012,default,2015.0
+Bordeaux,7314,Parc de Mussonville,44.7939836,-0.5595985,default,2015.0
+Bordeaux,7315,Place Ravezies - Le Bouscat,44.8671353,-0.5758425,default,2008.0
+Bordeaux,7316,Place Ravezies - Le Bouscat,44.867137,-0.5758043,default,2008.0
+Bordeaux,7317,Grand Parc,44.8623141,-0.5753367,default,2007.0
+Bordeaux,7318,Grand Parc,44.8623163,-0.5752941,default,2007.0
+Bordeaux,7319,Émile Counord,44.8586914,-0.5749409,default,2007.0
+Bordeaux,7320,Émile Counord,44.8586941,-0.5748799,default,2007.0
+Bordeaux,7321,Camille Godard,44.8547053,-0.5745065,default,2007.0
+Bordeaux,7322,Camille Godard,44.8547066,-0.5744644,default,2007.0
+Bordeaux,7323,Cracovie,44.8709499,-0.5762615,default,2008.0
+Bordeaux,7324,Cracovie,44.8709538,-0.5762218,default,2008.0
+Bordeaux,7325,Berges du Lac,44.8790308,-0.5707626,default,2014.0
+Bordeaux,7326,Berges du Lac,44.8790345,-0.5708035,default,2014.0
+Bordeaux,7327,Quarante Journaux,44.8830813,-0.5703946,default,2015.0
+Bordeaux,7328,Quarante Journaux,44.8831108,-0.5703877,default,2015.0
+Bordeaux,7329,Palais des Congrès,44.8893049,-0.5671811,default,2015.0
+Bordeaux,7330,Palais des Congrès,44.8892824,-0.5671521,default,2015.0
+Bordeaux,7331,Parc des Expositions,44.8933126,-0.5658156,default,2015.0
+Bordeaux,7332,Parc des Expositions,44.8933155,-0.5657839,default,2015.0
+Bordeaux,7333,Ausone,44.87906351263521,-0.602641507330247,default,2016.0
+Bordeaux,7334,La Vache,44.87208070318994,-0.590463977942761,default,2016.0
+Bordeaux,7335,Gare de Bruges,44.887560977322494,-0.609754646507895,default,2016.0
+Bordeaux,7336,Frankton,44.90714099108612,-0.618988436603814,default,2016.0
+Bordeaux,7337,Gare de Blanquefort,44.91675678224195,-0.623455138612201,default,2016.0
+Bordeaux,7338,Lormont Bas,44.878122150823174,-0.5345866066491,default,2013.0
+Bordeaux,7339,La Cité du Vin,44.86165024498883,-0.549016477303667,default,2016.0
+Bordeaux,7340,Stalingrad,44.841679673050464,-0.56352097425841,default,2013.0
+Bordeaux,7341,Quinconces,44.84320149831106,-0.569198946187271,default,2013.0
+Bordeaux,7342,Les Hangars,44.85530232971516,-0.562784019720567,default,2013.0
+Bordeaux,7343,Bassins à Flot,44.861648972496084,-0.549016895994299,default,2013.0
+Bordeaux,7344,Cantinolle,44.89218327651167,-0.6677577350749,default,2019.0
+Bordeaux,7345,Les Sources,44.88805504636133,-0.66023735288141,default,2019.0
+Bordeaux,7346,Eysines Centre,44.88379279585649,-0.649799896160999,default,2019.0
+Bordeaux,7347,Picot,44.88133021778768,-0.640966070193997,default,2019.0
+Bordeaux,7348,Toulouse Lautrec,44.87953353215627,-0.63653220785406,default,2019.0
+Bordeaux,7349,Hippodrome,44.87401063010296,-0.62818357561801,default,2019.0
+Bordeaux,7350,Bois du Bouscat,44.876627710812386,-0.621891283145743,default,2019.0
+Bordeaux,7351,Sainte-Germaine,44.871933266352784,-0.614963579732205,default,2019.0
+Bordeaux,7352,Les Écus,44.8692146427712,-0.609445233207595,default,2019.0
+Bordeaux,7353,Mairie du Bouscat,44.8653678339017,-0.605015878976246,default,2019.0
+Bordeaux,7354,Calypso,44.86055122920493,-0.599766360786276,default,2019.0
+Bordeaux,7355,Courbet,44.8565583366736,-0.59690928997378,default,2019.0
+Bordeaux,7356,Barrière du Médoc,44.8536543356102,-0.593250916216618,default,2019.0
+Bordeaux,7357,Marie Brizard,44.85002758642537,-0.585766616040189,default,2019.0
+Bordeaux,7358,Charles Gruet,44.84676855366658,-0.580194500923966,default,2019.0
+Bordeaux,7359,Quinconces,44.84401956191047,-0.573758655305596,default,2019.0

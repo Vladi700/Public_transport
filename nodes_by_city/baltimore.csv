@@ -1,0 +1,56 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Baltimore,32977,Owings Mills,39.4073218,-76.779941,heavy_rail,1987.0
+Baltimore,32979,Old Court,39.3712259,-76.7441445,heavy_rail,1987.0
+Baltimore,32980,Milford Mill,39.3596123,-76.7206532,heavy_rail,1987.0
+Baltimore,32982,Upton–Avenue Market,39.3041734,-76.6354785,heavy_rail,1983.0
+Baltimore,32983,State Center/Cultural Center,39.3014242,-76.623198,heavy_rail,1983.0
+Baltimore,32984,Lexington Market,39.2927281,-76.621168,heavy_rail,1983.0
+Baltimore,32988,Penn–North,39.3100964,-76.6425812,heavy_rail,1983.0
+Baltimore,32990,Mondawmin,39.3182303,-76.6532786,heavy_rail,1983.0
+Baltimore,32993,West Cold Spring,39.3362278,-76.6724268,heavy_rail,1983.0
+Baltimore,32994,Rogers Avenue,39.3447918,-76.6919077,heavy_rail,1983.0
+Baltimore,32997,Reisterstown Plaza,39.3518838,-76.7047103,heavy_rail,1983.0
+Baltimore,32999,Johns Hopkins Hospital,39.29936,-76.5942737,heavy_rail,1995.0
+Baltimore,33001,Shot Tower/Market Place,39.2900295,-76.6060206,heavy_rail,1995.0
+Baltimore,33002,Charles Center,39.2895794,-76.6146013,heavy_rail,1983.0
+Baltimore,33006,Baltimore Penn Station,39.307619,-76.6157593,light_rail,1997.0
+Baltimore,33007,Mount Royal/MICA,39.3070189,-76.6198799,light_rail,1992.0
+Baltimore,33008,Convention Center,39.2854124,-76.6193848,light_rail,1992.0
+Baltimore,33009,Mount Vernon,39.2964953,-76.6199592,light_rail,1992.0
+Baltimore,33013,Cultural Center,39.303321,-76.620419,light_rail,1992.0
+Baltimore,33015,Lexington Market,39.2918517,-76.619633,light_rail,1992.0
+Baltimore,33017,Baltimore Arena,39.2884165,-76.619454,light_rail,1992.0
+Baltimore,33020,Camden Yards,39.282782,-76.6194521,light_rail,1992.0
+Baltimore,33021,Stadium/Federal Hill,39.2786313,-76.6200901,light_rail,1992.0
+Baltimore,33023,Westport,39.2615074,-76.6323464,light_rail,1992.0
+Baltimore,33025,Cherry Hill,39.2556485,-76.6350009,light_rail,1992.0
+Baltimore,33027,Baltimore Highlands,39.2347624,-76.633093,light_rail,1993.0
+Baltimore,33028,Patapsco,39.2416505,-76.6301588,light_rail,1992.0
+Baltimore,33031,Nursery Road,39.221238,-76.6415902,light_rail,1993.0
+Baltimore,33033,Linthicum,39.2020396,-76.6555573,light_rail,1993.0
+Baltimore,33034,North Linthicum,39.2140487,-76.6463356,light_rail,1993.0
+Baltimore,33037,BWI Business District,39.191453,-76.6736979,light_rail,1997.0
+Baltimore,33038,Ferndale,39.1832627,-76.6400636,light_rail,1993.0
+Baltimore,33040,Glen Burnie,39.1720479,-76.6330937,light_rail,1993.0
+Baltimore,33042,BWI Airport,39.1822268,-76.669334,light_rail,1997.0
+Baltimore,33045,Cold Spring Lane,39.3437393,-76.6478223,light_rail,1992.0
+Baltimore,33046,Woodberry,39.3308414,-76.6432977,light_rail,1992.0
+Baltimore,33049,Falls Road,39.376425,-76.6500948,light_rail,1992.0
+Baltimore,33050,Mount Washington,39.368156,-76.6519371,light_rail,1992.0
+Baltimore,33054,Lutherville,39.4285983,-76.6270861,light_rail,1992.0
+Baltimore,33055,Timonium,39.4335004,-76.6281313,light_rail,1992.0
+Baltimore,33058,Fairgrounds,39.4482084,-76.6347728,light_rail,1992.0
+Baltimore,33059,Warren Road,39.47584,-76.6532885,light_rail,1997.0
+Baltimore,33062,Hunt Valley,39.4963062,-76.6545121,light_rail,1997.0
+Baltimore,33063,McCormick Road,39.4894681,-76.6594979,light_rail,1997.0
+Baltimore,33066,Pepper Road,39.4920653,-76.6566848,light_rail,1997.0
+Baltimore,33068,Gilroy Road,39.4818715,-76.6618117,light_rail,1997.0
+Baltimore,33069,Maritime Park (Landing 8),39.27910632911002,-76.59596134873134,ferry,2009.0
+Baltimore,33070,Tide Point (Landing 10),39.27578219859876,-76.5897895357736,ferry,2009.0
+Baltimore,33071,Canton Waterfront Park (Landing 16),39.2769174712345,-76.57408307903141,ferry,2009.0
+Baltimore,33072,Federal Hill (Landing 4),39.28192879908852,-76.60713002113505,ferry,2014.0
+Baltimore,33073,Pier 5 (Landing 5),39.28403546476383,-76.60521822642222,ferry,2019.0
+Baltimore,33076,Boston Street & Ellwood Avenue EB,39.27739603250308,-76.57201954183628,bus,
+Baltimore,33077,Maritime Park,39.27967671107535,-76.596407474651,bus,2011.0
+Baltimore,33078,Tide Point (Alternate Stop),39.27551771485213,-76.5907882838205,bus,
+Baltimore,33082,North Avenue,39.311875376272724,-76.6226088233244,light_rail,1992.0

@@ -1,0 +1,16 @@
+nodeID_from,nodeID_to,line_id,year,mode
+1,2,4122,2022.0,heavy_rail
+2,3,4122,2022.0,heavy_rail
+3,4,4122,2022.0,heavy_rail
+4,5,4122,2023.0,heavy_rail
+5,6,4122,2022.0,heavy_rail
+6,7,4122,2022.0,heavy_rail
+7,8,4122,2022.0,heavy_rail
+8,9,4122,2022.0,heavy_rail
+9,10,4122,2022.0,heavy_rail
+10,11,4122,2024.0,heavy_rail
+11,12,4122,2023.0,heavy_rail
+12,13,4122,2024.0,heavy_rail
+13,14,4122,2024.0,heavy_rail
+14,15,4122,2024.0,heavy_rail
+15,16,4122,2023.0,heavy_rail

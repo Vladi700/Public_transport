@@ -1,0 +1,74 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Sevilla,34184,Blas Infante,37.37321,-6.0104512,light_rail,2009.0
+Sevilla,34185,Cocheras,37.3677638,-5.9504317,light_rail,2009.0
+Sevilla,34186,La Plata,37.37154,-5.9518127,light_rail,2009.0
+Sevilla,34187,Amate,37.3758299,-5.9526764,light_rail,2009.0
+Sevilla,34188,1.º de Mayo,37.3807208,-5.9556812,light_rail,2009.0
+Sevilla,34189,Gran Plaza,37.3816411,-5.9667375,light_rail,2009.0
+Sevilla,34190,Nervión,37.3829686,-5.9739904,light_rail,2009.0
+Sevilla,34191,San Bernardo,37.3781986,-5.979101,light_rail,2009.0
+Sevilla,34192,Prado de San Sebastián,37.3807601,-5.9872005,light_rail,2009.0
+Sevilla,34193,Puerta de Jerez,37.3817715,-5.9943473,light_rail,2009.0
+Sevilla,34194,Plaza de Cuba,37.3792378,-5.9993628,light_rail,2009.0
+Sevilla,34195,Parque de los Príncipes,37.3764792,-6.0047435,light_rail,2009.0
+Sevilla,34196,San Juan Bajo,37.3670051,-6.025143,light_rail,2009.0
+Sevilla,34197,San Juan Alto,37.3616777,-6.0385692,light_rail,2009.0
+Sevilla,34198,Cavaleri,37.3529428,-6.0468134,light_rail,2009.0
+Sevilla,34200,Olivar de Quintos,37.3291793,-5.9387773,light_rail,2009.0
+Sevilla,34201,Condequinto,37.3465414,-5.9363067,light_rail,2009.0
+Sevilla,34202,Pablo de Olavide,37.3540052,-5.9436673,light_rail,2009.0
+Sevilla,34203,Montequinto,37.3423012860131,-5.93462018474051,light_rail,2009.0
+Sevilla,34204,Europa,37.337750871826444,-5.935193758138098,light_rail,2009.0
+Sevilla,34205,Ciudad Expo,37.34923608674724,-6.051709290374589,light_rail,2009.0
+Sevilla,34206,Guadaíra,37.35775716804909,-5.94762734939485,light_rail,
+Sevilla,34207,Puerta Jerez,37.3821089,-5.9924242,tram,2007.0
+Sevilla,34208,Prado de San Sebastián,37.3808083,-5.9870138,tram,2007.0
+Sevilla,34209,Archivo de Indias,37.3847098,-5.9938546,tram,2007.0
+Sevilla,34210,Plaza Nueva,37.3883228,-5.9952519,tram,2007.0
+Sevilla,34211,San Bernardo,37.37860364875865,-5.979217483200227,tram,2007.0
+Sevilla,34212,Nervión,37.3829116756377,-5.973202931946389,tram,
+Sevilla,34213,San Bernardo,37.3776623,-5.9795078,commuter_rail,1992.0
+Sevilla,34214,Virgen del Rocío,37.3628046,-5.9757985,commuter_rail,1992.0
+Sevilla,34215,Padre Pío-Palmete,37.370827,-5.939346,commuter_rail,2004.0
+Sevilla,34216,Jardines de Hércules,37.3329649612144,-5.964014436122516,commuter_rail,2015.0
+Sevilla,34217,Bellavista,37.3215094,-5.9642085,commuter_rail,1998.0
+Sevilla,34218,Estadio Olímpico,37.41723408367974,-6.007518331416518,commuter_rail,2012.0
+Sevilla,34219,Cartuja,37.40719934122606,-6.010172902710775,commuter_rail,1992.0
+Sevilla,34220,Cartuja,37.4072,-6.010179489561737,commuter_rail,2012.0
+Sevilla,34221,Estadio Olímpico,37.417229866855436,-6.007518826534494,commuter_rail,1992.0
+Sevilla,34222,San Bernardo,37.37765905768404,-5.979510171810944,commuter_rail,2004.0
+Sevilla,34223,San Bernardo,37.37765905768404,-5.979509501253318,commuter_rail,2011.0
+Sevilla,34224,Palacio de Congresos,37.40387884663237,-5.936471999007409,commuter_rail,2004.0
+Sevilla,34225,Santa Justa,37.391939467250175,-5.975240896478443,commuter_rail,2020.0
+Sevilla,34226,Santa Justa,37.39193989116964,-5.975240018720115,commuter_rail,1992.0
+Sevilla,34227,Benacazón,37.35708892693691,-6.207813305335009,commuter_rail,2011.0
+Sevilla,34228,Camas,37.41795555262078,-6.040757360993069,commuter_rail,2011.0
+Sevilla,34229,Valencina-Santiponce,37.42669209800761,-6.057016982568996,commuter_rail,2011.0
+Sevilla,34230,Salteras,37.41058850057023,-6.098688615015703,commuter_rail,2011.0
+Sevilla,34231,Villanueva del Ariscal-Olivares,37.40721366819048,-6.148350385479432,commuter_rail,2011.0
+Sevilla,34232,Sanlúcar la Mayor,37.38150776701697,-6.193764447924423,commuter_rail,2011.0
+Sevilla,34233,San Jerónimo,37.433074934145935,-5.980352241623592,commuter_rail,2020.0
+Sevilla,34234,San Jerónimo,37.43307507076287,-5.980354305336505,commuter_rail,2012.0
+Sevilla,34235,La Rinconada,37.47991919509687,-5.939924142583351,commuter_rail,1991.0
+Sevilla,34236,El Cáñamo,37.4862842290148,-5.932883332165517,commuter_rail,2011.0
+Sevilla,34237,Brenes,37.54604500188428,-5.866838561395639,commuter_rail,1991.0
+Sevilla,34238,Cantillana,37.57472353316808,-5.803338577761821,commuter_rail,1991.0
+Sevilla,34239,Los Rosales,37.58971319317622,-5.725397260317242,commuter_rail,1991.0
+Sevilla,34240,Lora del Río,37.66122945816096,-5.531021384810259,commuter_rail,1991.0
+Sevilla,34241,Pedroso,37.837441,-5.7619836,commuter_rail,1991.0
+Sevilla,34242,Arenillas,37.70070117400641,-5.75019270037555,commuter_rail,1991.0
+Sevilla,34243,Cazalla-Constantina,37.9326401,-5.7043728,commuter_rail,1991.0
+Sevilla,34244,Alcolea del Río,37.6354454,-5.7309896,commuter_rail,1991.0
+Sevilla,34245,Villanueva del Río y Minas,37.6616685785272,-5.71197978243211,commuter_rail,1991.0
+Sevilla,34246,Tocina,37.60927139906953,-5.731545883085062,commuter_rail,1991.0
+Sevilla,34247,Guadajoz,37.58156586175008,-5.669829725531969,commuter_rail,1991.0
+Sevilla,34248,Utrera,37.18335988398627,-5.790247676617668,commuter_rail,1991.0
+Sevilla,34249,Dos Hermanas,37.28725402354296,-5.923410008395251,commuter_rail,1991.0
+Sevilla,34250,Cantaelgallo,37.27848313264501,-5.910645283588821,commuter_rail,2003.0
+Sevilla,34251,Lebrija,36.911689887992296,-6.095164429033673,commuter_rail,2010.0
+Sevilla,34252,Las Cabezas de San Juan,37.01855909025993,-5.94566135932206,commuter_rail,2010.0
+Sevilla,34275,Santa Justa,37.39193954969595,-5.975232639935683,commuter_rail,1991.0
+Sevilla,34276,Santa Justa,37.391939139145194,-5.975236758350548,commuter_rail,2004.0
+Sevilla,34277,Santa Justa,37.39193991399459,-5.975231461849404,commuter_rail,1993.0
+Sevilla,34278,Santa Justa,37.39194004718412,-5.975236323350714,commuter_rail,2011.0
+Sevilla,34279,Santa Justa,37.39194004718412,-5.975232802954281,commuter_rail,2012.0

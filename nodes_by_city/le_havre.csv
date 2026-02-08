@@ -1,0 +1,45 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Le Havre,12152,Saint-Roch,49.4934488,0.1011876,light_rail,2012.0
+Le Havre,12153,La Plage,49.4940751,0.0956681,light_rail,2012.0
+Le Havre,12154,La Plage,49.4940972,0.0956974,light_rail,2012.0
+Le Havre,12155,Saint-Roch,49.493477,0.1012215,light_rail,2012.0
+Le Havre,12156,Hôtel de Ville,49.49334,0.1083877,light_rail,2012.0
+Le Havre,12157,Palais de Justice,49.4925847,0.1178832,light_rail,2012.0
+Le Havre,12158,Gares,49.492511,0.1242312,light_rail,2012.0
+Le Havre,12159,Gares,49.492517,0.1241973,light_rail,2012.0
+Le Havre,12160,Hôtel de Ville,49.4933636,0.1084001,light_rail,2012.0
+Le Havre,12161,Palais de Justice,49.4926068,0.1179125,light_rail,2012.0
+Le Havre,12162,Rond Point,49.499323,0.1294989,light_rail,2012.0
+Le Havre,12163,Université,49.4958716,0.1267999,light_rail,2012.0
+Le Havre,12164,Université,49.4958591,0.1268436,light_rail,2012.0
+Le Havre,12165,Rond Point,49.4993094,0.1295362,light_rail,2012.0
+Le Havre,12174,Place Jenner,49.5087735,0.1367409,light_rail,2012.0
+Le Havre,12175,Mare au Clerc,49.5117969,0.1269409,light_rail,2012.0
+Le Havre,12176,Place Jenner,49.508755,0.1367155,light_rail,2012.0
+Le Havre,12177,Mare Rouge,49.5188609,0.116369,light_rail,2012.0
+Le Havre,12178,Sacré-Cœur,49.5156552,0.1210525,light_rail,2012.0
+Le Havre,12187,Mare Rouge,49.5188762,0.1163786,light_rail,2012.0
+Le Havre,12188,Mare au Clerc,49.5118122,0.1269505,light_rail,2012.0
+Le Havre,12189,Sacré-Cœur,49.5156705,0.1210621,light_rail,2012.0
+Le Havre,12192,Bigne à Fosse,49.5293663,0.115522,light_rail,2012.0
+Le Havre,12193,Queneau,49.5258836,0.1154807,light_rail,2012.0
+Le Havre,12194,Bigne à Fosse,49.529438,0.1152426,light_rail,2012.0
+Le Havre,12195,Queneau,49.5260346,0.1156563,light_rail,2012.0
+Le Havre,12196,Grand Hameau,49.5299134,0.1058672,light_rail,2012.0
+Le Havre,12197,Grand Hameau,49.5299596,0.1055805,light_rail,2012.0
+Le Havre,12198,Saint-Pierre,49.5118512,0.1747059,light_rail,2012.0
+Le Havre,12199,Frileuse,49.5092073,0.1490284,light_rail,2012.0
+Le Havre,12200,Place Jenner,49.5086262,0.1381906,light_rail,2012.0
+Le Havre,12201,Atrium,49.5158279,0.1709041,light_rail,2012.0
+Le Havre,12202,Caucriauville - Pré Fleuri,49.5082802,0.1800828,light_rail,2012.0
+Le Havre,12203,Curie,49.5092526,0.1578066,light_rail,2012.0
+Le Havre,12204,Schuman,49.5140802,0.1641527,light_rail,2012.0
+Le Havre,12205,Verlaine,49.5093577,0.1641333,light_rail,2012.0
+Le Havre,12206,Caucriauville - Pré Fleuri,49.5086451,0.180123,light_rail,2012.0
+Le Havre,12207,Atrium,49.5160043,0.1703566,light_rail,2012.0
+Le Havre,12208,Place Jenner,49.5085745,0.1377794,light_rail,2012.0
+Le Havre,12209,Shuman,49.5137837,0.1637448,light_rail,2012.0
+Le Havre,12210,Frileuse,49.5092041,0.1484197,light_rail,2012.0
+Le Havre,12211,Curie,49.5092746,0.1571971,light_rail,2012.0
+Le Havre,12212,Verlaine,49.5093782,0.1635223,light_rail,2012.0
+Le Havre,12213,Saint-Pierre,49.5122493,0.1746874,light_rail,2012.0

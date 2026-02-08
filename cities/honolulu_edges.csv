@@ -1,0 +1,9 @@
+nodeID_from,nodeID_to,line_id,year,mode
+1,2,4649,2023.0,heavy_rail
+1,7,4649,2023.0,heavy_rail
+2,3,4649,2023.0,heavy_rail
+3,4,4649,2023.0,heavy_rail
+4,5,4649,2023.0,heavy_rail
+6,7,4649,2023.0,heavy_rail
+6,9,4649,2023.0,heavy_rail
+8,9,4649,2023.0,heavy_rail

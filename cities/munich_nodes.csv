@@ -1,0 +1,489 @@
+nodeID,nodeLabel,latitude,longitude,mode,year,line_id
+1,Maxmonument,48.1376614,11.5878234,default,0.0,946
+2,Karlsplatz Nord,48.1399387,11.5645248,default,0.0,946
+3,Maximilianeum,48.1360161,11.5960551,default,0.0,946
+4,Maximilianeum,48.1362058,11.5956874,default,0.0,946
+5,Lenbachplatz,48.1408543,11.5684269,default,0.0,946
+6,Kammerspiele,48.1385534,11.5830033,default,0.0,946
+7,Nationaltheater,48.1393035,11.5790901,default,0.0,946
+8,Marienplatz (Theatinerstraße),48.1395059,11.5752347,default,0.0,946
+9,Bundesfinanzhof,48.148171,11.6054367,default,0.0,938
+10,Bundesfinanzhof,48.1484186,11.605655,default,0.0,938
+11,Friedensengel/Villa Stuck,48.1404971,11.5999771,default,0.0,938
+12,Friedensengel/Villa Stuck,48.140942,11.6002433,default,0.0,938
+13,Holbeinstraße,48.1429895,11.6013269,default,0.0,938
+14,Holbeinstraße,48.1433539,11.6012968,default,0.0,938
+15,Max-Weber-Platz,48.1359223,11.5978864,default,0.0,938
+16,Max-Weber-Platz,48.1360989,11.5979608,default,0.0,938
+17,Sternwartstraße,48.1459675,11.6030639,default,0.0,938
+18,Sternwartstraße,48.1463355,11.6035834,default,0.0,938
+19,Am Gasteig,48.1328598,11.5917074,default,0.0,938
+20,Wiener Platz,48.1341,11.5959432,default,0.0,938
+21,Am Gasteig,48.13284,11.5915435,default,0.0,938
+22,Wiener Platz,48.1340701,11.595681,default,0.0,938
+23,Max-Weber-Platz (Johannisplatz),48.1343557,11.5979598,default,0.0,949
+23,Max-Weber-Platz (Johannisplatz),48.1343557,11.5979598,default,0.0,946
+23,Max-Weber-Platz (Johannisplatz),48.1343557,11.5979598,default,0.0,948
+24,Max-Weber-Platz (Johannisplatz),48.1344404,11.5982042,default,0.0,949
+24,Max-Weber-Platz (Johannisplatz),48.1344404,11.5982042,default,0.0,946
+24,Max-Weber-Platz (Johannisplatz),48.1344404,11.5982042,default,0.0,948
+25,Ostbahnhof,48.1287422,11.6034541,default,0.0,946
+26,Ostbahnhof,48.1287178,11.603483,default,0.0,946
+27,Wörthstraße,48.1319764,11.5980939,default,0.0,946
+28,Wörthstraße,48.131815,11.5982445,default,0.0,946
+29,Rosenheimer Platz,48.1289753,11.5941869,default,0.0,949
+29,Rosenheimer Platz,48.1289753,11.5941869,default,0.0,948
+30,Rosenheimer Platz,48.1288281,11.5940253,default,0.0,949
+30,Rosenheimer Platz,48.1288281,11.5940253,default,0.0,948
+31,Wörthstraße,48.1318304,11.5974473,default,0.0,949
+31,Wörthstraße,48.1318304,11.5974473,default,0.0,948
+32,Wörthstraße,48.1318501,11.5975673,default,0.0,949
+32,Wörthstraße,48.1318501,11.5975673,default,0.0,948
+33,Regerplatz,48.1244463,11.5882377,default,0.0,949
+33,Regerplatz,48.1244463,11.5882377,default,0.0,948
+34,Regerplatz,48.1242464,11.5879578,default,0.0,949
+34,Regerplatz,48.1242464,11.5879578,default,0.0,948
+35,Max-Weber-Platz,48.1356602,11.5984748,default,0.0,946
+35,Max-Weber-Platz,48.1356602,11.5984748,default,0.0,948
+36,Max-Weber-Platz,48.135629,11.6001004,default,0.0,948
+37,Flurstraße,48.1355944,11.6050534,default,0.0,948
+38,Flurstraße,48.1356477,11.604576,default,0.0,948
+39,Haidenauplatz,48.131894,11.609314,default,0.0,946
+40,Haidenauplatz,48.1321909,11.6098236,default,0.0,946
+41,Schlüsselbergstraße,48.129864,11.6222149,default,0.0,946
+42,Mutschellestraße,48.1266395,11.638634,default,0.0,946
+43,Kreillerstraße,48.125715,11.6446495,default,0.0,946
+44,Baumkirchner Straße,48.1284978,11.6298299,default,0.0,946
+45,Mutschellestraße,48.1267129,11.637881,default,0.0,946
+46,Baumkirchner Straße,48.1284128,11.6300536,default,0.0,946
+47,Schlüsselbergstraße,48.1296426,11.6234389,default,0.0,946
+48,Ampfingstraße,48.1310822,11.6150357,default,0.0,946
+49,Ampfingstraße,48.1308361,11.6164135,default,0.0,946
+50,Marienplatz (Theatinerstraße),48.1394412,11.5753716,default,0.0,946
+51,Kammerspiele,48.1385107,11.5830678,default,0.0,946
+52,Lenbachplatz,48.140888,11.5685966,default,0.0,946
+53,Nationaltheater,48.1394104,11.5783853,default,0.0,946
+54,Karlsplatz Nord,48.1398044,11.5648011,default,0.0,946
+55,Hauptbahnhof,48.1399545,11.5610935,default,0.0,937
+55,Hauptbahnhof,48.1399545,11.5610935,default,0.0,944
+55,Hauptbahnhof,48.1399545,11.5610935,default,0.0,945
+56,Hauptbahnhof,48.1401869,11.561126,default,0.0,946
+56,Hauptbahnhof,48.1401869,11.561126,default,0.0,940
+56,Hauptbahnhof,48.1401869,11.561126,default,0.0,938
+57,Hauptbahnhof,48.1401862,11.5610805,default,0.0,946
+57,Hauptbahnhof,48.1401862,11.5610805,default,0.0,940
+57,Hauptbahnhof,48.1401862,11.5610805,default,0.0,938
+58,Trappentreustraße,48.139991,11.5351608,default,0.0,947
+58,Trappentreustraße,48.139991,11.5351608,default,0.0,946
+59,Holzapfelstraße,48.139309,11.5465872,default,0.0,947
+59,Holzapfelstraße,48.139309,11.5465872,default,0.0,946
+60,Lautensackstraße,48.139549,11.5181692,default,0.0,947
+60,Lautensackstraße,48.139549,11.5181692,default,0.0,946
+61,Barthstraße,48.1402844,11.5304794,default,0.0,947
+61,Barthstraße,48.1402844,11.5304794,default,0.0,946
+62,Lautensackstraße,48.1396591,11.5182583,default,0.0,947
+62,Lautensackstraße,48.1396591,11.5182583,default,0.0,946
+63,Trappentreustraße,48.1399578,11.5353071,default,0.0,947
+63,Trappentreustraße,48.1399578,11.5353071,default,0.0,946
+64,Holzapfelstraße,48.1391532,11.547633,default,0.0,947
+64,Holzapfelstraße,48.1391532,11.547633,default,0.0,946
+65,Barthstraße,48.1402943,11.5299431,default,0.0,946
+65,Barthstraße,48.1402943,11.5299431,default,0.0,947
+66,Schrenkstraße,48.1396313,11.5411657,default,0.0,947
+66,Schrenkstraße,48.1396313,11.5411657,default,0.0,946
+67,Am Lokschuppen,48.1406639,11.5248339,default,0.0,947
+67,Am Lokschuppen,48.1406639,11.5248339,default,0.0,946
+68,Schrenkstraße,48.1395985,11.5412763,default,0.0,947
+68,Schrenkstraße,48.1395985,11.5412763,default,0.0,946
+69,Hauptbahnhof Süd,48.1392617,11.5596967,default,0.0,947
+69,Hauptbahnhof Süd,48.1392617,11.5596967,default,0.0,946
+70,Hauptbahnhof Süd,48.139273,11.5590982,default,0.0,947
+70,Hauptbahnhof Süd,48.139273,11.5590982,default,0.0,946
+71,Hermann-Lingg-Straße,48.1390614,11.5520815,default,0.0,947
+71,Hermann-Lingg-Straße,48.1390614,11.5520815,default,0.0,946
+72,Hermann-Lingg-Straße,48.1390108,11.5513014,default,0.0,947
+72,Hermann-Lingg-Straße,48.1390108,11.5513014,default,0.0,946
+73,Holzkirchner Bahnhof,48.1391477,11.5547007,default,0.0,947
+73,Holzkirchner Bahnhof,48.1391477,11.5547007,default,0.0,946
+74,Holzkirchner Bahnhof,48.1391533,11.5556708,default,0.0,947
+74,Holzkirchner Bahnhof,48.1391533,11.5556708,default,0.0,946
+75,Am Lokschuppen,48.1407856,11.5236005,default,0.0,947
+75,Am Lokschuppen,48.1407856,11.5236005,default,0.0,946
+76,Westbad,48.14229,11.4753894,default,0.0,946
+77,Willibaldplatz,48.1408471,11.4889418,default,0.0,946
+78,Agnes-Bernauer-Platz,48.1397754,11.4966634,default,0.0,946
+79,Agnes-Bernauer-Straße,48.1393904,11.5107023,default,0.0,946
+80,Fürstenrieder Straße,48.1397104,11.5035456,default,0.0,946
+81,Fürstenrieder Straße,48.1396868,11.5037984,default,0.0,946
+82,Lohensteinstraße,48.1417089,11.4809979,default,0.0,946
+83,Agnes-Bernauer-Platz,48.139933,11.4954253,default,0.0,946
+84,Willibaldplatz,48.1409062,11.4887646,default,0.0,946
+85,Agnes-Bernauer-Straße,48.1392903,11.5115599,default,0.0,946
+86,Lohensteinstraße,48.1416012,11.4821809,default,0.0,946
+87,Westbad,48.1422463,11.4755866,default,0.0,946
+88,Offenbachstraße,48.1461427,11.4657247,default,0.0,946
+89,Offenbachstraße,48.1460856,11.4659512,default,0.0,946
+90,Am Knie,48.1454449,11.4711221,default,0.0,946
+91,Rathaus Pasing,48.1466667,11.4618923,default,0.0,946
+92,Pasing Bahnhof,48.1488053,11.4611306,default,0.0,946
+93,Am Knie,48.1454711,11.4709595,default,0.0,946
+94,Säulingstraße,48.1272661,11.5115583,default,0.0,947
+95,Stegener Weg,48.1258794,11.5082645,default,0.0,947
+96,Westendstraße,48.1344472,11.5221309,default,0.0,947
+97,Gondrellplatz,48.1244666,11.4901708,default,0.0,947
+98,Siglstraße,48.1349209,11.5142035,default,0.0,947
+99,Säulingstraße,48.1275767,11.5124285,default,0.0,947
+100,Stegener Weg,48.1258472,11.5082996,default,0.0,947
+101,Senftenauerstraße,48.1255755,11.4973806,default,0.0,947
+102,Ammerseestraße,48.126101,11.5021174,default,0.0,947
+103,Ammerseestraße,48.1261961,11.5035085,default,0.0,947
+104,Fachnerstraße,48.129848,11.5170163,default,0.0,947
+105,Fachnerstraße,48.1298168,11.5169116,default,0.0,947
+106,Hans-Thonauer-Straße,48.1348146,11.5177574,default,0.0,947
+107,Hans-Thonauer-Straße,48.1348607,11.5166966,default,0.0,947
+108,Senftenauerstraße,48.1257875,11.4983346,default,0.0,947
+109,Siglstraße,48.1349552,11.5141273,default,0.0,947
+110,Westendstraße,48.1345673,11.5220051,default,0.0,947
+111,Karlsplatz (Stachus),48.1383348,11.5652355,default,0.0,940
+111,Karlsplatz (Stachus),48.1383348,11.5652355,default,0.0,938
+111,Karlsplatz (Stachus),48.1383348,11.5652355,default,0.0,947
+112,Karlsplatz (Stachus),48.1392734,11.5645151,default,0.0,937
+112,Karlsplatz (Stachus),48.1392734,11.5645151,default,0.0,944
+112,Karlsplatz (Stachus),48.1392734,11.5645151,default,0.0,945
+113,Karlsplatz (Stachus),48.1386792,11.565333,default,0.0,940
+113,Karlsplatz (Stachus),48.1386792,11.565333,default,0.0,938
+113,Karlsplatz (Stachus),48.1386792,11.565333,default,0.0,947
+114,Karlsplatz (Stachus),48.1386864,11.5651504,default,0.0,941
+114,Karlsplatz (Stachus),48.1386864,11.5651504,default,0.0,943
+115,Karlsplatz (Stachus),48.1383462,11.5650508,default,0.0,941
+115,Karlsplatz (Stachus),48.1383462,11.5650508,default,0.0,943
+116,Sendlinger Tor,48.1338536,11.5660138,default,0.0,941
+116,Sendlinger Tor,48.1338536,11.5660138,default,0.0,943
+117,Sendlinger Tor,48.1338691,11.5661294,default,0.0,940
+117,Sendlinger Tor,48.1338691,11.5661294,default,0.0,938
+117,Sendlinger Tor,48.1338691,11.5661294,default,0.0,947
+118,Sendlinger Tor,48.133531,11.5663006,default,0.0,940
+118,Sendlinger Tor,48.133531,11.5663006,default,0.0,938
+118,Sendlinger Tor,48.133531,11.5663006,default,0.0,947
+119,Müllerstraße,48.1310736,11.5708869,default,0.0,940
+119,Müllerstraße,48.1310736,11.5708869,default,0.0,938
+119,Müllerstraße,48.1310736,11.5708869,default,0.0,947
+120,Sendlinger Tor,48.1336159,11.565642,default,0.0,941
+120,Sendlinger Tor,48.1336159,11.565642,default,0.0,943
+121,Fraunhoferstraße,48.1285298,11.5753038,default,0.0,947
+122,Müllerstraße,48.131179,11.5712192,default,0.0,947
+123,Müllerstraße,48.1317238,11.5722484,default,0.0,940
+123,Müllerstraße,48.1317238,11.5722484,default,0.0,938
+124,Fraunhoferstraße,48.1281971,11.5758089,default,0.0,947
+125,Mariahilfplatz,48.1240964,11.5812967,default,0.0,947
+126,Eduard-Schmid-Straße,48.1262115,11.5784369,default,0.0,947
+127,Mariahilfplatz,48.1239408,11.5813838,default,0.0,947
+128,Eduard-Schmid-Straße,48.1262798,11.5783978,default,0.0,947
+129,Ostfriedhof,48.1194032,11.5828464,default,0.0,947
+130,Giesing Bahnhof,48.1105777,11.5947837,default,0.0,947
+131,Chiemgaustraße,48.1072738,11.5960986,default,0.0,947
+132,St.-Martins-Platz,48.1172393,11.5882855,default,0.0,947
+133,St.-Martins-Platz,48.1171961,11.5884561,default,0.0,947
+134,Ostfriedhof,48.1188239,11.5842249,default,0.0,947
+135,Giesing Bahnhof,48.1104128,11.5948028,default,0.0,947
+136,Werinherstraße,48.114558,11.5925448,default,0.0,947
+137,Werinherstraße,48.1153373,11.5922407,default,0.0,947
+138,Schwanseestraße,48.1033118,11.5967781,default,0.0,947
+139,Chiemgaustraße,48.1062837,11.5964718,default,0.0,947
+140,Silberhornstraße,48.1154716,11.5797423,default,0.0,949
+140,Silberhornstraße,48.1154716,11.5797423,default,0.0,948
+141,Tegernseer Landstraße,48.1120134,11.5762741,default,0.0,949
+141,Tegernseer Landstraße,48.1120134,11.5762741,default,0.0,948
+142,Ostfriedhof,48.1186558,11.5831895,default,0.0,949
+142,Ostfriedhof,48.1186558,11.5831895,default,0.0,948
+143,Silberhornstraße,48.1155793,11.5799307,default,0.0,949
+143,Silberhornstraße,48.1155793,11.5799307,default,0.0,948
+144,Ostfriedhof,48.1187227,11.5833047,default,0.0,949
+144,Ostfriedhof,48.1187227,11.5833047,default,0.0,948
+145,Ostfriedhof,48.1194042,11.5839652,default,0.0,949
+145,Ostfriedhof,48.1194042,11.5839652,default,0.0,948
+146,Tegernseer Landstraße,48.112408,11.5764378,default,0.0,949
+146,Tegernseer Landstraße,48.112408,11.5764378,default,0.0,948
+147,Menterschwaige,48.0801318,11.5517428,default,0.0,949
+147,Menterschwaige,48.0801318,11.5517428,default,0.0,948
+148,Authariplatz,48.0922102,11.5627022,default,0.0,949
+148,Authariplatz,48.0922102,11.5627022,default,0.0,948
+149,Tiroler Platz,48.0960853,11.5636202,default,0.0,949
+149,Tiroler Platz,48.0960853,11.5636202,default,0.0,948
+150,Südtiroler Straße,48.1006556,11.5665482,default,0.0,949
+150,Südtiroler Straße,48.1006556,11.5665482,default,0.0,948
+151,Theodolindenplatz,48.0902489,11.5568348,default,0.0,949
+151,Theodolindenplatz,48.0902489,11.5568348,default,0.0,948
+152,Klinikum Harlaching,48.0870327,11.5549538,default,0.0,949
+152,Klinikum Harlaching,48.0870327,11.5549538,default,0.0,948
+153,Großhesseloher Brücke,48.0768585,11.5501746,default,0.0,949
+153,Großhesseloher Brücke,48.0768585,11.5501746,default,0.0,948
+154,Südtiroler Straße,48.1007851,11.5666873,default,0.0,949
+154,Südtiroler Straße,48.1007851,11.5666873,default,0.0,948
+155,Kurzstraße,48.1044446,11.5697111,default,0.0,949
+155,Kurzstraße,48.1044446,11.5697111,default,0.0,948
+156,Tiroler Platz,48.0962875,11.5637236,default,0.0,949
+156,Tiroler Platz,48.0962875,11.5637236,default,0.0,948
+157,Theodolindenplatz,48.0903946,11.5570669,default,0.0,949
+157,Theodolindenplatz,48.0903946,11.5570669,default,0.0,948
+158,Authariplatz,48.091813,11.5623822,default,0.0,949
+158,Authariplatz,48.091813,11.5623822,default,0.0,948
+159,Klinikum Harlaching,48.0866792,11.5548259,default,0.0,949
+159,Klinikum Harlaching,48.0866792,11.5548259,default,0.0,948
+160,Menterschwaige,48.0802978,11.5518555,default,0.0,949
+160,Menterschwaige,48.0802978,11.5518555,default,0.0,948
+161,Kurzstraße,48.104823,11.5700293,default,0.0,949
+161,Kurzstraße,48.104823,11.5700293,default,0.0,948
+162,Wettersteinplatz,48.1090703,11.5745874,default,0.0,949
+162,Wettersteinplatz,48.1090703,11.5745874,default,0.0,948
+163,Wettersteinplatz,48.1094714,11.5749855,default,0.0,949
+163,Wettersteinplatz,48.1094714,11.5749855,default,0.0,948
+164,Großhesseloher Brücke,48.0772126,11.5503847,default,0.0,949
+164,Großhesseloher Brücke,48.0772126,11.5503847,default,0.0,948
+165,Großhesseloher Brücke,48.0765976,11.5503098,default,0.0,949
+166,"Grünwald, Derbolfinger Platz",48.0419595,11.5240291,default,0.0,948
+167,Robert-Koch-Straße,48.0629842,11.5451553,default,0.0,948
+168,"Grünwald, Parkplatz",48.0552728,11.5407672,default,0.0,948
+169,"Grünwald, Ludwig-Thoma-Straße",48.0496939,11.5356626,default,0.0,948
+170,"Grünwald, Derbolfinger Platz",48.0421281,11.5234542,default,0.0,948
+171,Schilcherweg,48.0712396,11.5473645,default,0.0,948
+172,"Grünwald, Bavariafilmplatz",48.0674258,11.5462976,default,0.0,948
+173,Schilcherweg,48.0714286,11.547498,default,0.0,948
+174,"Grünwald, Parkplatz",48.0550295,11.5406155,default,0.0,948
+175,"Grünwald, Bavariafilmplatz",48.0677338,11.5462713,default,0.0,948
+176,"Grünwald, Ludwig-Thoma-Straße",48.049471,11.5354905,default,0.0,948
+177,Robert-Koch-Straße,48.0624659,11.5449673,default,0.0,948
+178,Grillparzerstraße,48.1360626,11.6081318,default,0.0,948
+179,Grillparzerstraße,48.1364908,11.610338,default,0.0,948
+180,Einsteinstraße,48.1368196,11.614345,default,0.0,948
+181,Einsteinstraße,48.1368257,11.6140127,default,0.0,948
+182,Vogelweideplatz,48.1372392,11.6201369,default,0.0,948
+183,Vogelweideplatz,48.1371615,11.620406,default,0.0,948
+184,Riedenburger Straße,48.1357451,11.6243075,default,0.0,948
+185,Berg am Laim Bahnhof,48.1361023,11.6341423,default,0.0,948
+186,Riedenburger Straße,48.1359345,11.6238652,default,0.0,948
+187,Herkomerplatz,48.1508664,11.6090177,default,0.0,940
+187,Herkomerplatz,48.1508664,11.6090177,default,0.0,938
+188,Herkomerplatz,48.150862,11.6086075,default,0.0,940
+188,Herkomerplatz,48.150862,11.6086075,default,0.0,938
+189,Mauerkircherstraße,48.1488403,11.6013951,default,0.0,940
+190,Effnerplatz,48.1521269,11.6130318,default,0.0,940
+191,Effnerplatz,48.1520216,11.6134876,default,0.0,940
+191,Effnerplatz,48.1520216,11.6134876,default,0.0,938
+192,Fritz-Meyer-Weg,48.172423,11.6365992,default,0.0,940
+192,Fritz-Meyer-Weg,48.172423,11.6365992,default,0.0,938
+193,Fritz-Meyer-Weg,48.1725849,11.636676,default,0.0,940
+193,Fritz-Meyer-Weg,48.1725849,11.636676,default,0.0,938
+194,Taimerhofstraße,48.1667595,11.6308313,default,0.0,940
+194,Taimerhofstraße,48.1667595,11.6308313,default,0.0,938
+195,Prinz-Eugen-Park,48.1626747,11.629228,default,0.0,940
+195,Prinz-Eugen-Park,48.1626747,11.629228,default,0.0,938
+196,Prinz-Eugen-Park,48.1625049,11.6291712,default,0.0,940
+196,Prinz-Eugen-Park,48.1625049,11.6291712,default,0.0,938
+197,Cosimabad,48.1535115,11.6288982,default,0.0,940
+197,Cosimabad,48.1535115,11.6288982,default,0.0,938
+198,Cosimabad,48.1535688,11.6284774,default,0.0,940
+198,Cosimabad,48.1535688,11.6284774,default,0.0,938
+199,Arabellapark/Klinikum Bogenhausen,48.1537222,11.623836,default,0.0,940
+199,Arabellapark/Klinikum Bogenhausen,48.1537222,11.623836,default,0.0,938
+200,Arabellapark/Klinikum Bogenhausen,48.1537587,11.6236457,default,0.0,940
+200,Arabellapark/Klinikum Bogenhausen,48.1537587,11.6236457,default,0.0,938
+201,Schlösselgarten,48.1586311,11.6289649,default,0.0,940
+201,Schlösselgarten,48.1586311,11.6289649,default,0.0,938
+202,Schlösselgarten,48.1587877,11.6290087,default,0.0,940
+202,Schlösselgarten,48.1587877,11.6290087,default,0.0,938
+203,Regina-Ullmann-Straße,48.1699469,11.6351944,default,0.0,940
+203,Regina-Ullmann-Straße,48.1699469,11.6351944,default,0.0,938
+204,Regina-Ullmann-Straße,48.1698119,11.6350169,default,0.0,940
+204,Regina-Ullmann-Straße,48.1698119,11.6350169,default,0.0,938
+205,Taimerhofstraße,48.166654,11.630634,default,0.0,940
+205,Taimerhofstraße,48.166654,11.630634,default,0.0,938
+206,Arabellastraße,48.1535193,11.6187898,default,0.0,940
+206,Arabellastraße,48.1535193,11.6187898,default,0.0,938
+207,Arabellastraße,48.1535517,11.6184224,default,0.0,940
+207,Arabellastraße,48.1535517,11.6184224,default,0.0,938
+208,St. Emmeram,48.1761243,11.6316751,default,0.0,938
+209,St. Emmeram,48.1761615,11.6317848,default,0.0,940
+210,Mauerkircherstraße,48.1488305,11.6002412,default,0.0,940
+211,Tivolistraße,48.1498062,11.5961616,default,0.0,940
+212,Tivolistraße,48.1498761,11.5962955,default,0.0,940
+213,Nationalmuseum/Haus der Kunst,48.1428464,11.5884892,default,0.0,940
+214,Lehel,48.1395932,11.588581,default,0.0,940
+215,Lehel,48.1395938,11.5886227,default,0.0,940
+216,Nationalmuseum/Haus der Kunst,48.1433447,11.5886695,default,0.0,940
+217,Paradiesstraße,48.1463776,11.593002,default,0.0,940
+218,Paradiesstraße,48.1463079,11.59296,default,0.0,940
+219,Maxmonument,48.1378404,11.5876807,default,0.0,940
+220,Maxmonument,48.1374681,11.5883144,default,0.0,946
+221,Isartor,48.1340364,11.5831954,default,0.0,940
+222,Isartor,48.1340745,11.583499,default,0.0,940
+223,Mariannenplatz,48.1351876,11.5867159,default,0.0,940
+224,Mariannenplatz,48.1352287,11.586813,default,0.0,940
+225,Isartor,48.1333258,11.5832489,default,0.0,938
+226,Isartor,48.1335317,11.5831308,default,0.0,938
+227,Hauptbahnhof Nord,48.1413824,11.5607243,default,0.0,937
+227,Hauptbahnhof Nord,48.1413824,11.5607243,default,0.0,944
+227,Hauptbahnhof Nord,48.1413824,11.5607243,default,0.0,945
+228,Karlstraße,48.1448794,11.5596454,default,0.0,937
+228,Karlstraße,48.1448794,11.5596454,default,0.0,944
+228,Karlstraße,48.1448794,11.5596454,default,0.0,945
+229,Stiglmaierplatz,48.1471542,11.5587872,default,0.0,937
+229,Stiglmaierplatz,48.1471542,11.5587872,default,0.0,944
+229,Stiglmaierplatz,48.1471542,11.5587872,default,0.0,945
+230,Stiglmaierplatz,48.1470407,11.5587173,default,0.0,937
+230,Stiglmaierplatz,48.1470407,11.5587173,default,0.0,944
+230,Stiglmaierplatz,48.1470407,11.5587173,default,0.0,945
+231,Karlstraße,48.1446575,11.5596634,default,0.0,937
+231,Karlstraße,48.1446575,11.5596634,default,0.0,944
+231,Karlstraße,48.1446575,11.5596634,default,0.0,945
+232,Sandstraße,48.1505965,11.5581254,default,0.0,937
+232,Sandstraße,48.1505965,11.5581254,default,0.0,944
+232,Sandstraße,48.1505965,11.5581254,default,0.0,945
+233,Sandstraße,48.1506154,11.5580756,default,0.0,937
+233,Sandstraße,48.1506154,11.5580756,default,0.0,944
+233,Sandstraße,48.1506154,11.5580756,default,0.0,945
+234,Hochschule München (Lothstraße),48.1540281,11.5541768,default,0.0,937
+234,Hochschule München (Lothstraße),48.1540281,11.5541768,default,0.0,944
+235,Hochschule München (Lothstraße),48.1545336,11.5534798,default,0.0,937
+235,Hochschule München (Lothstraße),48.1545336,11.5534798,default,0.0,944
+236,,48.1553408,11.5533165,default,0.0,945
+237,Leonrodplatz,48.1598887,11.5469401,default,0.0,937
+237,Leonrodplatz,48.1598887,11.5469401,default,0.0,944
+238,Goethe-Institut,48.1625524,11.5427375,default,0.0,937
+238,Goethe-Institut,48.1625524,11.5427375,default,0.0,944
+239,Leonrodplatz,48.159719,11.5470814,default,0.0,937
+239,Leonrodplatz,48.159719,11.5470814,default,0.0,944
+240,Goethe-Institut,48.163233,11.5416739,default,0.0,937
+240,Goethe-Institut,48.163233,11.5416739,default,0.0,944
+241,Olympiapark West,48.1665576,11.5372733,default,0.0,937
+241,Olympiapark West,48.1665576,11.5372733,default,0.0,944
+242,Olympiapark West,48.166452,11.5373366,default,0.0,937
+242,Olympiapark West,48.166452,11.5373366,default,0.0,944
+243,Borstei,48.1695877,11.5332287,default,0.0,937
+243,Borstei,48.1695877,11.5332287,default,0.0,944
+244,Borstei,48.1694852,11.5333398,default,0.0,937
+244,Borstei,48.1694852,11.5333398,default,0.0,944
+245,Westfriedhof,48.1695961,11.5286974,default,0.0,937
+245,Westfriedhof,48.1695961,11.5286974,default,0.0,944
+246,Stadtwerke München,48.1711925,11.5306195,default,0.0,944
+247,Hanauer Straße,48.1728403,11.5277448,default,0.0,937
+248,Wintrichring,48.1761041,11.5214129,default,0.0,937
+249,Wintrichring,48.1760111,11.5215328,default,0.0,937
+250,Westfriedhof,48.1698065,11.5287196,default,0.0,937
+251,Hanauer Straße,48.1726662,11.5280212,default,0.0,937
+252,Westfriedhof,48.170319,11.5285628,default,0.0,944
+253,Hugo-Troendle-Straße,48.1793749,11.5146945,default,0.0,937
+254,Hugo-Troendle-Straße,48.1792911,11.5148049,default,0.0,937
+255,Pelkovenstraße,48.1810746,11.5107604,default,0.0,937
+256,Pelkovenstraße,48.1810592,11.5109808,default,0.0,937
+257,Moosach Bf,48.1804733,11.5074549,default,0.0,937
+258,Moosach Bf,48.1803986,11.5073403,default,0.0,937
+259,Albrechtstraße,48.155584,11.5402561,default,0.0,939
+260,Infanteriestraße,48.161459,11.5534794,default,0.0,939
+261,Volkartstraße,48.1552887,11.5325646,default,0.0,939
+262,Fasaneriestraße,48.1572218,11.5433278,default,0.0,939
+263,Leonrodplatz,48.159252,11.5470488,default,0.0,939
+264,Albrechtstraße,48.1557563,11.5406625,default,0.0,939
+265,Fasaneriestraße,48.1574679,11.5437166,default,0.0,939
+266,Hubertusstraße,48.1559711,11.5201243,default,0.0,939
+267,Infanteriestraße,48.1614281,11.5541886,default,0.0,939
+268,Leonrodplatz,48.1596509,11.5477158,default,0.0,939
+269,Nordbad,48.1610221,11.5624685,default,0.0,939
+270,Renatastraße,48.1566578,11.5267408,default,0.0,939
+271,Romanplatz,48.1556909,11.5121072,default,0.0,939
+272,Neuhausen,48.1563568,11.5314702,default,0.0,939
+273,Barbarastraße,48.1614503,11.5572047,default,0.0,939
+274,Rotkreuzplatz,48.1531116,11.5337572,default,0.0,939
+275,Barbarastraße,48.1613954,11.5578922,default,0.0,939
+276,Romanplatz,48.1556764,11.5124295,default,0.0,939
+277,Hubertusstraße,48.1559272,11.5196922,default,0.0,939
+278,Neuhausen,48.1562696,11.5315638,default,0.0,939
+279,Renatastraße,48.1565678,11.5263384,default,0.0,939
+280,Volkartstraße,48.1550706,11.5326795,default,0.0,939
+281,Rotkreuzplatz,48.153202,11.5343383,default,0.0,939
+282,Romanplatz,48.1552604,11.5114861,default,0.0,940
+282,Romanplatz,48.1552604,11.5114861,default,0.0,938
+283,Romanplatz,48.1547608,11.5113579,default,0.0,940
+283,Romanplatz,48.1547608,11.5113579,default,0.0,938
+284,Schloss Nymphenburg,48.157838,11.5114595,default,0.0,938
+285,Schloss Nymphenburg,48.1591553,11.5114844,default,0.0,938
+286,Dall'Armistraße,48.1611858,11.5114098,default,0.0,938
+287,Maria-Ward-Straße,48.164081,11.5059798,default,0.0,938
+288,Dall'Armistraße,48.1610078,11.5113839,default,0.0,938
+289,Maria-Ward-Straße,48.1639954,11.5061793,default,0.0,938
+290,Botanischer Garten,48.1644789,11.5023278,default,0.0,938
+291,Botanischer Garten,48.1644361,11.5029734,default,0.0,938
+292,Amalienburgstraße,48.1653825,11.4945262,default,0.0,938
+293,Amalienburgstraße,48.1657273,11.4940002,default,0.0,938
+294,Donnersbergerstraße,48.1461733,11.5367127,default,0.0,940
+294,Donnersbergerstraße,48.1461733,11.5367127,default,0.0,938
+295,Kriemhildenstraße,48.1521554,11.5154036,default,0.0,940
+295,Kriemhildenstraße,48.1521554,11.5154036,default,0.0,938
+296,Steubenplatz,48.1499802,11.5209796,default,0.0,940
+296,Steubenplatz,48.1499802,11.5209796,default,0.0,938
+297,Briefzentrum,48.1489885,11.5245382,default,0.0,940
+297,Briefzentrum,48.1489885,11.5245382,default,0.0,938
+298,Burghausener Straße,48.147201,11.5297933,default,0.0,940
+298,Burghausener Straße,48.147201,11.5297933,default,0.0,938
+299,Marsstraße,48.1449892,11.5420314,default,0.0,940
+299,Marsstraße,48.1449892,11.5420314,default,0.0,938
+300,Hopfenstraße,48.1422953,11.5546107,default,0.0,940
+300,Hopfenstraße,48.1422953,11.5546107,default,0.0,938
+301,Hauptbahnhof Nord,48.141313,11.5599858,default,0.0,940
+301,Hauptbahnhof Nord,48.141313,11.5599858,default,0.0,938
+302,Hackerbrücke,48.1436233,11.5484115,default,0.0,940
+302,Hackerbrücke,48.1436233,11.5484115,default,0.0,938
+303,Deroystraße,48.1443283,11.5450839,default,0.0,940
+303,Deroystraße,48.1443283,11.5450839,default,0.0,938
+304,Hopfenstraße,48.1423626,11.554411,default,0.0,940
+304,Hopfenstraße,48.1423626,11.554411,default,0.0,938
+305,Steubenplatz,48.1502458,11.5196337,default,0.0,940
+305,Steubenplatz,48.1502458,11.5196337,default,0.0,938
+306,Kriemhildenstraße,48.1522831,11.5152732,default,0.0,940
+306,Kriemhildenstraße,48.1522831,11.5152732,default,0.0,938
+307,Burghausener Straße,48.1472726,11.5295853,default,0.0,940
+307,Burghausener Straße,48.1472726,11.5295853,default,0.0,938
+308,Briefzentrum,48.1490919,11.5243306,default,0.0,940
+308,Briefzentrum,48.1490919,11.5243306,default,0.0,938
+309,Donnersbergerstraße,48.1463471,11.535036,default,0.0,940
+309,Donnersbergerstraße,48.1463471,11.535036,default,0.0,938
+310,Marsstraße,48.1450646,11.5418282,default,0.0,940
+310,Marsstraße,48.1450646,11.5418282,default,0.0,938
+311,Hauptbahnhof Nord,48.1413891,11.5597512,default,0.0,940
+311,Hauptbahnhof Nord,48.1413891,11.5597512,default,0.0,938
+312,Deroystraße,48.1442111,11.5457571,default,0.0,940
+312,Deroystraße,48.1442111,11.5457571,default,0.0,938
+313,Hackerbrücke,48.1436997,11.5481605,default,0.0,940
+313,Hackerbrücke,48.1436997,11.5481605,default,0.0,938
+314,Hohenzollernplatz,48.1611722,11.5679888,default,0.0,939
+314,Hohenzollernplatz,48.1611722,11.5679888,default,0.0,941
+315,Nordbad,48.161515,11.5635995,default,0.0,941
+316,Nordbad,48.1608963,11.5645399,default,0.0,939
+316,Nordbad,48.1608963,11.5645399,default,0.0,941
+317,Hohenzollernplatz,48.1611553,11.5682694,default,0.0,939
+317,Hohenzollernplatz,48.1611553,11.5682694,default,0.0,941
+318,Karl-Theodor-Straße,48.1666752,11.5740274,default,0.0,939
+318,Karl-Theodor-Straße,48.1666752,11.5740274,default,0.0,943
+319,Clemensstraße,48.1632738,11.5746116,default,0.0,939
+319,Clemensstraße,48.1632738,11.5746116,default,0.0,943
+320,Clemensstraße,48.1636505,11.5745077,default,0.0,939
+320,Clemensstraße,48.1636505,11.5745077,default,0.0,943
+321,Karl-Theodor-Straße,48.1668585,11.5740437,default,0.0,939
+321,Karl-Theodor-Straße,48.1668585,11.5740437,default,0.0,943
+322,Scheidplatz,48.1713217,11.5729756,default,0.0,939
+323,Scheidplatz,48.1713375,11.5730586,default,0.0,943
+324,Münchner Freiheit,48.1623953,11.5866102,default,0.0,942
+325,Potsdamer Straße,48.1666069,11.5862313,default,0.0,942
+326,Potsdamer Straße,48.1678143,11.5862422,default,0.0,942
+327,Parzivalplatz,48.1715687,11.5859126,default,0.0,942
+328,Parzivalplatz,48.1719132,11.5859311,default,0.0,942
+329,Am Münchner Tor,48.1762202,11.5883531,default,0.0,942
+330,Am Münchner Tor,48.176048,11.5882447,default,0.0,942
+331,Schwabing Nord,48.18665,11.5909661,default,0.0,942
+332,Schwabing Nord,48.1870064,11.591547,default,0.0,942
+333,Anni-Albers-Straße,48.179674,11.5891615,default,0.0,942
+334,Domagkstraße,48.1836311,11.590201,default,0.0,942
+335,Anni-Albers-Straße,48.179849,11.589251,default,0.0,942
+336,Domagkstraße,48.1839671,11.5903303,default,0.0,942
+337,Deutsches Museum,48.1318033,11.5862365,default,0.0,938
+338,Deutsches Museum,48.1318804,11.5860655,default,0.0,938

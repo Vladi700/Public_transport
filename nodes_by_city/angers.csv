@@ -1,0 +1,68 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Angers,10425,Avrillé - Ardenne,47.5115745,-0.5960781,light_rail,2011.0
+Angers,10426,Avrillé - Ardenne,47.5115928,-0.5960551,light_rail,2011.0
+Angers,10427,Bascule,47.508751,-0.5916579,light_rail,2011.0
+Angers,10428,Saint-Gilles,47.5065666,-0.5895201,light_rail,2011.0
+Angers,10429,Saint-Gilles,47.5065875,-0.589468,light_rail,2011.0
+Angers,10430,Capucins,47.4869526,-0.5551212,light_rail,2011.0
+Angers,10431,Hauts de Saint-Aubin,47.4921925,-0.5605963,light_rail,2011.0
+Angers,10432,Jean Moulin,47.4905451,-0.5521106,light_rail,2011.0
+Angers,10433,Verneau,47.4924666,-0.56727,light_rail,2011.0
+Angers,10434,Acacias,47.503713,-0.5863772,light_rail,2011.0
+Angers,10435,Acacias,47.5037316,-0.5863345,light_rail,2011.0
+Angers,10436,Bois du Roy,47.4996691,-0.5831547,light_rail,2011.0
+Angers,10437,Bois du Roy,47.4996855,-0.5831251,light_rail,2011.0
+Angers,10438,Plateau Mayenne,47.4958235,-0.5800448,light_rail,2011.0
+Angers,10439,Plateau Mayenne,47.4958048,-0.5800795,light_rail,2011.0
+Angers,10440,Terra Botanica,47.4941878,-0.5747714,light_rail,2011.0
+Angers,10441,Terra Botanica,47.4942082,-0.5747989,light_rail,2011.0
+Angers,10442,Verneau,47.4924949,-0.5672636,light_rail,2011.0
+Angers,10443,Hauts de Saint-Aubin,47.4922204,-0.5605924,light_rail,2011.0
+Angers,10444,Jean Moulin,47.4905368,-0.5520747,light_rail,2011.0
+Angers,10445,Capucins,47.4869382,-0.5550856,light_rail,2011.0
+Angers,10446,CHU-Hôpital,47.4814717,-0.5540423,light_rail,2011.0
+Angers,10447,CHU Hôpital,47.4814654,-0.5539975,light_rail,2011.0
+Angers,10448,Berges de Maine,47.4794654,-0.5495913,light_rail,2011.0
+Angers,10449,Berges de Maine,47.4794987,-0.5495676,light_rail,2011.0
+Angers,10450,Saint-Serge - Université,47.4768135,-0.5512707,light_rail,2011.0
+Angers,10451,Saint-Serge - Université,47.4767977,-0.5512355,light_rail,2011.0
+Angers,10452,Place Molière,47.4741799,-0.5546982,light_rail,2011.0
+Angers,10453,Molière,47.4741956,-0.5546752,light_rail,2011.0
+Angers,10454,Ralliement,47.4711714,-0.551633,light_rail,2011.0
+Angers,10455,Ralliement,47.4711829,-0.5516108,light_rail,2011.0
+Angers,10456,Foch - Haras,47.4668283,-0.5525889,light_rail,2011.0
+Angers,10457,Foch - Maison Bleue,47.4690062,-0.5496766,light_rail,2011.0
+Angers,10458,Foch - Haras,47.4668096,-0.5525632,light_rail,2011.0
+Angers,10459,Foch - Maison Bleue,47.4689834,-0.5496426,light_rail,2011.0
+Angers,10460,Les Gares,47.4645405,-0.5554409,light_rail,2011.0
+Angers,10461,Les Gares,47.4645436,-0.5554057,light_rail,2011.0
+Angers,10462,Place la Fayette,47.4608827,-0.5546546,light_rail,2011.0
+Angers,10463,Strasbourg,47.4576045,-0.5541079,light_rail,2011.0
+Angers,10464,Place la Fayette,47.4608791,-0.5547383,light_rail,2011.0
+Angers,10465,Strasbourg,47.4567331,-0.5539441,light_rail,2011.0
+Angers,10466,Strasbourg,47.4566548,-0.553975,light_rail,2011.0
+Angers,10467,Bamako,47.4521986,-0.5563881,light_rail,2011.0
+Angers,10468,Bamako,47.4521796,-0.5563519,light_rail,2011.0
+Angers,10469,Jean XXIII,47.4486486,-0.5628069,light_rail,2011.0
+Angers,10470,Jean Vilar,47.4449518,-0.562253,light_rail,2011.0
+Angers,10471,Jean XXIII,47.448663,-0.5628363,light_rail,2011.0
+Angers,10472,Angers - Roseraie,47.4438997,-0.5539623,light_rail,2011.0
+Angers,10473,Belle-Beille Technopôle,47.47857275355503,-0.60580761159639,light_rail,2022.0
+Angers,10474,Lakanal,47.47617214022364,-0.599342934399033,light_rail,2022.0
+Angers,10475,La Barre,47.4732447185186,-0.597728964589152,light_rail,2022.0
+Angers,10476,Patton,47.473396362575784,-0.591814884148846,light_rail,2022.0
+Angers,10477,Élysée,47.47354117001311,-0.586992145522288,light_rail,2022.0
+Angers,10478,Montesquieu,47.473229092705196,-0.577840311885893,light_rail,2022.0
+Angers,10479,Front-de-Maine,47.4716389378265,-0.567388052993692,light_rail,2022.0
+Angers,10480,Doutre,47.47406984658292,-0.560794414486622,light_rail,2022.0
+Angers,10481,Molière,47.47418067522571,-0.554677901800886,light_rail,2022.0
+Angers,10482,Saint-Serge Université,47.47682123825908,-0.551231597486378,light_rail,2022.0
+Angers,10483,Centre des Congrès,47.474239403454106,-0.546182493065658,light_rail,2022.0
+Angers,10484,Bellefontaine,47.471282946427266,-0.537808673760424,light_rail,2022.0
+Angers,10485,Montaigne,47.46902787019502,-0.532273601658716,light_rail,2022.0
+Angers,10486,Jérusalem,47.475313173019316,-0.528821523111446,light_rail,2022.0
+Angers,10487,Brisépotière,47.47895663251063,-0.528217886043308,light_rail,2022.0
+Angers,10488,Dunant,47.48370269656681,-0.526785362325626,light_rail,2022.0
+Angers,10489,Place de l'Europe,47.487903239577406,-0.526788569538752,light_rail,2022.0
+Angers,10490,Montplaisir,47.490999220182346,-0.527007881131198,light_rail,2022.0
+Angers,10491,Hôtel de Ville,47.47183255789446,-0.546589931773298,light_rail,2022.0

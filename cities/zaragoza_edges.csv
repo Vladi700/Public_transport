@@ -1,0 +1,6 @@
+nodeID_from,nodeID_to,line_id,year,mode
+1,4,321,0.0,commuter_rail
+1,2,321,0.0,commuter_rail
+2,3,321,0.0,commuter_rail
+4,5,321,0.0,commuter_rail
+5,6,321,0.0,commuter_rail

@@ -1,0 +1,24 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Turin,30984,Bernini,45.0760134,7.655793,heavy_rail,2006.0
+Turin,30985,Rivoli,45.0755394,7.6442201,heavy_rail,2006.0
+Turin,30986,Paradiso,45.0738513,7.6023968,heavy_rail,2006.0
+Turin,30987,XVIII Dicembre,45.0737719,7.668055,heavy_rail,2006.0
+Turin,30988,Porta Susa,45.0706476,7.6652976,heavy_rail,2007.0
+Turin,30989,Monte Grappa,45.0752393,7.6364023,heavy_rail,2006.0
+Turin,30990,Pozzo Strada,45.0749418,7.6291804,heavy_rail,2006.0
+Turin,30991,Massaua,45.0745688,7.62014,heavy_rail,2006.0
+Turin,30992,Marche,45.0743282,7.6147978,heavy_rail,2006.0
+Turin,30993,Racconigi,45.0757392,7.6490994,heavy_rail,2006.0
+Turin,30994,Fermi,45.0759955,7.591176,heavy_rail,2006.0
+Turin,30995,Principi D'Acaja,45.0763797,7.6646568,heavy_rail,2006.0
+Turin,30996,Porta Nuova,45.0627467,7.6789628,heavy_rail,2007.0
+Turin,30997,Dante,45.0469037,7.6728829,heavy_rail,2011.0
+Turin,30998,Spezia,45.0381379,7.6694758,heavy_rail,2011.0
+Turin,30999,Nizza,45.0514359,7.6746207,heavy_rail,2011.0
+Turin,31000,Marconi,45.0571422,7.6768522,heavy_rail,2011.0
+Turin,31001,Carducci-Molinette,45.0424484,7.6711553,heavy_rail,2011.0
+Turin,31002,Re Umberto,45.0644925,7.6741257,heavy_rail,2007.0
+Turin,31003,Vinzaglio,45.0672391,7.6664177,heavy_rail,2007.0
+Turin,31004,Lingotto,45.0314038,7.6668834,heavy_rail,2011.0
+Turin,31005,Bengasi,45.0169671,7.6613021,heavy_rail,2021.0
+Turin,31006,Italia '61 - Regione Piemonte,45.0246783,7.6642899,heavy_rail,2021.0

@@ -1,0 +1,28 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Tampere,37474,Hervantajärvi,61.4383409,23.8703809,light_rail,2021.0
+Tampere,37476,Etelä-Hervanta,61.44293994702207,23.858139544244,light_rail,2021.0
+Tampere,37478,Hervannan kampus,61.44705454049091,23.853211067561876,light_rail,2021.0
+Tampere,37480,Hervantakeskus,61.4501597,23.8498402,light_rail,2021.0
+Tampere,37481,Opiskelija,61.4539977,23.8467883,light_rail,2021.0
+Tampere,37483,Pohjois-Hervanta,61.4570807,23.8454797,light_rail,2021.0
+Tampere,37485,Hallila,61.4668775,23.8399109,light_rail,2021.0
+Tampere,37487,Turtola,61.4776058,23.8326372,light_rail,2021.0
+Tampere,37492,Hakametsä,61.4926059,23.8175279,light_rail,2021.0
+Tampere,37493,Kalevanrinne,61.494463,23.8125561,light_rail,2021.0
+Tampere,37495,Uintikeskus,61.4960594,23.8049515,light_rail,2021.0
+Tampere,37496,Kaleva,61.4975053,23.7963972,light_rail,2021.0
+Tampere,37497,Sammonaukio,61.4989872,23.7864646,light_rail,2021.0
+Tampere,37498,Hippos,61.50171,23.8010403,light_rail,2021.0
+Tampere,37500,Kalevan kirkko,61.5001989,23.7931477,light_rail,2021.0
+Tampere,37503,Tulli,61.498879,23.7792501,light_rail,2021.0
+Tampere,37505,Kaupin kampus,61.5048152,23.8213487,light_rail,2021.0
+Tampere,37508,TAYS,61.5037739,23.812418,light_rail,2021.0
+Tampere,37510,Rautatieasema,61.4984684,23.7712168,light_rail,2021.0
+Tampere,37512,Koskipuisto,61.4981515,23.766826,light_rail,2021.0
+Tampere,37514,Keskustori,61.4976322,23.7596852,light_rail,2021.0
+Tampere,37516,Sorin aukio,61.4951437,23.7694633,light_rail,2021.0
+Tampere,37517,Tuulensuu,61.497257,23.7545281,light_rail,2021.0
+Tampere,37519,Pyynikintori,61.4978665,23.7423906,light_rail,2021.0
+Tampere,37522,Särkänniemi,61.5004587,23.7373252,light_rail,2023.0
+Tampere,37523,Tikkutehdas,61.5037108,23.7221861,light_rail,2023.0
+Tampere,37524,Santalahti,61.5056653,23.7154569,light_rail,2023.0

@@ -1,0 +1,16 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Ottawa,8421,Carling,45.39739993745604,-75.70951997157265,light_rail,2001.0
+Ottawa,8422,Bayview,45.40899544024006,-75.72162988471396,light_rail,2001.0
+Ottawa,26528,Rideau O-Train West/Ouest,45.4263142,-75.6915036,light_rail,2019.0
+Ottawa,26529,Parliament/Parlement B,45.4212983,-75.6991027,light_rail,2019.0
+Ottawa,26532,Lyon ,45.4188602,-75.7047637,light_rail,2019.0
+Ottawa,32413,UOttawa O-Train West/Ouest,45.4205805,-75.6823488,light_rail,2019.0
+Ottawa,32414,Lees O-Train West/Ouest,45.4165481,-75.6708992,light_rail,2019.0
+Ottawa,32415,Hurdman O-Train West/Ouest,45.4123777,-75.6642459,light_rail,2019.0
+Ottawa,32416,Tremblay O-Train West/Ouest,45.4167808,-75.6536678,light_rail,2019.0
+Ottawa,32417,St-Laurent O-Train West/Ouest,45.4206771,-75.6373878,light_rail,2019.0
+Ottawa,32418,Cyrville O-Train West/Ouest,45.4227016,-75.6264401,light_rail,2019.0
+Ottawa,32419,Blair O-Train West/Ouest,45.4310388,-75.6083057,light_rail,2019.0
+Ottawa,32420,Pimisi O-Train West/Ouest,45.4137261,-75.7134687,light_rail,2019.0
+Ottawa,32421,Bayview O-Train West/Ouest,45.4093624,-75.7221505,light_rail,2019.0
+Ottawa,32423,Tunney's Pasture O-Train East/Est,45.4037118,-75.7352128,light_rail,2019.0

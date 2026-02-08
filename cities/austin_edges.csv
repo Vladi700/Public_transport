@@ -1,0 +1,14 @@
+nodeID_from,nodeID_to,line_id,year,mode
+1,2,2468,2008.0,commuter_rail
+2,3,2468,2008.0,commuter_rail
+3,4,2468,2008.0,commuter_rail
+4,5,2468,2008.0,commuter_rail
+5,6,2468,2008.0,commuter_rail
+6,7,2468,2008.0,commuter_rail
+7,8,2468,2008.0,commuter_rail
+8,9,2468,2008.0,commuter_rail
+10,15,4470,,bus
+11,12,4470,-1.0,bus
+12,13,4470,-1.0,bus
+13,14,4470,-1.0,bus
+14,15,4470,,bus

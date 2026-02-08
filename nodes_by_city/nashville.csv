@@ -1,0 +1,8 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Nashville,22994,Lebanon,36.21201528940159,-86.29726378779199,commuter_rail,2006.0
+Nashville,22995,Hamilton Springs,36.234668565134925,-86.36801834256761,commuter_rail,2018.0
+Nashville,22996,Martha,36.22888867895641,-86.42569110012629,commuter_rail,2006.0
+Nashville,22997,Mt. Juliet,36.19946773336977,-86.51687688462839,commuter_rail,2006.0
+Nashville,22998,Hermitage,36.189641102889766,-86.60610923827501,commuter_rail,2006.0
+Nashville,22999,Donelson,36.16706433292782,-86.66668615367388,commuter_rail,2006.0
+Nashville,23000,Riverfront,36.1620261357599,-86.77369051265532,commuter_rail,2006.0

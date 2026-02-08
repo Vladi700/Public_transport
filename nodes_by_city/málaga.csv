@@ -1,0 +1,48 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Málaga,34130,La Colina,36.6422042,-4.4923278,commuter_rail,1975.0
+Málaga,34131,Los Álamos,36.6447792,-4.4854917,commuter_rail,1975.0
+Málaga,34132,Plaza Mayor,36.6564381,-4.4803748,commuter_rail,1975.0
+Málaga,34133,Aeropuerto,36.6777273,-4.4901918,commuter_rail,2010.0
+Málaga,34135,Guadalhorce,36.692568782534664,-4.483042670714963,commuter_rail,2010.0
+Málaga,34136,Montemar Alto,36.613675,-4.5093271,commuter_rail,1975.0
+Málaga,34137,Torremolinos,36.6225303,-4.4995563,commuter_rail,1975.0
+Málaga,34138,El Pinillo,36.6098608,-4.5154498,commuter_rail,1975.0
+Málaga,34139,Benalmádena-Arroyo de la Miel,36.5990454,-4.5366187,commuter_rail,1975.0
+Málaga,34140,Torremuelle,36.5822914,-4.5670425,commuter_rail,1975.0
+Málaga,34141,Torreblanca,36.565014,-4.6065329,commuter_rail,
+Málaga,34142,Carvajal,36.5703732,-4.5938152,commuter_rail,1975.0
+Málaga,34143,Fuengirola,36.5417826,-4.6240324,commuter_rail,1975.0
+Málaga,34144,Los Boliches,36.5546391,-4.6146009,commuter_rail,1975.0
+Málaga,34145,Victoria Kent,36.700925,-4.4550723,commuter_rail,2009.0
+Málaga,34147,Los Prados,36.6984035,-4.4780388,commuter_rail,1975.0
+Málaga,34148,Campanillas,36.7051219,-4.5455411,commuter_rail,1975.0
+Málaga,34149,Cártama,36.733875,-4.6085747,commuter_rail,1975.0
+Málaga,34150,Aljaima,36.7328454,-4.6646969,commuter_rail,1975.0
+Málaga,34151,Pizarra,36.7642282,-4.7119741,commuter_rail,1975.0
+Málaga,34152,Álora,36.8197892,-4.6993946,commuter_rail,1975.0
+Málaga,34154,Málaga-María Zambrano,36.7108140286396,-4.432960063460071,commuter_rail,1975.0
+Málaga,34155,Málaga Centro-Alameda,36.715436,-4.4265781,commuter_rail,1975.0
+Málaga,34156,Ciudad de la Justicia,36.7180395,-4.4633269,light_rail,2014.0
+Málaga,34157,El Cónsul,36.7173414,-4.4840075,light_rail,2014.0
+Málaga,34158,La Unión,36.7106902,-4.4401039,light_rail,2014.0
+Málaga,34159,Andalucía Tech,36.7188267,-4.4944136,light_rail,2014.0
+Málaga,34160,Portada Alta,36.7193702,-4.4532671,light_rail,2014.0
+Málaga,34161,Clínico,36.716578,-4.4786253,light_rail,2014.0
+Málaga,34162,Paraninfo,36.7180137,-4.4887674,light_rail,2014.0
+Málaga,34163,Barbarela,36.7115832,-4.4460448,light_rail,2014.0
+Málaga,34164,Carranque,36.7186193,-4.4490899,light_rail,2014.0
+Málaga,34165,Universidad,36.7170474,-4.4722531,light_rail,2014.0
+Málaga,34166,El Perchel,36.71280870062591,-4.431725779706278,light_rail,2014.0
+Málaga,34167,La Isla,36.70790893312635,-4.435461760242248,light_rail,2014.0
+Málaga,34168,Princesa-Huelin,36.704128485508136,-4.440211404744332,light_rail,2014.0
+Málaga,34169,El Torcal,36.699624395672174,-4.445954378746961,light_rail,2014.0
+Málaga,34170,La Luz-La Paz,36.69538552837061,-4.451352379556028,light_rail,2014.0
+Málaga,34171,Puerta Blanca,36.69165659169735,-4.456096963429218,light_rail,2014.0
+Málaga,34172,Palacio de los Deportes,36.68438132921456,-4.458093544944347,light_rail,2014.0
+Málaga,34173,Aeropuerto,36.675681974998355,-4.487097756918587,commuter_rail,1975.0
+Málaga,34174,Terminal de Carga,36.67943250306617,-4.493257890587529,commuter_rail,1975.0
+Málaga,34175,Guadalhorce,36.69195400636765,-4.483759232103267,commuter_rail,1975.0
+Málaga,34176,Guadalmedina,36.71614722191319,-4.429653059441449,light_rail,2022.0
+Málaga,34177,Atarazanas,36.71743879175308,-4.424075659238071,light_rail,2022.0
+Málaga,34180,Estación,36.71104900202225,-4.431373864617484,tram,1885.0
+Málaga,34181,Alameda,36.717216146963565,-4.423320165066575,tram,1885.0

@@ -1,0 +1,4 @@
+nodeID_from,nodeID_to,mode,line_id,year
+23156,23153,bus,2766,
+23153,23155,bus,2766,
+23155,23154,bus,2766,

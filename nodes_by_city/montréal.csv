@@ -1,0 +1,82 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Montréal,8455,Jean-Drapeau,45.5124696,-73.5332474,heavy_rail,1967.0
+Montréal,34397,Longueuil–Université-de-Sherbrooke,45.5249659,-73.5219729,heavy_rail,1967.0
+Montréal,34398,Laurier,45.5282239,-73.5886089,heavy_rail,1966.0
+Montréal,34399,Rosemont,45.5315669,-73.5974076,heavy_rail,1966.0
+Montréal,34400,Beaubien,45.5351456,-73.6045785,heavy_rail,1966.0
+Montréal,34401,Crémazie,45.5460864,-73.6388299,heavy_rail,1966.0
+Montréal,34402,Sauvé,45.5510299,-73.6562646,heavy_rail,1966.0
+Montréal,34403,Henri-Bourassa,45.5544766,-73.6681515,heavy_rail,1966.0
+Montréal,34404,Cartier,45.5598434,-73.6820184,heavy_rail,2007.0
+Montréal,34405,Montmorency,45.5582856,-73.7215259,heavy_rail,2007.0
+Montréal,34406,De la Concorde,45.5606846,-73.7095564,heavy_rail,2007.0
+Montréal,34407,Jean-Talon,45.5392329,-73.6138264,heavy_rail,1966.0
+Montréal,34408,Jarry,45.5432411,-73.6286581,heavy_rail,1966.0
+Montréal,34409,Sherbrooke,45.5186543,-73.568089,heavy_rail,1966.0
+Montréal,34410,Mont-Royal,45.5247175,-73.5814435,heavy_rail,1966.0
+Montréal,34411,Berri-UQAM,45.51542234401362,-73.56100241707766,heavy_rail,1966.0
+Montréal,34412,Champ-de-Mars,45.510082,-73.5564161,heavy_rail,1966.0
+Montréal,34413,Bonaventure,45.4982692,-73.5670909,heavy_rail,1967.0
+Montréal,34414,Square-Victoria-OACI,45.5020325,-73.5631239,heavy_rail,1967.0
+Montréal,34415,Place d’Armes,45.5060634,-73.5597607,heavy_rail,1966.0
+Montréal,34416,Lucien L'Allier,45.4949933,-73.5709676,heavy_rail,1980.0
+Montréal,34417,Atwater,45.4896787,-73.5863126,heavy_rail,1966.0
+Montréal,34418,Charlevoix,45.4783949,-73.5693747,heavy_rail,1978.0
+Montréal,34419,Jolicoeur,45.4567536,-73.5819831,heavy_rail,1978.0
+Montréal,34420,Monk,45.4510513,-73.5932034,heavy_rail,1978.0
+Montréal,34421,LaSalle,45.4709055,-73.5661442,heavy_rail,1978.0
+Montréal,34422,De l'Église,45.4628739,-73.5669594,heavy_rail,1978.0
+Montréal,34423,Angrignon,45.4462277,-73.603611,heavy_rail,1978.0
+Montréal,34424,Verdun,45.4593131,-73.5718358,heavy_rail,1978.0
+Montréal,34425,Lionel-Groulx,45.4825047,-73.5803077,heavy_rail,1978.0
+Montréal,34426,Guy-Concordia,45.4953505,-73.5798146,heavy_rail,1966.0
+Montréal,34427,Peel,45.5005644,-73.5750245,heavy_rail,1966.0
+Montréal,34428,McGill,45.5040687,-73.5715335,heavy_rail,1966.0
+Montréal,34429,Place-des-Arts,45.5080372,-73.5683367,heavy_rail,1966.0
+Montréal,34430,Saint-Laurent,45.5109236,-73.5648225,heavy_rail,1966.0
+Montréal,34431,Papineau,45.5240492,-73.5529443,heavy_rail,1966.0
+Montréal,34432,Beaudry,45.519546,-73.5571887,heavy_rail,1966.0
+Montréal,34433,Frontenac,45.5329932,-73.552479,heavy_rail,1966.0
+Montréal,34435,Viau,45.5612107,-73.547217,heavy_rail,1976.0
+Montréal,34436,Préfontaine,45.541717,-73.5542209,heavy_rail,1976.0
+Montréal,34437,Joliette,45.5468903,-73.5511268,heavy_rail,1976.0
+Montréal,34438,Assomption,45.5691651,-73.5472116,heavy_rail,1976.0
+Montréal,34439,Cadillac,45.5768391,-73.5467179,heavy_rail,1976.0
+Montréal,34440,Langelier,45.5827497,-73.5431832,heavy_rail,1976.0
+Montréal,34441,Radisson,45.5891558,-73.53942,heavy_rail,1976.0
+Montréal,34442,Honoré-Beaugrand,45.5964086,-73.5354197,heavy_rail,1976.0
+Montréal,34443,Pie IX,45.5542002,-73.5515006,heavy_rail,1976.0
+Montréal,34444,Georges-Vanier,45.488977,-73.5765137,heavy_rail,1980.0
+Montréal,34445,Place Saint-Henri,45.4771907,-73.5866584,heavy_rail,1980.0
+Montréal,34446,Vendôme,45.4739214,-73.6037345,heavy_rail,1981.0
+Montréal,34447,Villa-Maria,45.4796142,-73.6197379,heavy_rail,1981.0
+Montréal,34448,Snowdon,45.4863069,-73.6274954,heavy_rail,1981.0
+Montréal,34449,Université-de-Montréal,45.5034516,-73.6175641,heavy_rail,1988.0
+Montréal,34450,Côte-des-Neiges,45.4966415,-73.6234712,heavy_rail,1988.0
+Montréal,34451,Édouard-Montpetit,45.510117755638696,-73.61256148070443,heavy_rail,1988.0
+Montréal,34452,Acadie,45.5232203,-73.6237717,heavy_rail,1988.0
+Montréal,34453,Parc,45.5304337,-73.6244545,heavy_rail,1987.0
+Montréal,34454,De Castelnau,45.5352841,-73.6200292,heavy_rail,1986.0
+Montréal,34455,Fabre,45.5467272,-73.607922,heavy_rail,1986.0
+Montréal,34456,D’Iberville,45.5530778,-73.6022739,heavy_rail,1986.0
+Montréal,34457,Saint-Michel,45.559813,-73.5999419,heavy_rail,1986.0
+Montréal,34458,Outremont,45.5200867,-73.6149036,heavy_rail,1988.0
+Montréal,34459,Côte-Sainte-Catherine,45.4923068,-73.6328648,heavy_rail,1982.0
+Montréal,34460,Namur,45.4948911,-73.6529005,heavy_rail,1984.0
+Montréal,34461,Plamondon,45.4943764,-73.6378267,heavy_rail,1982.0
+Montréal,34462,De La Savane,45.5002999,-73.6616085,heavy_rail,1984.0
+Montréal,34463,Du Collège,45.5084157,-73.6729484,heavy_rail,1984.0
+Montréal,34464,Côte-Vertu,45.5142831,-73.6833019,heavy_rail,1986.0
+Montréal,34465,Gare Centrale de Montréal,45.5010531,-73.5683514,light_rail,1943.0
+Montréal,35343,McGill,45.502576853427286,-73.57231874515595,light_rail,
+Montréal,35344,Du Quartier,45.44673773504189,-73.43348071608474,light_rail,
+Montréal,35345,Brossard,45.437972354558724,-73.43061627541103,light_rail,
+Montréal,35346,Panama,45.46489765229501,-73.47042766076423,light_rail,
+Montréal,35347,Île-des-Soeurs,45.470327564451026,-73.5384195584823,light_rail,
+Montréal,35348,Griffintown–Bernard-Landry,45.49636738575785,-73.55875587753019,light_rail,
+Montréal,35349,Canora,45.513777348732674,-73.63401649745765,light_rail,
+Montréal,35350,Ville-de-Mont-Royal,45.51653105150931,-73.64346258895094,light_rail,
+Montréal,35351,Côte-de-Liesse,45.52188130505337,-73.66195486411267,light_rail,
+Montréal,35352,Montpellier,45.524753802771954,-73.67200350920737,light_rail,
+Montréal,35353,Du Ruisseau,45.528946358317796,-73.69048191788578,light_rail,
+Montréal,35354,Bois-Franc,45.521992557471066,-73.71256021080278,light_rail,

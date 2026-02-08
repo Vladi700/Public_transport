@@ -1,0 +1,10 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Orleans,13632,Gare des Aubrais,47.9265153,1.9069593,light_rail,2000.0
+Orleans,13633,Gare des Aubrais,47.9265234,1.9070023,light_rail,2000.0
+Orleans,13634,Coligny,47.9160252,1.900368,light_rail,2000.0
+Orleans,13635,Coligny,47.9160228,1.9003287,light_rail,2000.0
+Orleans,13636,Gare d'Orléans,47.9067754,1.9052093,light_rail,2000.0
+Orleans,13637,Gare d'Orléans,47.906798,1.9052166,light_rail,2000.0
+Orleans,13638,,47.9014423,1.902857,light_rail,200.0
+Orleans,13639,,47.9010584,1.9028389,light_rail,2000.0
+Orleans,13640,,47.9013608,1.8930023,light_rail,2012.0

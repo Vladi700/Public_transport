@@ -1,0 +1,68 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Rennes,3708,J.F. Kennedy,48.12131851746396,-1.711233270405476,heavy_rail,2002.0
+Rennes,4189,Caserne de Guines,48.10210802515403,-1.684256059863996,light_rail,1897.0
+Rennes,4190,Place de Bretagne,48.10862727588922,-1.684204122530985,light_rail,1897.0
+Rennes,4191,Place de la Mairie,48.11134632441312,-1.679258036812257,light_rail,1897.0
+Rennes,4192,Rue de Bel Air,48.112392912812226,-1.672804531016055,light_rail,1897.0
+Rennes,4193,Faubourg de Paris,48.114617277729366,-1.656864969331565,light_rail,1897.0
+Rennes,4194,Rue de Paris,48.11244887444408,-1.668149154360774,light_rail,1897.0
+Rennes,4195,Octroi de Paris,48.11461434674024,-1.656863203737032,light_rail,1907.0
+Rennes,7623,J.F. Kennedy,48.1213127,-1.7112751,heavy_rail,2002.0
+Rennes,7624,Pontchaillou,48.1215715,-1.6934028,heavy_rail,2002.0
+Rennes,7625,Villejean-Université,48.1212281,-1.7039216,heavy_rail,2002.0
+Rennes,7626,Villejean-Université,48.1212538,-1.7039212,heavy_rail,2002.0
+Rennes,7627,Pontchaillou,48.1215446,-1.6933994,heavy_rail,2002.0
+Rennes,7628,Anatole France,48.1181234,-1.6876157,heavy_rail,2002.0
+Rennes,7629,Anatole France,48.1181479,-1.6875881,heavy_rail,2002.0
+Rennes,7630,Sainte-Anne,48.114524,-1.6805413,heavy_rail,2002.0
+Rennes,7631,Sainte-Anne,48.1145468,-1.6805088,heavy_rail,2002.0
+Rennes,7632,Sainte-Anne,48.1147155,-1.679925,heavy_rail,2020.0
+Rennes,7633,Sainte-Anne,48.1146999,-1.6799664,heavy_rail,2020.0
+Rennes,7634,République,48.1097583,-1.6791606,heavy_rail,2002.0
+Rennes,7635,République,48.1097595,-1.6792077,heavy_rail,2002.0
+Rennes,7636,Mabilais,48.1050577,-1.6928079,heavy_rail,2020.0
+Rennes,7637,Charles de Gaulle,48.1054507,-1.6768556,heavy_rail,2002.0
+Rennes,7638,Charles de Gaulle,48.105481,-1.6768429,heavy_rail,2002.0
+Rennes,7639,Colombier,48.1059472,-1.6818351,heavy_rail,2020.0
+Rennes,7640,Gares,48.1042018,-1.6720792,heavy_rail,2020.0
+Rennes,7641,Saint-Germain,48.1105462,-1.6760958,heavy_rail,2020.0
+Rennes,7642,Colombier,48.1059775,-1.6818453,heavy_rail,2020.0
+Rennes,7643,Gares,48.1042331,-1.6720876,heavy_rail,2020.0
+Rennes,7644,Mabilais,48.1050892,-1.6928094,heavy_rail,2020.0
+Rennes,7645,Saint-Germain,48.1105189,-1.6761185,heavy_rail,2020.0
+Rennes,7646,Gares,48.1038315,-1.6722505,heavy_rail,2002.0
+Rennes,7647,Gares,48.1038535,-1.6722168,heavy_rail,2002.0
+Rennes,7648,Jacques Cartier,48.0975447,-1.6754729,heavy_rail,2002.0
+Rennes,7649,Jacques Cartier,48.0975512,-1.6754269,heavy_rail,2002.0
+Rennes,7650,Clemenceau,48.093493,-1.6744399,heavy_rail,2002.0
+Rennes,7651,Clemenceau,48.093495,-1.6744009,heavy_rail,2002.0
+Rennes,7652,Henri Fréville,48.0876753,-1.6747983,heavy_rail,2002.0
+Rennes,7653,Henri Fréville,48.0876759,-1.6748324,heavy_rail,2002.0
+Rennes,7654,Italie,48.0865537,-1.6679201,heavy_rail,2002.0
+Rennes,7655,Italie,48.0865793,-1.6679205,heavy_rail,2002.0
+Rennes,7656,Triangle,48.0864251,-1.6603593,heavy_rail,2002.0
+Rennes,7657,Triangle,48.08645,-1.6603575,heavy_rail,2002.0
+Rennes,7658,Le Blosne,48.0877194,-1.6542818,heavy_rail,2002.0
+Rennes,7659,Le Blosne,48.0877451,-1.6542812,heavy_rail,2002.0
+Rennes,7660,La Poterie,48.0875085,-1.6445739,heavy_rail,2002.0
+Rennes,7661,La Poterie,48.0874766,-1.6445747,heavy_rail,2002.0
+Rennes,7662,Saint-Jacques – Gaîté,48.0919096,-1.7037673,heavy_rail,2020.0
+Rennes,7663,La Courrouze,48.0966907,-1.6986175,heavy_rail,2020.0
+Rennes,7664,La Courrouze,48.0966693,-1.698652,heavy_rail,2020.0
+Rennes,7665,Saint-Jacques – Gaîté,48.0919245,-1.7038084,heavy_rail,2020.0
+Rennes,7666,Cleunay,48.1009414,-1.7063902,heavy_rail,2020.0
+Rennes,7667,Cleunay,48.1009351,-1.7064366,heavy_rail,2020.0
+Rennes,7668,Gros Chêne,48.1251771,-1.6644029,heavy_rail,2020.0
+Rennes,7669,Jules Ferry,48.1186559,-1.6709285,heavy_rail,2020.0
+Rennes,7670,Les Gayeulles,48.1294075,-1.6571557,heavy_rail,2020.0
+Rennes,7671,Gros Chêne,48.1251862,-1.6644484,heavy_rail,2020.0
+Rennes,7672,Jules Ferry,48.1186873,-1.6709316,heavy_rail,2020.0
+Rennes,7673,Les Gayeulles,48.129439,-1.6571569,heavy_rail,2020.0
+Rennes,7674,Joliot-Curie,48.1240547,-1.6514405,heavy_rail,2020.0
+Rennes,7675,Joliot-Curie,48.1240596,-1.6513943,heavy_rail,2020.0
+Rennes,7676,Beaulieu-Université,48.1220396,-1.6394506,heavy_rail,2020.0
+Rennes,7677,Atalante,48.127132,-1.6281107,heavy_rail,2020.0
+Rennes,7678,Atalante,48.1271625,-1.6281205,heavy_rail,2020.0
+Rennes,7679,Beaulieu-Université,48.1220697,-1.6394646,heavy_rail,2020.0
+Rennes,7680,Viasilva,48.1329192,-1.6181477,heavy_rail,2020.0
+Rennes,7681,Viasilva,48.1329374,-1.6181865,heavy_rail,2020.0

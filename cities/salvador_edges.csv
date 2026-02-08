@@ -1,0 +1,17 @@
+nodeID_from,nodeID_to,line_id,year,mode
+1,2,1006,2014.0,default
+2,3,1006,2014.0,default
+3,4,1006,2015.0,default
+4,5,1006,2014.0,default
+5,6,1006,2014.0,default
+6,7,1006,2015.0,default
+4,8,1007,2014.0,default
+8,9,1007,2016.0,default
+9,10,1007,2016.0,default
+10,13,1007,2017.0,default
+11,13,1007,2017.0,default
+11,12,1007,2017.0,default
+12,14,1007,2017.0,default
+14,16,1007,2017.0,default
+15,17,1007,2017.0,default
+16,17,1007,2017.0,default

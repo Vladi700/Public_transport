@@ -1,0 +1,34 @@
+city,nodeID,nodeLabel,latitude,longitude,mode,year
+Dallas,32938,MedPark,33.1821088,-97.0899973,commuter_rail,2011.0
+Dallas,32939,Downtown Denton Transit Center,33.2141548,-97.1262265,commuter_rail,2011.0
+Dallas,32940,Highland Village/Lewisville Lake,33.0829047,-97.0258914,commuter_rail,2011.0
+Dallas,32941,Old Town,33.0477906,-96.9865721,commuter_rail,2011.0
+Dallas,32942,Hebron,33.0096999,-96.958127,commuter_rail,2011.0
+Dallas,32943,Trinity Mills,32.9803917,-96.9261764,commuter_rail,2011.0
+Dallas,32944,DFW Airport Terminal B station,32.9058001,-97.0412362,commuter_rail,2019.0
+Dallas,32945,Grapevine-Main Street,32.9337085,-97.0776417,commuter_rail,2019.0
+Dallas,32946,DFW Airport North,32.9338593,-97.0541304,commuter_rail,2019.0
+Dallas,32947,North Richland Hills/Smithfield,32.8651653,-97.2110877,commuter_rail,2019.0
+Dallas,32948,North Richland Hills/Iron Horse,32.8450826,-97.249292,commuter_rail,2019.0
+Dallas,32949,Mercantile Center,32.819626816175564,-97.2928773,commuter_rail,2019.0
+Dallas,32950,North Side,32.795759,-97.33812962743717,commuter_rail,2019.0
+Dallas,32953,Fort Worth Central,32.75199891196275,-97.32556,commuter_rail,2001.0
+Dallas,32953,Fort Worth Central,32.75199891196275,-97.32556,inter_city_rail,2001.0
+Dallas,32954,Fort Worth T&P,32.7453061,-97.3290014,commuter_rail,2001.0
+Dallas,32955,Richland Hills,32.7994628,-97.2235558,commuter_rail,2000.0
+Dallas,32956,Bell,32.8046278,-97.1557986,commuter_rail,2000.0
+Dallas,32958,CentrePort/DFW Airport,32.8170317,-97.0535845,commuter_rail,2000.0
+Dallas,32959,West Irving,32.8161381,-97.0077695,commuter_rail,2000.0
+Dallas,32960,Downtown Irving/Heritage Crossing,32.8149671,-96.9483675,commuter_rail,1996.0
+Dallas,32961,Medical/Market Center,32.8096364,-96.8410123,commuter_rail,1996.0
+Dallas,32962,Victory,32.7906901,-96.8129599,commuter_rail,1996.0
+Dallas,32963,Dallas Union Station,32.7754664,-96.8081122,commuter_rail,1996.0
+Dallas,32964,Las Colinas Urban Center,32.8689898,-96.9339077,light_rail,2012.0
+Dallas,32965,Irving Convention Center,32.8772468,-96.9390613,light_rail,2012.0
+Dallas,32966,North Lake College,32.8752017,-96.9677709,light_rail,2012.0
+Dallas,32968,Belt Line,32.8883732,-96.9869116,light_rail,2012.0
+Dallas,32971,DFW Airport,32.9066917,-97.0395254,light_rail,2014.0
+Dallas,32972,University of Dallas,32.8493576,-96.9154698,light_rail,2012.0
+Dallas,37293,Handley-Lake Erie Station,32.729599310712274,-97.21919954791257,inter_city_rail,1902.0
+Dallas,37294,Dallas Interurban Building Station,32.77928309805644,-96.79796125648097,inter_city_rail,1916.0
+Dallas,37304,Sherman Union Station,33.641140859031054,-96.60769454653551,inter_city_rail,1873.0

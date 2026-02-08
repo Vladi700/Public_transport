@@ -1,0 +1,8 @@
+nodeID_from,nodeID_to,mode,line_id,year
+19043,19044,light_rail,2146,
+19044,19043,light_rail,2147,
+19044,19043,light_rail,2148,
+19043,19044,tram,2149,
+19043,19045,tram,2150,
+19043,19048,tram,2153,
+19043,19045,tram,2154,
