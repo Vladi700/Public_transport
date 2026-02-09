@@ -8,11 +8,12 @@ from mesa.datacollection import DataCollector
 
 
 class Cohort:
-    __slots__ = ("mass", "node", "dest") #attributes
-    def __init__(self, mass, node, dest):
+    __slots__ = ("mass", "node", "dest", "route_index") #attributes
+    def __init__(self, mass, node, dest, route_index=0):
         self.mass = float(mass)
         self.node = node
         self.dest = dest
+        self.route_index = route_index
 
 class QueueModel(Model):
     def __init__(self, 
@@ -31,7 +32,9 @@ class QueueModel(Model):
                  seed=1,
                  alpha=1,
                  beta=1,
-                 eps=1e-6):
+                 eps=1e-6,
+                 congestion_threshold=100.0,
+                 num_alternative_routes=3):
         super().__init__()
         self.rng = np.random.default_rng(seed)
 
@@ -57,7 +60,7 @@ class QueueModel(Model):
         self.tick_seconds = tick_seconds
         self.running = True
         self.schedules = schedules   
-        self.L_dest = self._procompute_entry_dest_lengths()
+        self.L_dest = self._precompute_entry_dest_lengths()
         self.entry_p = self._gaussian_entry_probs(self.sigma_xy)
         self.node_queue_max = defaultdict(float)
         self.line_nodes = defaultdict(set)
@@ -66,6 +69,13 @@ class QueueModel(Model):
             if lid is not None:
                 self.line_nodes[lid].add(u)
                 self.line_nodes[lid].add(v)
+        
+        self.congestion_threshold = float(congestion_threshold)
+        self.congested_lines = set()
+        self.line_max_queues = defaultdict(float)
+        self.num_alternative_routes = int(num_alternative_routes)
+
+        self.alternative_routes = self._precompute_alternative_routes()
 
         self.tick = 0
         self.in_system = 0.0
@@ -103,7 +113,8 @@ class QueueModel(Model):
                 else 0.0
             ),
             "global_max_node_queue": lambda m: max(m.node_queue_max.values(), default=0.0),
-            "line_queue_mass": per_line_queue_mass
+            "line_queue_mass": per_line_queue_mass,
+            "congested_lines": lambda m: list(m.congested_lines)
         }
     )
 
@@ -146,7 +157,7 @@ class QueueModel(Model):
     def lambda_d(self, d, tick):
         return float(self.schedules[d].get(tick))
     
-    def _procompute_entry_dest_lengths(self):
+    def _precompute_entry_dest_lengths(self):
         lengths = {}
         for e in self.entry_nodes:
             dist_map = nx.single_source_dijkstra_path_length(self.H, e, weight=self.weight)
@@ -165,6 +176,7 @@ class QueueModel(Model):
                     best_d = d
                 closest[e] = best_d
         return closest
+    
     def _compute_next_hop(self):
         tables = {}
         for d in self.dest_nodes:
@@ -178,7 +190,76 @@ class QueueModel(Model):
             tables[d] = nh
         return tables 
     
+    def _precompute_alternative_routes(self):
+        routes = {}
+        for dest in self.dest_nodes:
+            for node in self.H.nodes:
+                if node == dest:
+                    continue
+                try:
+                    paths = list(nx.shortest_simple_paths(
+                        self.H, 
+                        node, 
+                        dest, 
+                        weight=self.weight
+                    ))
+                    for route_idx, path in enumerate(paths[:self.num_alternative_routes]):
+                        if len(path) > 1:
+                            routes[(node, dest, route_idx)] = path[1]
+                        else:
+                            routes[(node, dest, route_idx)] = None
+
+                        for route_idx in range(len(paths), self.num_alternative_routes):
+                            routes[(node, dest, route_idx)] = None
+                except (nx.NetworkXNoPath, nx.NodeNotFound):
+                    # No path exists
+                    for route_idx in range(self.num_alternative_routes):
+                        routes[(node, dest, route_idx)] = None
+                    
+        return routes
     
+    def get_next_hop(self, node, dest, route_index=0):
+        key = (node, dest, route_index)
+        if key in self.alternative_routes:
+            return self.alternative_routes[key]
+        if route_index > 0:
+            return self.get_next_hop(node, dest, 0)
+        return None
+    
+    def get_line_for_edge(self, u, v):
+        data = self.H.get_edge_data(u, v, default={})
+        return data.get("line_id")
+    
+    def is_line_congested(self, line_id):
+        return line_id in self.congested_lines
+    
+    def get_line_queue_mass(self, line_id):
+        q = 0.0
+        for n in self.line_nodes[line_id]:
+            q += sum(c.mass for c in self.waiting[n])
+        return q
+    
+    def update_congestion_status(self):
+        for line_id in self.line_nodes.keys():
+            current_q = self.get_line_queue_mass(line_id)
+            if current_q > self.line_max_queues[line_id]:
+                self.line_max_queues[line_id] = current_q
+            if current_q > self.congestion_threshold:
+                self.congested_lines.add(line_id)
+            elif line_id in self.congested_lines and current_q <= self.congestion_threshold:
+                self.congested_lines.remove(line_id)
+
+    def find_uncongested_route(self, node, dest, route_index=0):
+        for alt_idx in range(route_index, self.num_alternative_routes):
+            next_node = self.get_next_hop(node, dest, alt_idx)
+            if next_node is None:
+                continue
+            line_id = self.get_line_for_edge(node, next_node)
+            if not self.is_line_congested(line_id):
+                return next_node, alt_idx
+            next_node = self.get_next_hop(node, dest, route_index)
+            return next_node, route_index
+
     def edge_capacity(self, u, v):
         data = self.H.get_edge_data(u, v, default={})
         return data.get(self.cap_attr, float('inf'))
@@ -187,6 +268,8 @@ class QueueModel(Model):
         return sum(c.mass for c in self.waiting[node])
 
     def step(self):
+        self.update_congestion_status()
+
         total_expected = sum(float(self.schedules[d].get(self.tick, 0.0)) for d in self.dest_nodes)
         expected_cohorts = total_expected / self.cohort_mass
         k_total = self.rng.poisson(expected_cohorts) if expected_cohorts > 0 else 0
@@ -216,8 +299,9 @@ class QueueModel(Model):
             while q:
                 c = q[0]
                 dest = c.dest
+                route_idx = c.route_index
+                v, new_route_idx = self.find_uncongested_route(u, dest, route_idx)
 
-                v = self.next_hop.get(dest, {}).get(u)
                 if v is None:
                     break
 
@@ -233,6 +317,7 @@ class QueueModel(Model):
                     sent = c.mass
                     self.edge_flow_sum[(u, v)] += sent
                     c.node = v
+                    c.route_index = new_route_idx
                     moved_to[v].append(c)
                 else:
                     if sendable <=0:
@@ -240,11 +325,13 @@ class QueueModel(Model):
                     q.popleft()
                     sent = sendable
                     self.edge_flow_sum[(u, v)] += sent
-                    moved_to[v].append(Cohort(sendable, v, dest))
+                    moved_cohort = Cohort(sendable, v, dest, new_route_idx)
+                    moved_to[v].append(moved_cohort)
                     used_by_v[v] += sendable
 
                     remaining = c.mass - sendable
                     c.mass = remaining
+                    c.route_index = new_route_idx
                     q.appendleft(c)   # remainder stays, still FIFO
                     break
         for v, dq in moved_to.items():
