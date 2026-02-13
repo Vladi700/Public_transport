@@ -243,7 +243,8 @@ class QueueModel(Model):
                 self.node_queue_max[n] = qm
         self.datacollector.collect(self)
         self.tick += 1
-        if self.in_system <= 1e-9 and self.tick > 0:
+        if self.in_system <= 0.1 and self.tick > 0:
+            print(f"DEBUG: Setting running to False at tick {self.tick}")
             self.running = False
 
 
