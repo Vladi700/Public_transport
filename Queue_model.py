@@ -77,8 +77,6 @@ class QueueModel(Model):
         self.waiting = {n: deque() for n in self.H.nodes}
         self.entry_split = {n: 1.0 / len(self.entry_nodes) for n in self.entry_nodes}
 
-        
-
         self.next_hop = self._compute_next_hop()
         self.closest_dest_of_entry = self._closest_destination()
         def per_line_queue_mass(m):
@@ -122,29 +120,6 @@ class QueueModel(Model):
             return np.ones(len(self.entry_nodes), dtype=float) / len(self.entry_nodes)
         return w / Z
 
-    def dest_probs(self, e, tick, alpha=1.0, beta=1.0, eps=1e-6):
-    # candidate destinations reachable from e
-            Lmap = self.L_dest.get(e)
-            
-            dests = np.array(list(Lmap.keys()), dtype=object)
-            L    = np.array([Lmap[d] for d in dests], dtype=float)
-
-            lam  = np.array([float(self.schedules[d].get(tick, 0.0)) for d in dests], dtype=float)
-
-            # score = alpha*log(lam+eps) - beta*L
-            score = alpha * np.log(lam + eps) - beta * L
-
-            # stable softmax
-            score -= score.max()
-            w = np.exp(score)
-            Z = w.sum()
-            if Z <= 0:
-                return dests, np.ones_like(w) / len(w)
-            p = w / Z
-            return dests, p
-    
-    def lambda_d(self, d, tick):
-        return float(self.schedules[d].get(tick))
     
     def _procompute_entry_dest_lengths(self):
         lengths = {}
@@ -187,13 +162,13 @@ class QueueModel(Model):
         return sum(c.mass for c in self.waiting[node])
 
     def step(self):
-        total_expected = sum(float(self.schedules[d].get(self.tick, 0.0)) for d in self.dest_nodes)
+        total_expected = sum(float(self.schedules.get(self.tick, 0.0)))
         expected_cohorts = total_expected / self.cohort_mass
         k_total = self.rng.poisson(expected_cohorts) if expected_cohorts > 0 else 0
         for _ in range(k_total):
             e = self.rng.choice(list(self.entry_nodes), p=self.entry_p)  
 
-            dests, p = self.dest_probs(e, self.tick)           
+            dests = self._closest_destination(e)           
             if dests is None:
                 continue
             d = self.rng.choice(dests, p=p)
