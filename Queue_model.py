@@ -163,89 +163,88 @@ class QueueModel(Model):
         return sum(c.mass for c in self.waiting[node])
 
     def step(self):
-        while self.running == True:
-            print(f"Tick {self.tick}: in_system={self.in_system:.2f}, completed={self.completed:.2f}, injected={self.injected:.2f}")
-            total_expected = float(self.injection_schedule.get(self.tick, 0.0))
-            expected_cohorts = total_expected / self.cohort_mass
-            k_total = self.rng.poisson(expected_cohorts) if expected_cohorts > 0 else 0
-            for _ in range(k_total):
-                e_idx = self.rng.choice(len(self.entry_nodes), p=self.entry_p)
-                e = self.entry_nodes[e_idx]  
-                if e not in self.L_dest or not self.L_dest[e]:
-                    continue
-                dests = sorted(self.dest_nodes, key=lambda d: self.L_dest[e].get(d, float('inf')))        
-                if not dests:
-                    continue
-                d = dests[0]
+        print(f"Tick {self.tick}: in_system={self.in_system:.2f}, completed={self.completed:.2f}, injected={self.injected:.2f}")
+        total_expected = float(self.injection_schedule.get(self.tick, 0.0))
+        expected_cohorts = total_expected / self.cohort_mass
+        k_total = self.rng.poisson(expected_cohorts) if expected_cohorts > 0 else 0
+        for _ in range(k_total):
+            e_idx = self.rng.choice(len(self.entry_nodes), p=self.entry_p)
+            e = self.entry_nodes[e_idx]  
+            if e not in self.L_dest or not self.L_dest[e]:
+                continue
+            dests = sorted(self.dest_nodes, key=lambda d: self.L_dest[e].get(d, float('inf')))        
+            if not dests:
+                continue
+            d = dests[0]
 
-                c = Cohort(self.cohort_mass, e, d)
-                self.waiting[e].append(c)
-                self.in_system += c.mass
-                self.injected  += c.mass
-                
-                        
-            moved_to = defaultdict(deque) #que of cohorts arriving this tick at v
-            for u in list(self.H.nodes):
-                if u in self.dest_set:
-                    continue
+            c = Cohort(self.cohort_mass, e, d)
+            self.waiting[e].append(c)
+            self.in_system += c.mass
+            self.injected  += c.mass
+            
+                    
+        moved_to = defaultdict(deque) #que of cohorts arriving this tick at v
+        for u in list(self.H.nodes):
+            if u in self.dest_set:
+                continue
 
-                q = self.waiting[u]
-                if not q:
-                    continue
+            q = self.waiting[u]
+            if not q:
+                continue
 
-                used_by_v = defaultdict(float)
-                while q:
-                    c = q[0]
-                    dest = c.dest
+            used_by_v = defaultdict(float)
+            while q:
+                c = q[0]
+                dest = c.dest
 
-                    v = self.next_hop.get(dest, {}).get(u)
-                    if v is None:
+                v = self.next_hop.get(dest, {}).get(u)
+                if v is None:
+                    break
+
+                cap = float(self.edge_capacity(u, v))
+                used = used_by_v[v]
+                if used >= cap:
+                    break
+                sendable = cap - used
+
+                if c.mass <= sendable:
+                    q.popleft()
+                    used_by_v[v] += c.mass
+                    sent = c.mass
+                    self.edge_flow_sum[(u, v)] += sent
+                    c.node = v
+                    moved_to[v].append(c)
+                else:
+                    if sendable <=0:
                         break
+                    q.popleft()
+                    sent = sendable
+                    self.edge_flow_sum[(u, v)] += sent
+                    moved_to[v].append(Cohort(sendable, v, dest))
+                    used_by_v[v] += sendable
 
-                    cap = float(self.edge_capacity(u, v))
-                    used = used_by_v[v]
-                    if used >= cap:
-                        break
-                    sendable = cap - used
+                    remaining = c.mass - sendable
+                    c.mass = remaining
+                    q.appendleft(c)   # remainder stays, still FIFO
+                    break
+        for v, dq in moved_to.items():
+            self.waiting[v].extend(dq)
 
-                    if c.mass <= sendable:
-                        q.popleft()
-                        used_by_v[v] += c.mass
-                        sent = c.mass
-                        self.edge_flow_sum[(u, v)] += sent
-                        c.node = v
-                        moved_to[v].append(c)
-                    else:
-                        if sendable <=0:
-                            break
-                        q.popleft()
-                        sent = sendable
-                        self.edge_flow_sum[(u, v)] += sent
-                        moved_to[v].append(Cohort(sendable, v, dest))
-                        used_by_v[v] += sendable
-
-                        remaining = c.mass - sendable
-                        c.mass = remaining
-                        q.appendleft(c)   # remainder stays, still FIFO
-                        break
-            for v, dq in moved_to.items():
-                self.waiting[v].extend(dq)
-
-            for d in self.dest_set:
-                sink_q = self.waiting[d]
-                while sink_q:
-                    c = sink_q.popleft()
-                    self.completed += c.mass
-                    self.in_system -= c.mass
-            for n, q in self.waiting.items():
-                qm = sum(c.mass for c in q)
-                self.node_queue_sum[n] += sum(c.mass for c in q)
-                if qm > self.node_queue_max[n]:
-                    self.node_queue_max[n] = qm
-            self.datacollector.collect(self)
-            self.tick += 1
-            if self.in_system <= 1e-9 and self.tick > 0:
-                self.running = False
+        for d in self.dest_set:
+            sink_q = self.waiting[d]
+            while sink_q:
+                c = sink_q.popleft()
+                self.completed += c.mass
+                self.in_system -= c.mass
+        for n, q in self.waiting.items():
+            qm = sum(c.mass for c in q)
+            self.node_queue_sum[n] += sum(c.mass for c in q)
+            if qm > self.node_queue_max[n]:
+                self.node_queue_max[n] = qm
+        self.datacollector.collect(self)
+        self.tick += 1
+        if self.in_system <= 1e-9 and self.tick > 0:
+            self.running = False
 
 
-            assert abs(self.completed + self.in_system - self.injected) < 1e-6
+        assert abs(self.completed + self.in_system - self.injected) < 1e-6
