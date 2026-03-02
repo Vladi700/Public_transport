@@ -2,6 +2,7 @@ import networkx as nx
 import numpy as np
 from collections import defaultdict, deque
 
+from helper_functions import exponential_decay, logarithmic
 from mesa import Model
 from mesa.datacollection import DataCollector
 
@@ -42,6 +43,7 @@ class QueueModel(Model):
         self.eps = float(eps)
 
         self.pos = pos
+        self.sigma_xy_initial = sigma_xy
         self.sigma_xy = sigma_xy
         self.center = np.asarray(center, dtype=float)
         
@@ -107,7 +109,13 @@ class QueueModel(Model):
     )
 
 
-
+    #def _update_sigma_xy(self):
+     #   injection_end_tick = max(self.injection_schedule.keys())
+      #  if self.tick < injection_end_tick:
+       #     progress = self.tick / injection_end_tick
+        #    self.sigma_xy = self.sigma_xy_initial - (self.sigma_xy_initial - self.sigma_min) * progress
+        #else:
+         #   self.sigma_xy = self.sigma_min
     def _find_center(self):
         xy = np.array([self.pos[n] for n in self.entry_nodes], dtype=float)
         return xy.mean(axis=0)
@@ -152,7 +160,15 @@ class QueueModel(Model):
                 p = nx.shortest_path(self.H, u, d, weight=self.weight)
                 nh[u] = p[1]
             tables[d] = nh
-        return tables 
+        return tables
+
+    def _probability_to_walk(self, distance):
+        return np.exp((-0.9) * distance) / sum(np.exp((-0.9) * distance))
+    
+    def _probability_to_use_public_transport(self, distance):
+        return 1 - self._probability_to_walk(distance)
+    
+
     
     
     def edge_capacity(self, u, v):
