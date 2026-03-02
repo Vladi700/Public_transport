@@ -109,13 +109,14 @@ class QueueModel(Model):
     )
 
 
-    #def _update_sigma_xy(self):
-     #   injection_end_tick = max(self.injection_schedule.keys())
-      #  if self.tick < injection_end_tick:
-       #     progress = self.tick / injection_end_tick
-        #    self.sigma_xy = self.sigma_xy_initial - (self.sigma_xy_initial - self.sigma_min) * progress
-        #else:
-         #   self.sigma_xy = self.sigma_min
+    def _update_sigma_xy(self):
+        injection_end_tick = max(self.injection_schedule.keys())
+        if self.tick < injection_end_tick:
+            progress = self.tick / injection_end_tick
+            self.sigma_xy = self.sigma_xy_initial - (self.sigma_xy_initial - self.sigma_min) * progress
+        else:
+            self.sigma_xy = self.sigma_min
+    
     def _find_center(self):
         xy = np.array([self.pos[n] for n in self.entry_nodes], dtype=float)
         return xy.mean(axis=0)
@@ -149,6 +150,7 @@ class QueueModel(Model):
                     best_d = d
                 closest[e] = best_d
         return closest
+    
     def _compute_next_hop(self):
         tables = {}
         for d in self.dest_nodes:
@@ -167,9 +169,6 @@ class QueueModel(Model):
     
     def _probability_to_use_public_transport(self, distance):
         return 1 - self._probability_to_walk(distance)
-    
-
-    
     
     def edge_capacity(self, u, v):
         data = self.H.get_edge_data(u, v, default={})

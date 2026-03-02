@@ -290,9 +290,3 @@ def create_multilayer_graph(G, max_dist_km=0.7):
                                   edge_type="transfer")
 
     return H, label_to_mode_nodes
-
-def exponential_decay(d):
-    return np.exp((-0.9) * d) / sum(np.exp((-0.9) * d))
-
-def logarithmic(d):
-    return (1 - exponential_decay(d))
